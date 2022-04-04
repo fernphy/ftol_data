@@ -9,6 +9,10 @@ These files should not be edited by hand. Rather, the [`snapshot_ftol_data.R`](h
 For more information, please see the accompanying paper:
 - Nitta JH, Schuettpelz E, Ramírez-Barahona S, Iwasaki W. An open and continuously updated fern tree of life (FTOL) https://doi.org/10.1101/2022.03.31.486640 
 
+## Data format
+
+For information about data files, see [ftol_data_README.txt](ftol_data_README.txt).
+
 ## Commit messages
 
 The commit messages in this repo have a special format. They have two parts, `code` and `comment`.
