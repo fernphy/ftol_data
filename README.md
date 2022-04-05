@@ -43,9 +43,11 @@ These data are also available via the [ftolr](https://github.com/fernphy/ftolr) 
 
 If you use this dataset, please cite it! Here is a recommended citation:
 
-```
-FTOL working group. (2022). Fern Tree of Life (FTOL) data v1.0.0. https://doi.org/10.5281/zenodo.6413219
-```
+    FTOL working group. (2022). Fern Tree of Life (FTOL) data v1.0.0. https://doi.org/10.5281/zenodo.6413219
+
+Please also cite the paper describing how the data were generated:
+
+    Nitta JH, Schuettpelz E, Ramírez-Barahona S, Iwasaki W. An open and continuously updated fern tree of life (FTOL) https://doi.org/10.1101/2022.03.31.486640 
 
 ## License
 
