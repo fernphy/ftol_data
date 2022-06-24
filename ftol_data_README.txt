@@ -1,4 +1,4 @@
-This ftol_data_README.txt file was generated on 2022-04-04 by Joel Nitta
+This ftol_data_README.txt file was generated on 2022-06-24 by Joel Nitta
 
 --------------------------------------------------------------------------------
 
@@ -6,24 +6,24 @@ GENERAL INFORMATION
 
 --------------------------------------------------------------------------------
 
-Title of Dataset: Fern Tree of Life (FTOL) and associated data
+Title of Dataset: Fern Tree of Life (FTOL) data
 
 Principal Investigator: Joel H. Nitta
 
-Department of Biological Sciences, Graduate School of Science, The University of
-Tokyo, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan joelnitta@gmail.com
+Department of Integrated Biosciences, Graduate School of Frontier Sciences, The
+University of Tokyo, Chiba, Japan. joelnitta@gmail.com
 
 Associate or Co-investigators: Eric Schuettpelz, Santiago Ramírez-Barahona,
 Wataru Iwasaki
 
-Date of data collection: 1990 - 2021
+Date of data collection: 1990 - 2022
 
 Geographic location of data collection: Global
 
 Information about funding sources that supported the collection of the data:
 Funding provided in part by the Japan Society for the Promotion of Science
-(Kakenhi) Grant Number 16H06279 and the Smithsonian National Museum of Natural
-History Peter Buck Fellowship (JHN).
+(Kakenhi) Grant numbers 16H06279, 22H04925, and 22K15171 and the Smithsonian
+National Museum of Natural History Peter Buck Fellowship (JHN).
 
 --------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ Links/relationships to ancillary data sets:
 
 -   ferncal (https://github.com/fernphy/ferncal)
 -   pteridocat (https://github.com/fernphy/pteridocat)
--   FTOL input data (https://doi.org/10.6084/m9.figshare.19474316.v1)
+-   FTOL input data (https://doi.org/10.6084/m9.figshare.19474316)
 
 Was data derived from another source? Yes, in part from GenBank
 (https://www.ncbi.nlm.nih.gov/genbank/), which places no restrictions on its use
@@ -53,8 +53,8 @@ or distribution.
 
 Recommended citation for this dataset:
 
-FTOL Working Group (2022). Fern Tree of Life (FTOL) input data. FIXME: add DOI
-when available
+FTOL Working Group (2022). Fern Tree of Life (FTOL) data.
+https://doi.org/10.5281/zenodo.6413218
 
 --------------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ ftol_acc_table_long.csv: GenBank accessions used in the FTOL, long format.
 
 Number of variables: 8
 
-Number of cases/rows: 14651
+Number of cases/rows: 15023
 
 Variable list:
 
@@ -160,7 +160,7 @@ Missing data codes: No missing data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 76047ae746a7a1bbf7cb11316ca13867
+MD5 checksum: b8d1fb37053489b60eaefd653b384270
 
 --------------------------------------------------------------------------------
 
@@ -168,7 +168,7 @@ ftol_acc_table_wide.csv: GenBank accessions used in FTOL, wide format.
 
 Number of variables: 13
 
-Number of cases/rows: 5583
+Number of cases/rows: 5603
 
 Variable list:
 
@@ -190,35 +190,36 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 0e818a995aeaaed5b411eb7045e4616e
+MD5 checksum: b08efe0b921b0a42bbcfbb37423cab6a
 
 --------------------------------------------------------------------------------
 
 ftol_plastome_alignment.fasta.gz: Aligned plastome DNA sequences used to build
 FTOL. In compressed (tar.gz) FASTA format. Includes 79 concatenated loci. The
 start and end position (column) of each locus is given in
-ftol_plastome_parts.csv.
+ftol_plastome_parts.csv. DNA sequences obtained from GenBank release 249
+(https://ftp.ncbi.nlm.nih.gov/genbank/).
 
-Number of bases (columns): 74674
+Number of bases (columns): 74883
 
-Number of rows (taxa): 429
+Number of rows (taxa): 442
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: da6946973c5e2a4334892790206e0a4f
+MD5 checksum: d1866dd4ccc9b780040c007d81556e41
 
 --------------------------------------------------------------------------------
 
 ftol_plastome_con.tre: FTOL backbone phylogeny. Inferred using
 maximum-likelihood from DNA sequences in ftol_plastome_alignment.fasta.gz.
-Extended majority-rule consensus of 1000 bootstrap trees. Rooted on bryophytes.
-In newick format.
+Extended majority-rule consensus of 1000 bootstrap trees. Rooted on algae
+(Zygnema). In newick format.
 
-Number of tips: 429
+Number of tips: 442
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 24a3293bb0e8cf5bf095558b951561a7
+MD5 checksum: 3bf6b1682b9be4ed8ff9a90ffed7a193
 
 --------------------------------------------------------------------------------
 
@@ -239,42 +240,44 @@ Missing data codes: None.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: c0a11e1965de8e4c46f697da1c2607a8
+MD5 checksum: 02400aba97f5235116f93a49072bdb34
 
 --------------------------------------------------------------------------------
 
 ftol_sanger_alignment.fasta.gz: Aligned (mostly) Sanger DNA sequences used to
 build FTOL. In compressed (tar.gz) FASTA format. Includes 7 concatenated loci.
 The start and end position (column) of each locus is given in
-ftol_sanger_parts.csv.
+ftol_sanger_parts.csv. DNA sequences obtained from GenBank release 249
+(https://ftp.ncbi.nlm.nih.gov/genbank/).
 
-Number of bases (columns): 12118
+Number of bases (columns): 12716
 
-Number of rows (taxa): 5581
+Number of rows (taxa): 5601
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 61a60db4d2d412e2f76af2a5a157836c
+MD5 checksum: 5c77d6a19b985657c964d250f47f16f9
 
 --------------------------------------------------------------------------------
 
 ftol_sanger_con_dated.tre: FTOL dated consensus phylogeny. Inferred using
 maximum-likelihood from DNA sequences in ftol_plastome_alignment.fasta.gz.
-Extended majority-rule consensus of 1000 bootstrap trees. Rooted on bryophytes.
-Divergence times estimated with fossil calibration points
-(ftol_sanger_con_fossils.csv) using treePL. In newick format.
+Extended majority-rule consensus of 1000 bootstrap trees. Rooted on algae
+(Zygnema), which was pruned before dating. Divergence times estimated with
+fossil calibration points (ftol_sanger_con_fossils.csv) using treePL. In newick
+format.
 
-Number of tips: 5581
+Number of tips: 5600
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: baf2d8b00c46ece96e1af350ac56c4e0
+MD5 checksum: 27f9680c7d94843fe2329f0e1b1b7a26
 
 --------------------------------------------------------------------------------
 
 ftol_sanger_con_fossils.csv: Fossil calibration points used for dating FTOL
 consensus phylogeny. A subset of fossil data contained in the ‘ferncal’ fossil
-database, v.1.0.0 (https://doi.org/10.5281/zenodo.6395323).
+database, v1.0.1 (https://doi.org/10.5281/zenodo.6395322).
 
 The fossils in ‘ftol_sanger_con_fossils.csv’ and ‘ftol_sanger_ml_fossils.csv’
 are the same, but the node each calibrates may differ between the trees because
@@ -291,7 +294,7 @@ Does not include the constraint on the root of the tree (landplants; 475 Ma).
 
 Number of variables: 12
 
-Number of cases/rows: 66
+Number of cases/rows: 52
 
 Variable list:
 
@@ -303,7 +306,7 @@ Variable list:
 -   affinities_group: Type of group the fossil belongs to (crown or stem)
 -   affinities: Narrowest clade the fossil belongs to; the clade whose date is
     constrained by the fossil
--   monophyly: Are the affinities monophyletic? ‘Yes,’ ‘No,’ or ‘Monotypic’
+-   monophyly: Are the affinities monophyletic? ‘Yes’, ‘No’, or ‘Monotypic’
 -   number_tips: Number of tips in the clade constrained by the fossil
 -   mrca: Node number of MRCA for the clade constrained by the fossil
 -   stem_mrca: Node number of the parent node of the MRCA for the clade
@@ -316,38 +319,39 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: bab06778b3cb320cb2664c0515205eb0
+MD5 checksum: 82f5c1c7ae7909ac601f18900e0fe035
 
 --------------------------------------------------------------------------------
 
 ftol_sanger_con.tre: FTOL consensus phylogeny. Inferred using maximum-likelihood
 from DNA sequences in ftol_plastome_alignment.fasta.gz. Extended majority-rule
-consensus of 1000 bootstrap trees. Rooted on bryophytes. In newick format.
+consensus of 1000 bootstrap trees. Rooted on algae (Zygnema). In newick format.
 
-Number of tips: 5581
+Number of tips: 5601
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 09890cc6b8c752782b306324031f6125
+MD5 checksum: 3357ff3f323063f8ea11281e9402a591
 
 --------------------------------------------------------------------------------
 
 ftol_sanger_ml_dated.tre: FTOL dated maximum-likelihood phylogeny. Inferred
 using maximum-likelihood from DNA sequences in ftol_plastome_alignment.fasta.gz.
-Rooted on bryophytes. Divergence times estimated with fossil calibration points
-(ftol_sanger_con_fossils.csv) using treePL. In newick format.
+Rooted on algae (Zygnema), which was pruned before dating. Divergence times
+estimated with fossil calibration points (ftol_sanger_con_fossils.csv) using
+treePL. In newick format.
 
-Number of tips: 5581
+Number of tips: 5600
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: e806b8d346e7fb0c77b06c32fd6b8fca
+MD5 checksum: 1c59e38628c15cc93741774e64f67488
 
 --------------------------------------------------------------------------------
 
 ftol_sanger_ml_fossils.csv: Fossil calibration points used for dating FTOL
 maximum-likelihood phylogeny. A subset of fossil data contained in the ‘ferncal’
-fossil database, v.1.0.0 (https://doi.org/10.5281/zenodo.6395323).
+fossil database, v1.0.1 (https://doi.org/10.5281/zenodo.6395322).
 
 The fossils in ‘ftol_sanger_con_fossils.csv’ and ‘ftol_sanger_ml_fossils.csv’
 are the same, but the node each calibrates may differ between the trees because
@@ -359,7 +363,7 @@ Does not include the constraint on the root of the tree (landplants; 475 Ma).
 
 Number of variables: 12
 
-Number of cases/rows: 66
+Number of cases/rows: 52
 
 Variable list: See entry for ftol_sanger_con_fossils.csv
 
@@ -367,19 +371,19 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: bab06778b3cb320cb2664c0515205eb0
+MD5 checksum: 82f5c1c7ae7909ac601f18900e0fe035
 
 --------------------------------------------------------------------------------
 
 ftol_sanger_ml.tre: FTOL maximum-likelihood phylogeny. Inferred using
 maximum-likelihood from DNA sequences in ftol_plastome_alignment.fasta.gz.
-Rooted on bryophytes. In newick format.
+Rooted on algae (Zygnema). In newick format.
 
-Number of tips: 5581
+Number of tips: 5601
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 09890cc6b8c752782b306324031f6125
+MD5 checksum: 3357ff3f323063f8ea11281e9402a591
 
 --------------------------------------------------------------------------------
 
@@ -400,7 +404,7 @@ Missing data codes: None.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: e70315c2c36169da38cbac7024a6c0d7
+MD5 checksum: d3410123bc60164a70031561ad112953
 
 --------------------------------------------------------------------------------
 
@@ -408,7 +412,7 @@ ftol_sanger_sampling.csv: Taxonomic data of species in FTOL.
 
 Number of variables: 9
 
-Number of cases/rows: 5581
+Number of cases/rows: 5601
 
 Variable list:
 
@@ -426,11 +430,18 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: dee9b1b2f3cc5322a775470a0d1b5832
+MD5 checksum: 23a7e798b7dac427d18311829e7d063d
 
 --------------------------------------------------------------------------------
 
 CHANGE LOG
+
+2022-06-24
+
+-   Update title, date of collection, affiliation, citation, and funding sources
+-   Change taxon used for rooting tree to algae (Zygnema)
+-   Add GenBank data version
+-   Don’t hardcode fossil database version
 
 2022-04-04
 
