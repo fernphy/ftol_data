@@ -47,9 +47,11 @@ Actiniopteris_semiflabellata,rbcL,KJ416326,1309,Actiniopteris semiflabellata Pic
 Actiniopteris_semiflabellata,rps4,KJ416353,576,Actiniopteris semiflabellata Pic. Serm.,Actiniopteris semiflabellata Pic.Serm.,1224206,FALSE
 Actiniopteris_semiflabellata,rps4-trnS,KJ416353,541,Actiniopteris semiflabellata Pic. Serm.,Actiniopteris semiflabellata Pic.Serm.,1224206,FALSE
 Actiniopteris_semiflabellata,trnL-trnF,KM008015,559,Actiniopteris semiflabellata Pic. Serm.,Actiniopteris semiflabellata Pic.Serm.,1224206,FALSE
-Actinostachys_confusa,rbcL,AJ303403,1286,Actinostachys confusa (Selling) C. F. Reed,Schizaea confusa Selling,148573,FALSE
-Actinostachys_digitata,rbcL,AJ303405,1290,Actinostachys digitata (L.) Wall. ex C. F. Reed,Actinostachys digitata (L.) Wall.,32179,FALSE
-Actinostachys_laevigata,rbcL,AJ303404,1325,Actinostachys laevigata (Mett.) C. F. Reed,Actinostachys laevigata (Mett.) C.F.Reed,148575,FALSE
+Actinostachys_confusa,rbcL,ON368154,1347,Actinostachys confusa (Selling) C. F. Reed,Schizaea confusa Selling,148573,FALSE
+Actinostachys_digitata,plastome,ON207049,52540,Actinostachys digitata (L.) Wall. ex C. F. Reed,Actinostachys digitata (L.) Wall.,32179,FALSE
+Actinostachys_laevigata,rbcL,ON368123,1325,Actinostachys laevigata (Mett.) C. F. Reed,Actinostachys laevigata (Mett.) C.F.Reed,148575,FALSE
+Actinostachys_laevigata,rps4,DQ390583,603,Actinostachys laevigata (Mett.) C. F. Reed,Actinostachys laevigata (Mett.) C.F.Reed,148575,FALSE
+Actinostachys_laevigata,rps4-trnS,DQ390583,100,Actinostachys laevigata (Mett.) C. F. Reed,Actinostachys laevigata (Mett.) C.F.Reed,148575,FALSE
 Actinostachys_pennula,plastome,KU764518,49265,Actinostachys pennula (Sw.) Hook.,Actinostachys pennula (Sw.) Hook.,148577,FALSE
 Actinostachys_subtrijuga,rbcL,AJ303400,1296,Actinostachys subtrijuga (Mart.) C. Presl,Actinostachys subtrijuga (Mart.) C.Presl,148581,FALSE
 Acystopteris_japonica,plastome,MT130696,67616,Acystopteris japonica (Luerss.) Nakai,Acystopteris japonica (Luerss.) Nakai,86705,FALSE
@@ -81,10 +83,10 @@ Adenophorus_sarmentosus,trnL-trnF,AF469790,283,Adenophorus sarmentosus (Brack.) 
 Adenophorus_tamariscinus,atpB,AF469781,1266,Adenophorus tamariscinus var. montanus (Hillebr.) Bishop,Adenophorus montanus (Hillebr.) W.H.Wagner,185463,FALSE
 Adenophorus_tamariscinus,rbcL,AF468205,1311,Adenophorus tamariscinus var. montanus (Hillebr.) Bishop,Adenophorus montanus (Hillebr.) W.H.Wagner,185463,FALSE
 Adenophorus_tamariscinus,trnL-trnF,AF469794,283,Adenophorus tamariscinus var. montanus (Hillebr.) Bishop,Adenophorus montanus (Hillebr.) W.H.Wagner,185463,FALSE
-Adenophorus_tenellus,atpA,EF463820,1506,Adenophorus tenellus (Kaulf.) Ranker,Grammitis tenella Kaulf.,185470,FALSE
-Adenophorus_tenellus,atpB,AF469773,1266,Adenophorus tenellus (Kaulf.) Ranker,Grammitis tenella Kaulf.,185470,FALSE
-Adenophorus_tenellus,rbcL,AF468198,1311,Adenophorus tenellus (Kaulf.) Ranker,Grammitis tenella Kaulf.,185470,FALSE
-Adenophorus_tenellus,trnL-trnF,AF469786,280,Adenophorus tenellus (Kaulf.) Ranker,Grammitis tenella Kaulf.,185470,FALSE
+Adenophorus_tenellus,atpA,EF463820,1506,Adenophorus tenellus (Kaulf.) Ranker,Adenophorus tenellus (Kaulf.) Ranker,2853614,FALSE
+Adenophorus_tenellus,atpB,AF469773,1266,Adenophorus tenellus (Kaulf.) Ranker,Adenophorus tenellus (Kaulf.) Ranker,2853614,FALSE
+Adenophorus_tenellus,rbcL,AF468198,1311,Adenophorus tenellus (Kaulf.) Ranker,Adenophorus tenellus (Kaulf.) Ranker,2853614,FALSE
+Adenophorus_tenellus,trnL-trnF,AF469786,280,Adenophorus tenellus (Kaulf.) Ranker,Adenophorus tenellus (Kaulf.) Ranker,2853614,FALSE
 Adenophorus_tripinnatifidus,atpB,AF469783,1266,Adenophorus tripinnatifidus Gaudich.,Adenophorus tripinnatifidus Gaudich.,185467,FALSE
 Adenophorus_tripinnatifidus,rbcL,AF468207,1311,Adenophorus tripinnatifidus Gaudich.,Adenophorus tripinnatifidus Gaudich.,185467,FALSE
 Adenophorus_tripinnatifidus,trnL-trnF,AF469796,283,Adenophorus tripinnatifidus Gaudich.,Adenophorus tripinnatifidus Gaudich.,185467,FALSE
@@ -212,12 +214,7 @@ Adiantum_chilense,rbcL,JF935336,1251,Adiantum chilense Kaulf.,Adiantum chilense 
 Adiantum_chilense,rps4,JF980602,571,Adiantum chilense Kaulf.,Adiantum chilense Kaulf.,1073776,FALSE
 Adiantum_chilense,rps4-trnS,JF980602,543,Adiantum chilense Kaulf.,Adiantum chilense Kaulf.,1073776,FALSE
 Adiantum_chilense,trnL-trnF,JF980681,837,Adiantum chilense Kaulf.,Adiantum chilense Kaulf.,1073776,FALSE
-Adiantum_ciliatum,atpA,KP637180,1751,Adiantum ciliatum Blume,Adiantum malesianum J.Ghatak,451080,FALSE
-Adiantum_ciliatum,atpB,KP637195,1253,Adiantum ciliatum Blume,Adiantum malesianum J.Ghatak,451080,FALSE
-Adiantum_ciliatum,rbcL,KP637231,1275,Adiantum ciliatum Blume,Adiantum malesianum J.Ghatak,451080,FALSE
-Adiantum_ciliatum,rps4,KP637246,571,Adiantum ciliatum Blume,Adiantum malesianum J.Ghatak,451080,FALSE
-Adiantum_ciliatum,rps4-trnS,KP637246,177,Adiantum ciliatum Blume,Adiantum malesianum J.Ghatak,451080,FALSE
-Adiantum_ciliatum,trnL-trnF,KP637261,793,Adiantum ciliatum Blume,Adiantum malesianum J.Ghatak,451080,FALSE
+Adiantum_ciliatum,plastome,ON076014,66579,Adiantum ciliatum Blume,Adiantum malesianum J.Ghatak,451080,FALSE
 Adiantum_cinnamomeum,atpA,MH019332,641,Adiantum cinnamomeum Lellinger & J. Prado,Adiantum cinnamomeum Lellinger & J.Prado,1481296,FALSE
 Adiantum_cinnamomeum,rbcL,MH019550,1309,Adiantum cinnamomeum Lellinger & J. Prado,Adiantum cinnamomeum Lellinger & J.Prado,1481296,FALSE
 Adiantum_comorense,atpA,MH019334,1506,Adiantum comorense (Tardieu) Verdc.,Adiantum comorense (Tardieu) Verdc.,2420095,FALSE
@@ -295,12 +292,7 @@ Adiantum_fengianum,rbcL,MH019568,1309,Adiantum fengianum Ching,Adiantum fengianu
 Adiantum_fengianum,rps4,JF980571,571,Adiantum fengianum Ching,Adiantum fengianum Ching,1073782,FALSE
 Adiantum_fengianum,rps4-trnS,JF980571,483,Adiantum fengianum Ching,Adiantum fengianum Ching,1073782,FALSE
 Adiantum_fengianum,trnL-trnF,JF980656,916,Adiantum fengianum Ching,Adiantum fengianum Ching,1073782,FALSE
-Adiantum_flabellulatum,atpA,JF937270,1749,Adiantum flabellulatum L.,Adiantum flabellulatum L.,872337,FALSE
-Adiantum_flabellulatum,atpB,JF935396,1265,Adiantum flabellulatum L.,Adiantum flabellulatum L.,872337,FALSE
-Adiantum_flabellulatum,rbcL,JF935315,1273,Adiantum flabellulatum L.,Adiantum flabellulatum L.,872337,FALSE
-Adiantum_flabellulatum,rps4,JF980579,571,Adiantum flabellulatum L.,Adiantum flabellulatum L.,872337,FALSE
-Adiantum_flabellulatum,rps4-trnS,JF980579,516,Adiantum flabellulatum L.,Adiantum flabellulatum L.,872337,FALSE
-Adiantum_flabellulatum,trnL-trnF,JF980663,872,Adiantum flabellulatum L.,Adiantum flabellulatum L.,872337,FALSE
+Adiantum_flabellulatum,plastome,ON113047,67318,Adiantum flabellulatum L.,Adiantum flabellulatum L.,872337,FALSE
 Adiantum_formosanum,atpA,MH019350,1506,Adiantum formosanum Tagawa,Adiantum formosanum Tagawa,1073785,FALSE
 Adiantum_formosanum,rbcL,MH019571,1309,Adiantum formosanum Tagawa,Adiantum formosanum Tagawa,1073785,FALSE
 Adiantum_formosum,atpA,KX524373,1741,Adiantum formosum R. Br.,Adiantum formosum R.Br.,911566,FALSE
@@ -666,7 +658,11 @@ Aleuritopteris_anceps,rps4-trnS,KP085562,469,Aleuritopteris anceps (Blanf.) Pani
 Aleuritopteris_anceps,trnL-trnF,KP085519,392,Aleuritopteris anceps (Blanf.) Panigrahi,Aleuritopteris pseudofarinosa Ching & S.K.Wu,1692226,FALSE
 Aleuritopteris_argentea,atpA,EU268719,1674,Aleuritopteris argentea (S. G. Gmel.) Fée,Cheilanthes argentea (S.G.Gmel.) Kunze,238825,FALSE
 Aleuritopteris_argentea,atpB,EF452016,1278,Aleuritopteris argentea (S. G. Gmel.) Fée,Cheilanthes argentea (S.G.Gmel.) Kunze,238825,FALSE
+Aleuritopteris_argentea,matK,KP031649,858,Aleuritopteris argentea (S. G. Gmel.) Fée,Cheilanthes argentea (S.G.Gmel.) Kunze,238825,FALSE
 Aleuritopteris_argentea,rbcL,EF452137,1308,Aleuritopteris argentea (S. G. Gmel.) Fée,Cheilanthes argentea (S.G.Gmel.) Kunze,238825,FALSE
+Aleuritopteris_argentea,rps4,KP126970,545,Aleuritopteris argentea (S. G. Gmel.) Fée,Cheilanthes argentea (S.G.Gmel.) Kunze,238825,FALSE
+Aleuritopteris_argentea,rps4-trnS,KP126969,440,Aleuritopteris argentea var. obscura (Christ) Ching,Aleuritopteris shensiensis Ching,1692182,FALSE
+Aleuritopteris_argentea,trnL-trnF,DQ432667,924,Aleuritopteris argentea (S. G. Gmel.) Fée,Cheilanthes argentea (S.G.Gmel.) Kunze,238825,FALSE
 Aleuritopteris_bicolor,rbcL,MT727036,531,Aleuritopteris bicolor (Roxb.) Fraser-Jenk.,Aleuritopteris bicolor (Roxb.) Fraser-Jenk.,2848188,FALSE
 Aleuritopteris_chrysophylla,matK,KP031646,859,Aleuritopteris chrysophylla (Hook.) Ching,Aleuritopteris chrysophylla (Hook.) Ching,1649020,FALSE
 Aleuritopteris_chrysophylla,rbcL,KP126956,1204,Aleuritopteris chrysophylla (Hook.) Ching,Aleuritopteris chrysophylla (Hook.) Ching,1649020,FALSE
@@ -707,11 +703,11 @@ Aleuritopteris_subargentea,rps4-trnS,KP126974,426,Aleuritopteris subargentea Chi
 Aleuritopteris_subargentea,trnL-trnF,KP085524,395,Aleuritopteris subargentea Ching ex S. K. Wu,Aleuritopteris subargentea Ching,1692184,FALSE
 Aleuritopteris_tamburii,rbcL,DQ432644,1317,Aleuritopteris tamburii (Hook.) Ching,Aleuritopteris tamburii (Hook.) Ching,377227,FALSE
 Aleuritopteris_tamburii,trnL-trnF,DQ432666,887,Aleuritopteris tamburii (Hook.) Ching,Aleuritopteris tamburii (Hook.) Ching,377227,FALSE
-Aleuritopteris_veitchii,matK,KP031654,856,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris veitchii (Christ) Ching,1692183,FALSE
-Aleuritopteris_veitchii,rbcL,KP126959,1192,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris veitchii (Christ) Ching,1692183,FALSE
-Aleuritopteris_veitchii,rps4,KP126973,539,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris veitchii (Christ) Ching,1692183,FALSE
+Aleuritopteris_veitchii,matK,KP031660,856,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris likiangensis Ching,377225,FALSE
+Aleuritopteris_veitchii,rbcL,DQ432645,1270,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris likiangensis Ching,377225,FALSE
+Aleuritopteris_veitchii,rps4,KP126978,546,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris likiangensis Ching,377225,FALSE
 Aleuritopteris_veitchii,rps4-trnS,KP126973,419,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris veitchii (Christ) Ching,1692183,FALSE
-Aleuritopteris_veitchii,trnL-trnF,KP085523,296,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris veitchii (Christ) Ching,1692183,FALSE
+Aleuritopteris_veitchii,trnL-trnF,DQ432668,824,Aleuritopteris veitchii (Christ) Ching,Aleuritopteris likiangensis Ching,377225,FALSE
 Alsophila_abbottii,trnL-trnF,MN155369,961,Alsophila abbottii (Maxon) R. M. Tryon,Alsophila abbottii (Maxon) R.M.Tryon,2598224,FALSE
 Alsophila_acaulis,plastome,MT726940,67291,Alsophila acaulis Makino,Alsophila denticulata Baker,204584,FALSE
 Alsophila_acrostichoides,trnL-trnF,MN155659,937,Alsophila acrostichoides Alderw.,Gymnosphaera acrostichoides (Alderw.) S.Y.Dong,2598356,FALSE
@@ -748,7 +744,6 @@ Alsophila_borneensis,rbcL,KP337949,1295,Alsophila borneensis (Copel.) R. M. Tryo
 Alsophila_brevipinna,rbcL,JF950805,1255,Alsophila brevipinna (Baker ex Benth.) R. M. Tryon,Cyathea brevipinna Baker ex Benth.,1054367,FALSE
 Alsophila_brevipinna,trnL-trnF,JF950907,413,Alsophila brevipinna (Baker ex Benth.) R. M. Tryon,Cyathea brevipinna Baker ex Benth.,1054367,FALSE
 Alsophila_brooksii,trnL-trnF,MN155376,956,Alsophila brooksii (Maxon) R. M. Tryon,Alsophila brooksii (Maxon) R.M.Tryon,2598226,FALSE
-Alsophila_brunoniana,plastome,MT543220,67399,Alsophila brunoniana Wall.,Sphaeropteris brunoniana (Hook.) R.M.Tryon,204593,FALSE
 Alsophila_bryophila,atpA,AM176420,1514,Alsophila bryophila R. M. Tryon,Alsophila bryophila R.M.Tryon,361532,FALSE
 Alsophila_bryophila,atpB,AM176581,1482,Alsophila bryophila R. M. Tryon,Alsophila bryophila R.M.Tryon,361532,FALSE
 Alsophila_bryophila,rbcL,AM177320,1309,Alsophila bryophila R. M. Tryon,Alsophila bryophila R.M.Tryon,361532,FALSE
@@ -869,7 +864,6 @@ Alsophila_lurida,rbcL,KP337945,1295,Alsophila lurida (Blume) Hook.,Alsophila lur
 Alsophila_lurida,trnL-trnF,MN155675,936,Alsophila lurida (Blume) Hook.,Gymnosphaera lurida (Blume) S.Y.Dong,2598365,FALSE
 Alsophila_macgillivrayi,trnL-trnF,MN155421,946,Alsophila macgillivrayi Baker,Alsophila macgillivrayi Baker,2598237,FALSE
 Alsophila_macgregorii,rbcL,KP337964,564,Alsophila macgregorii (F. Muell.) R. M. Tryon,Alsophila gleichenioides (C.Chr.) R.M.Tryon,1710919,FALSE
-Alsophila_macgregorii,trnL-trnF,MN155423,926,Alsophila macgregorii (F. Muell.) R. M. Tryon,Alsophila macgregorii (F.Muell.) R.M.Tryon,2598238,FALSE
 Alsophila_manniana,rbcL,AM495787,1222,Alsophila manniana (Hook.) R. M. Tryon,Cyathea manniana Hook.,429085,FALSE
 Alsophila_manniana,trnL-trnF,MN155424,927,Alsophila manniana (Hook.) R. M. Tryon,Cyathea manniana Hook.,429085,FALSE
 Alsophila_marattioides,rbcL,AM495788,1225,Alsophila marattioides (Willd. ex Kaulf.) R. M. Tryon,Cyathea marattioides Willd. ex Kaulf.,429086,FALSE
@@ -1295,9 +1289,7 @@ Anemia_organensis,trnL-trnF,KT423423,377,Anemia organensis Rosenst.,Anemia organ
 Anemia_patens,rbcL,KT423902,1262,Anemia patens Mickel & Labiak,Anemia patens Mickel & Labiak,1844367,FALSE
 Anemia_patens,rps4-trnS,KT423723,271,Anemia patens Mickel & Labiak,Anemia patens Mickel & Labiak,1844367,FALSE
 Anemia_patens,trnL-trnF,KT423437,381,Anemia patens Mickel & Labiak,Anemia patens Mickel & Labiak,1844367,FALSE
-Anemia_phyllitidis,rbcL,KT423904,1262,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis var. phyllitidis,1844369,FALSE
-Anemia_phyllitidis,rps4-trnS,KT423691,289,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis var. phyllitidis,1844369,FALSE
-Anemia_phyllitidis,trnL-trnF,KT423387,381,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis var. phyllitidis,1844369,FALSE
+Anemia_phyllitidis,plastome,OM990738,58270,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis (L.) Sw.,12940,FALSE
 Anemia_portoricensis,rbcL,KT423912,1262,Anemia portoricensis Maxon,Anemia portoricensis Maxon,1844372,FALSE
 Anemia_presliana,rbcL,KT423914,1262,Anemia presliana Prantl,Anemia presliana Prantl,1844373,FALSE
 Anemia_presliana,rps4-trnS,KT423753,271,Anemia presliana Prantl,Anemia presliana Prantl,1844373,FALSE
@@ -1457,9 +1449,7 @@ Antrophyopsis_manniana,atpA,KU744785,1498,Antrophyopsis manniana (Hook.) Schuett
 Antrophyopsis_manniana,atpB,KU744790,1277,Antrophyopsis manniana (Hook.) Schuettp.,Antrophyopsis manniana (Hook.) Schuettp.,1868141,FALSE
 Antrophyopsis_manniana,rbcL,KX164956,1296,Antrophyopsis manniana (Hook.) Schuettp.,Antrophyopsis manniana (Hook.) Schuettp.,1868141,FALSE
 Antrophyum_annamense,atpA,KX165166,629,Antrophyum annamense Tardieu & C. Chr.,Antrophyum annamense Tardieu & C.Chr.,1926562,FALSE
-Antrophyum_annamense,matK,KY101262,1037,Antrophyum annamense Tardieu & C. Chr.,Antrophyum annamense Tardieu & C.Chr.,1926562,FALSE
-Antrophyum_annamense,rbcL,KX164963,1309,Antrophyum annamense Tardieu & C. Chr.,Antrophyum annamense Tardieu & C.Chr.,1926562,FALSE
-Antrophyum_annamense,trnL-trnF,KY101379,876,Antrophyum annamense Tardieu & C. Chr.,Antrophyum annamense Tardieu & C.Chr.,1926562,FALSE
+Antrophyum_annamense,rbcL,KX164957,1309,Antrophyum annamense Tardieu & C. Chr.,Antrophyum annamense Tardieu & C.Chr.,1926562,FALSE
 Antrophyum_callifolium,atpA,KX165169,629,Antrophyum callifolium Blume,Antrophyum callifolium Blume,474345,FALSE
 Antrophyum_callifolium,rbcL,KX164960,1308,Antrophyum callifolium Blume,Antrophyum callifolium Blume,474345,FALSE
 Antrophyum_castaneum,atpA,KX165171,629,Antrophyum castaneum H. Itô,Antrophyum castaneum H.Ito,1151097,FALSE
@@ -2298,11 +2288,11 @@ Asplenium_insulanum,atpB,MK826469,1258,Asplenium insulanum C. W. Chen,Asplenium 
 Asplenium_insulanum,rps4,MK827540,544,Asplenium insulanum C. W. Chen,Asplenium scolopendropsis J.Sm.,2586840,FALSE
 Asplenium_insulanum,rps4-trnS,MK827540,375,Asplenium insulanum C. W. Chen,Asplenium scolopendropsis J.Sm.,2586840,FALSE
 Asplenium_insulanum,trnL-trnF,MK828016,878,Asplenium insulanum C. W. Chen,Asplenium scolopendropsis J.Sm.,2586840,FALSE
-Asplenium_interjectum,atpB,MK826193,1240,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
-Asplenium_interjectum,rbcL,AY545480,1308,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
-Asplenium_interjectum,rps4,MK827445,544,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
+Asplenium_interjectum,atpB,MK826194,1239,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
+Asplenium_interjectum,rbcL,MK826673,1239,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
+Asplenium_interjectum,rps4,MK827203,544,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
 Asplenium_interjectum,rps4-trnS,MK827203,515,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
-Asplenium_interjectum,trnL-trnF,MK827896,335,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
+Asplenium_interjectum,trnL-trnF,MK827736,325,Asplenium interjectum Christ,Asplenium interjectum H.Christ,265673,FALSE
 Asplenium_jahandiezii,rbcL,AY300121,1283,Asplenium jahandiezii (Litard.) Rouy,Asplenium jahandiezii Rouy,169377,FALSE
 Asplenium_jahandiezii,rps4,AY549780,576,Asplenium jahandiezii (Litard.) Rouy,Asplenium jahandiezii Rouy,169377,FALSE
 Asplenium_jahandiezii,rps4-trnS,AY549780,527,Asplenium jahandiezii (Litard.) Rouy,Asplenium jahandiezii Rouy,169377,FALSE
@@ -2663,7 +2653,7 @@ Asplenium_schizophyllum,rps4-trnS,MK827539,469,Asplenium schizophyllum C. Chr.,A
 Asplenium_schizophyllum,trnL-trnF,MK828015,757,Asplenium schizophyllum C. Chr.,Asplenium schizophyllum C.Chr.,2586880,FALSE
 Asplenium_scleroprium,rps4,EU560980,567,Asplenium scleroprium Hombr. & Jacq.,Asplenium scleropium Homb. & Jacq.,241514,FALSE
 Asplenium_scleroprium,rps4-trnS,EU560980,525,Asplenium scleroprium Hombr. & Jacq.,Asplenium scleropium Homb. & Jacq.,241514,FALSE
-Asplenium_scolopendrium,rbcL,AF240645,1358,Asplenium scolopendrium L.,Asplenium scolopendrium L.,41964,FALSE
+Asplenium_scolopendrium,plastome,MZ329814,66929,Asplenium scolopendrium var. americanum (Fernald) Kartesz & Gandhi,Asplenium scolopendrium var. americanum (Fernald) Kartesz & Gandhi,2072982,FALSE
 Asplenium_scortechinii,atpB,MK826210,1239,Asplenium scortechinii Bedd.,Asplenium scortechinii Bedd.,2583804,FALSE
 Asplenium_scortechinii,rbcL,MK826691,1239,Asplenium scortechinii Bedd.,Asplenium scortechinii Bedd.,2583804,FALSE
 Asplenium_scortechinii,rps4,MK827220,544,Asplenium scortechinii Bedd.,Asplenium scortechinii Bedd.,2583804,FALSE
@@ -3376,8 +3366,9 @@ Austroblechnum_wardiae,rbcL,KU898612,1181,Austroblechnum wardiae (Mickel & Beite
 Austroblechnum_wardiae,rps4,KU898557,542,Austroblechnum wardiae (Mickel & Beitel) Gasper & V. A. O. Dittrich,Austroblechnum wardiae (Mickel & Beitel) Gasper & V.A.O.Dittrich,1816517,FALSE
 Austroblechnum_wardiae,rps4-trnS,KU898557,517,Austroblechnum wardiae (Mickel & Beitel) Gasper & V. A. O. Dittrich,Austroblechnum wardiae (Mickel & Beitel) Gasper & V.A.O.Dittrich,1816517,FALSE
 Austroblechnum_wardiae,trnL-trnF,KU898671,838,Austroblechnum wardiae (Mickel & Beitel) Gasper & V. A. O. Dittrich,Austroblechnum wardiae (Mickel & Beitel) Gasper & V.A.O.Dittrich,1816517,FALSE
-Austrogramme_decipiens,rps4,AF321702,578,Austrogramme decipiens (Mett.) Hennipman,Austrogramme decipiens (Mett.) Hennipman,170711,FALSE
-Austrogramme_decipiens,rps4-trnS,AF321702,349,Austrogramme decipiens (Mett.) Hennipman,Austrogramme decipiens (Mett.) Hennipman,170711,FALSE
+Austrogramme_decipiens,rbcL,OK650030,1256,Austrogramme decipiens (Mett.) Hennipman,Austrogramme decipiens (Mett.) Hennipman,170711,FALSE
+Austrogramme_decipiens,rps4,OL311320,564,Austrogramme decipiens (Mett.) Hennipman,Austrogramme decipiens (Mett.) Hennipman,170711,FALSE
+Austrogramme_decipiens,rps4-trnS,OL311320,473,Austrogramme decipiens (Mett.) Hennipman,Austrogramme decipiens (Mett.) Hennipman,170711,FALSE
 Austrogramme_marginata,rps4,AY357704,578,Austrogramme marginata (Mett.) E. Fourn.,Austrogramme marginata (Mett.) E.Fourn.,170712,FALSE
 Austrogramme_marginata,rps4-trnS,AY357704,348,Austrogramme marginata (Mett.) E. Fourn.,Austrogramme marginata (Mett.) E.Fourn.,170712,FALSE
 Azolla_caroliniana,plastome,MF177092,64283,Azolla caroliniana Willd.,Azolla caroliniana Willd.,39631,FALSE
@@ -3735,9 +3726,9 @@ Campyloneurum_tucumanense,trnL-trnF,MF318390,777,Campyloneurum tucumanense (Hier
 Campyloneurum_vexatum,rbcL,MF317996,1320,Campyloneurum vexatum (D. C. Eaton) Ching,Campyloneurum cubense Fee,2080781,FALSE
 Campyloneurum_vexatum,rps4-trnS,MF318177,450,Campyloneurum vexatum (D. C. Eaton) Ching,Campyloneurum cubense Fee,2080781,FALSE
 Campyloneurum_vexatum,trnL-trnF,MF318421,781,Campyloneurum vexatum (D. C. Eaton) Ching,Campyloneurum cubense Fee,2080781,FALSE
-Campyloneurum_vulpinum,rbcL,MF317995,1320,Campyloneurum vulpinum (Lindm.) Ching,Campyloneurum vulpinum (Lindm.) Ching,2080799,FALSE
+Campyloneurum_vulpinum,rbcL,MF318043,1320,Campyloneurum vulpinum (Lindm.) Ching,Campyloneurum vulpinum (Lindm.) Ching,2080799,FALSE
 Campyloneurum_vulpinum,rps4-trnS,MF318178,454,Campyloneurum vulpinum (Lindm.) Ching,Campyloneurum vulpinum (Lindm.) Ching,2080799,FALSE
-Campyloneurum_vulpinum,trnL-trnF,MF318422,783,Campyloneurum vulpinum (Lindm.) Ching,Campyloneurum vulpinum (Lindm.) Ching,2080799,FALSE
+Campyloneurum_vulpinum,trnL-trnF,MF318424,787,Campyloneurum vulpinum (Lindm.) Ching,Campyloneurum vulpinum (Lindm.) Ching,2080799,FALSE
 Campyloneurum_wurdackii,rbcL,MF318058,1320,Campyloneurum wurdackii B. León,Campyloneurum wurdackii B.Leon,2080800,FALSE
 Campyloneurum_wurdackii,rps4-trnS,MF318181,450,Campyloneurum wurdackii B. León,Campyloneurum wurdackii B.Leon,2080800,FALSE
 Campyloneurum_wurdackii,trnL-trnF,MF318426,616,Campyloneurum wurdackii B. León,Campyloneurum wurdackii B.Leon,2080800,FALSE
@@ -3812,13 +3803,19 @@ Ceradenia_sechellarum,rps4-trnS,KY712378,448,Ceradenia sechellarum (Baker) Parri
 Ceradenia_sechellarum,trnL-trnF,KY711706,261,Ceradenia sechellarum (Baker) Parris,Ceradenia sechellarum (Baker) Parris,1969136,FALSE
 Ceradenia_spixiana,atpB,AY459457,1266,Ceradenia spixiana (M. Martens ex Mett.) L. E. Bishop,Ceradenia spixiana (Mart. ex Mett.) L.E.Bishop,263076,FALSE
 Ceradenia_spixiana,rbcL,AY460623,1311,Ceradenia spixiana (M. Martens ex Mett.) L. E. Bishop,Ceradenia spixiana (Mart. ex Mett.) L.E.Bishop,263076,FALSE
+Ceratopteris_chingii,rbcL,MZ512989,1245,Ceratopteris chingii Y.H.Yan & Jun H.Yu,Ceratopteris chingii Y.H.Yan & Jun H.Yu,2784539,FALSE
+Ceratopteris_chunii,rbcL,MZ736563,1245,Ceratopteris chunii Y.H.Yan,Ceratopteris chunii Y.H.Yan,2784540,FALSE
 Ceratopteris_cornuta,plastome,MH173068,65566,Ceratopteris cornuta (P. Beauv.) Lepr.,Ceratopteris cornuta (P.Beauv.) Lepr.,375903,FALSE
 Ceratopteris_pteridoides,plastome,MT130583,65785,Ceratopteris pteridoides (Hook.) Hieron.,Ceratopteris pteridoides (Hook.) Hieron.,58167,FALSE
 Ceratopteris_richardii,plastome,KM052729,65081,Ceratopteris richardii Brongn.,Ceratopteris richardii Brongn.,49495,FALSE
 Ceratopteris_shingii,rbcL,MN316635,1245,Ceratopteris shingii Y. H. Yan & Rui Zhang,Ceratopteris shingii Y.H.Yan & Rui Zhang,2750832,FALSE
 Ceratopteris_thalictroides,plastome,OK524221,65782,Ceratopteris thalictroides (L.) Brongn.,Ceratopteris thalictroides (L.) Brongn.,29596,FALSE
 Cerosora_argentea,rbcL,JX144889,1229,Cerosora argentea (Willd.) Hennequin & H. Schneid.,Cerosora argentea var. argentea,1224791,FALSE
-Cerosora_microphylla,plastome,MT130693,67311,Cerosora microphylla (Hook.) R. M. Tryon,Anogramma microphylla (Hook.) Diels,1294745,FALSE
+Cerosora_microphylla,atpA,KM007559,1755,Cerosora microphylla (Hook.) R. M. Tryon,Anogramma microphylla (Hook.) Diels,1294745,FALSE
+Cerosora_microphylla,atpB,KM007676,1171,Cerosora microphylla (Hook.) R. M. Tryon,Anogramma microphylla (Hook.) Diels,1294745,FALSE
+Cerosora_microphylla,rbcL,KY053910,1277,Cerosora microphylla (Hook.) R. M. Tryon,Anogramma microphylla (Hook.) Diels,1294745,FALSE
+Cerosora_microphylla,rps4,KY053901,574,Cerosora microphylla (Hook.) R. M. Tryon,Anogramma microphylla (Hook.) Diels,1294745,FALSE
+Cerosora_microphylla,rps4-trnS,KM007789,354,Cerosora microphylla (Hook.) R. M. Tryon,Anogramma microphylla (Hook.) Diels,1294745,FALSE
 Cheilanthes_arequipensis,atpA,MH170444,1751,Cheilanthes arequipensis (Maxon) R. M. Tryon & A. F. Tryon,Cheilanthes arequipensis (Maxon) R.M.Tryon & A.F.Tryon,2567911,FALSE
 Cheilanthes_arequipensis,rbcL,MH170411,1292,Cheilanthes arequipensis (Maxon) R. M. Tryon & A. F. Tryon,Cheilanthes arequipensis (Maxon) R.M.Tryon & A.F.Tryon,2567911,FALSE
 Cheilanthes_arequipensis,trnL-trnF,MW245809,792,Cheilanthes arequipensis (Maxon) R. M. Tryon & A. F. Tryon,Cheilanthes arequipensis (Maxon) R.M.Tryon & A.F.Tryon,2567911,FALSE
@@ -3942,9 +3939,6 @@ Cheilanthes_peruviana,rbcL,MW245819,619,Cheilanthes peruviana (Desv.) T. Moore,C
 Cheilanthes_peruviana,trnL-trnF,MW245812,512,Cheilanthes peruviana (Desv.) T. Moore,Cheilanthes peruviana (Desv.) T.Moore,2841963,FALSE
 Cheilanthes_pilosa,atpA,MH170437,1767,Cheilanthes pilosa Goldm.,Cheilanthes pilosa Goldm.,2478367,FALSE
 Cheilanthes_pilosa,rbcL,MH170420,1309,Cheilanthes pilosa Goldm.,Cheilanthes pilosa Goldm.,2478367,FALSE
-Cheilanthes_pilosa,rps4,MW245823,588,Cheilanthes pilosa Goldm.,Cheilanthes pilosa Goldm.,2478367,FALSE
-Cheilanthes_pilosa,rps4-trnS,MW245823,454,Cheilanthes pilosa Goldm.,Cheilanthes pilosa Goldm.,2478367,FALSE
-Cheilanthes_pilosa,trnL-trnF,MG593121,730,Cheilanthes pilosa Goldm.,Cheilanthes pilosa Goldm.,2478367,FALSE
 Cheilanthes_poeppigiana,matK,KT932743,848,Cheilanthes poeppigiana Mett. ex Kuhn,Cheilanthes poeppigiana Kuhn,1740600,FALSE
 Cheilanthes_poeppigiana,rbcL,MG593095,1199,Cheilanthes poeppigiana Mett. ex Kuhn,Cheilanthes poeppigiana Kuhn,1740600,FALSE
 Cheilanthes_poeppigiana,trnL-trnF,MG593122,676,Cheilanthes poeppigiana Mett. ex Kuhn,Cheilanthes poeppigiana Kuhn,1740600,FALSE
@@ -4010,7 +4004,7 @@ Chingia_longissima,rbcL,EF463291,1308,Chingia longissima (Brack.) Holttum,Chingi
 Chingia_longissima,rps4,AF425163,569,Chingia longissima (Brack.) Holttum,Chingia longissima (Brack.) Holttum,173868,FALSE
 Chingia_longissima,rps4-trnS,AF425163,484,Chingia longissima (Brack.) Holttum,Chingia longissima (Brack.) Holttum,173868,FALSE
 Chingia_longissima,trnL-trnF,AF425126,350,Chingia longissima (Brack.) Holttum,Chingia longissima (Brack.) Holttum,173868,FALSE
-Christella_acuminata,rbcL,D43919,1206,Christella acuminata (Houtt.) Holttum,Cyclosorus acuminatus (Houtt.) Nakai,65714,FALSE
+Christella_acuminata,rbcL,D43919,1206,Christella acuminata (Houtt.) Holttum,Christella acuminata (Houtt.) H.Lev.,2137817,FALSE
 Christella_arida,rbcL,JN572317,1268,Christella arida (D. Don) Holttum,Christella arida (D.Don) Holttum,174654,FALSE
 Christella_arida,rps4,KT805094,556,Christella arida (D. Don) Holttum,Christella arida (D.Don) Holttum,174654,FALSE
 Christella_arida,rps4-trnS,KT805094,525,Christella arida (D. Don) Holttum,Christella arida (D.Don) Holttum,174654,FALSE
@@ -4582,6 +4576,7 @@ Cyathea_multiflora,trnL-trnF,AM410322,975,Cyathea multiflora Sm.,Cyathea multifl
 Cyathea_mutica,rbcL,AM410220,1309,Cyathea mutica (Christ) Domin,Cyathea mutica (Christ) Domin,411285,FALSE
 Cyathea_mutica,trnL-trnF,AM410348,971,Cyathea mutica (Christ) Domin,Cyathea mutica (Christ) Domin,411285,FALSE
 Cyathea_myosuroides,rbcL,MW620331,1232,Cyathea myosuroides (Liebm.) Domin,Cyathea myosuroides (Liebm.) Domin.,461338,FALSE
+Cyathea_myosuroides,trnL-trnF,MN155591,942,Cyathea myosuroides (Liebm.) Domin,Cyathea myosuroides (Liebm.) Domin.,461338,FALSE
 Cyathea_myriotricha,rbcL,EU751604,1309,Cyathea myriotricha (Baker) R. C. Moran & J. Prado,Cyathea myriotricha,565136,FALSE
 Cyathea_nervosa,trnL-trnF,MN155593,782,Cyathea nervosa (Maxon) Lehnert,Cyathea nervosa (Maxon) Lehnert,2598314,FALSE
 Cyathea_nesiotica,rbcL,KT235819,1309,Cyathea nesiotica (Maxon) Domin,Cyathea nesiotica (Maxon) Domin,544602,FALSE
@@ -4600,7 +4595,7 @@ Cyathea_parvula,atpB,AM176600,1482,Cyathea parvula (Jenman) Proctor,Cyathea parv
 Cyathea_parvula,rbcL,AM177338,1309,Cyathea parvula (Jenman) Proctor,Cyathea parvula (Jenm.) Proctor,361545,FALSE
 Cyathea_parvula,rps4,AM176495,603,Cyathea parvula (Jenman) Proctor,Cyathea parvula (Jenm.) Proctor,361545,FALSE
 Cyathea_parvula,rps4-trnS,AM176495,118,Cyathea parvula (Jenman) Proctor,Cyathea parvula (Jenm.) Proctor,361545,FALSE
-Cyathea_parvula,trnL-trnF,MN155603,956,Cyathea parvula (Jenman) Proctor,Cyathea parvula (Jenm.) Proctor,361545,FALSE
+Cyathea_parvula,trnL-trnF,AM410319,409,Cyathea parvula (Jenman) Proctor,Cyathea parvula (Jenm.) Proctor,361545,FALSE
 Cyathea_patens,trnL-trnF,MN155605,928,Cyathea patens hort. ex Houlston & Moore,Cyathea patens hort. ex Houlston & Moore,2598320,FALSE
 Cyathea_pauciflora,trnL-trnF,MN155606,930,Cyathea pauciflora (Kuhn) Lellinger,Cyathea pauciflora (Kuhn) Lellinger,2598321,FALSE
 Cyathea_peladensis,trnL-trnF,MN155608,933,Cyathea peladensis (Hieron.) Domin,Cyathea peladensis (Hieron.) Domin,2598322,FALSE
@@ -5055,8 +5050,10 @@ Deparia_auriculata,trnL-trnF,KX656145,879,Deparia auriculata (W. M. Chu & Z. R. 
 Deparia_biserialis,matK,JN673822,1307,Deparia biserialis (Baker) M. Kato,Deparia biserialis (Baker) M.Kato,1108168,FALSE
 Deparia_biserialis,rbcL,JN673931,1294,Deparia biserialis (Baker) M. Kato,Deparia biserialis (Baker) M.Kato,1108168,FALSE
 Deparia_biserialis,trnL-trnF,JN673864,852,Deparia biserialis (Baker) M. Kato,Deparia biserialis (Baker) M.Kato,1108168,FALSE
+Deparia_bonincola,atpA,EF463907,1506,Deparia bonincola (Nakai) M. Kato,Deparia bonincola (Nakai) M.Kato,65721,FALSE
+Deparia_bonincola,atpB,EF463566,1274,Deparia bonincola (Nakai) M. Kato,Deparia bonincola (Nakai) M.Kato,65721,FALSE
 Deparia_bonincola,matK,JN673823,1306,Deparia bonincola (Nakai) M. Kato,Deparia bonincola (Nakai) M.Kato,65721,FALSE
-Deparia_bonincola,rbcL,AB574940,1205,Deparia bonincola (Nakai) M. Kato,Deparia bonincola (Nakai) M.Kato,65721,FALSE
+Deparia_bonincola,rbcL,D43899,1206,Deparia bonincola (Nakai) M. Kato,Deparia bonincola (Nakai) M.Kato,65721,FALSE
 Deparia_bonincola,trnL-trnF,JN673865,857,Deparia bonincola (Nakai) M. Kato,Deparia bonincola (Nakai) M.Kato,65721,FALSE
 Deparia_boryana,matK,KX656034,1326,Deparia boryana (Willd.) M. Kato,Deparia boryana (Willd.) M.Kato,208745,FALSE
 Deparia_boryana,rbcL,KX656064,1304,Deparia boryana (Willd.) M. Kato,Deparia boryana (Willd.) M.Kato,208745,FALSE
@@ -5980,16 +5977,10 @@ Doryopteris_leitei,rbcL,KP407211,1142,Doryopteris leitei R. M. Tryon,Doryopteris
 Doryopteris_leitei,trnL-trnF,KP407230,895,Doryopteris leitei R. M. Tryon,Doryopteris x leitei Tryon,1593041,FALSE
 Doryopteris_lorentzii,rbcL,JN122015,1271,Doryopteris lorentzii (Hieron.) Diels,Doryopteris lorentzii (Hieron.) Diels,1092831,FALSE
 Doryopteris_nobilis,rbcL,EF473690,1143,Doryopteris nobilis (T. Moore) J. Sm.,Doryopteris nobilis (T.Moore) C.Chr.,414625,FALSE
-Doryopteris_nobilis,rps4,DQ914140,588,Doryopteris nobilis (T. Moore) J. Sm.,Doryopteris nobilis (T.Moore) C.Chr.,414625,FALSE
-Doryopteris_nobilis,rps4-trnS,DQ914140,509,Doryopteris nobilis (T. Moore) J. Sm.,Doryopteris nobilis (T.Moore) C.Chr.,414625,FALSE
-Doryopteris_nobilis,trnL-trnF,KP407224,899,Doryopteris nobilis (T. Moore) J. Sm.,Doryopteris nobilis (T.Moore) C.Chr.,414625,FALSE
 Doryopteris_pedata,rbcL,U27206,1321,Doryopteris pedata (L.) Fée,Doryopteris pedata (L.) Fee,40556,FALSE
 Doryopteris_pedatoides,rbcL,JN122016,934,Doryopteris pedatoides (Desv.) Kuhn,Doryopteris pedatoides (Desv.) Kuhn,1092832,FALSE
 Doryopteris_pedatoides,trnL-trnF,JN122022,875,Doryopteris pedatoides (Desv.) Kuhn,Doryopteris pedatoides (Desv.) Kuhn,1092832,FALSE
 Doryopteris_pentagona,rbcL,EF473693,1143,Doryopteris pentagona Pic. Serm.,Doryopteris pentagona Pic.Serm.,434449,FALSE
-Doryopteris_pentagona,rps4,MW245828,565,Doryopteris pentagona Pic. Serm.,Doryopteris pentagona Pic.Serm.,434449,FALSE
-Doryopteris_pentagona,rps4-trnS,MW245828,452,Doryopteris pentagona Pic. Serm.,Doryopteris pentagona Pic.Serm.,434449,FALSE
-Doryopteris_pentagona,trnL-trnF,MG593128,744,Doryopteris pentagona Pic. Serm.,Doryopteris pentagona Pic.Serm.,434449,FALSE
 Doryopteris_pilosa,rbcL,KF992478,1263,Doryopteris pilosa (Poir.) Kuhn,Doryopteris pilosa (Poir.) Kuhn,1092833,FALSE
 Doryopteris_pilosa,trnL-trnF,JN122023,871,Doryopteris pilosa (Poir.) Kuhn,Doryopteris pilosa (Poir.) Kuhn,1092833,FALSE
 Doryopteris_rediviva,rbcL,EF473694,1143,Doryopteris rediviva Fée,Doryopteris rediviva Fee,414626,FALSE
@@ -6092,7 +6083,10 @@ Drynaria_volkensii,rbcL,AY529168,1320,Drynaria volkensii Hieron.,Aglaomorpha vol
 Drynaria_volkensii,rps4,AY529190,535,Drynaria volkensii Hieron.,Aglaomorpha volkensii (Hieron.) Hovenkamp & S.Linds.,272681,FALSE
 Drynaria_volkensii,rps4-trnS,AY529190,506,Drynaria volkensii Hieron.,Aglaomorpha volkensii (Hieron.) Hovenkamp & S.Linds.,272681,FALSE
 Drynaria_willdenowii,plastome,MW876317,67425,Drynaria willdenowii (Bory) T. Moore,Aglaomorpha willdenowii (Bory) Hovenkamp & S.Linds.,272682,FALSE
+Dryopolystichum_phaeostigma,rbcL,KY397972,1276,Dryopolystichum phaeostigma (Ces.) Copel.,Dryopolystichum phaeostigma (Ces.) Copel.,1983207,FALSE
+Dryopolystichum_phaeostigma,rps4,KY397976,572,Dryopolystichum phaeostigma (Ces.) Copel.,Dryopolystichum phaeostigma (Ces.) Copel.,1983207,FALSE
 Dryopolystichum_phaeostigma,rps4-trnS,KY397976,554,Dryopolystichum phaeostigma (Ces.) Copel.,Dryopolystichum phaeostigma (Ces.) Copel.,1983207,FALSE
+Dryopolystichum_phaeostigma,trnL-trnF,KY397968,837,Dryopolystichum phaeostigma (Ces.) Copel.,Dryopolystichum phaeostigma (Ces.) Copel.,1983207,FALSE
 Dryopteris_acutodentata,rps4-trnS,DQ191874,461,Dryopteris acutodentata Ching,Dryopteris silaensis Ching,346320,FALSE
 Dryopteris_aemula,rbcL,AY268881,1306,Dryopteris aemula (Aiton) Kuntze,Dryopteris aemula (Aiton) Kuntze,239546,FALSE
 Dryopteris_affinis,rbcL,JN189516,1352,Dryopteris affinis (Lowe) Fraser-Jenk.,Dryopteris affinis (Lowe) Fraser-Jenk.,239547,FALSE
@@ -7227,17 +7221,17 @@ Gleichenella_pectinata,rbcL,EF588693,1309,Gleichenella pectinata (Willd.) Ching,
 Gleichenella_pectinata,rps4,EF588757,567,Gleichenella pectinata (Willd.) Ching,Gleichenella pectinata (Willd.) Ching,292897,FALSE
 Gleichenella_pectinata,rps4-trnS,EF588757,597,Gleichenella pectinata (Willd.) Ching,Gleichenella pectinata (Willd.) Ching,292897,FALSE
 Gleichenella_pectinata,trnL-trnF,EF588802,975,Gleichenella pectinata (Willd.) Ching,Gleichenella pectinata (Willd.) Ching,292897,FALSE
-Gleichenia_abscida,rps4,JQ911731,565,Gleichenia abscida Rodway,Gleichenia abscida Rodway,1280270,FALSE
-Gleichenia_abscida,rps4-trnS,JQ911731,593,Gleichenia abscida Rodway,Gleichenia abscida Rodway,1280270,FALSE
-Gleichenia_abscida,trnL-trnF,JQ911718,891,Gleichenia abscida Rodway,Gleichenia abscida Rodway,1280270,FALSE
+Gleichenia_abscida,rbcL,MW390791,1251,Gleichenia abscida Rodway,Gleichenia abscida Rodway,1280270,FALSE
 Gleichenia_alpina,rbcL,DQ910497,1265,Gleichenia alpina R. Br.,Gleichenia alpina R.Br.,411639,FALSE
 Gleichenia_alpina,trnL-trnF,DQ910515,955,Gleichenia alpina R. Br.,Gleichenia alpina R.Br.,411639,FALSE
 Gleichenia_dicarpa,atpB,AF313550,1189,Gleichenia dicarpa R. Br.,Gleichenia dicarpa R.Br.,167730,FALSE
 Gleichenia_dicarpa,rbcL,AF313584,1322,Gleichenia dicarpa R. Br.,Gleichenia dicarpa R.Br.,167730,FALSE
 Gleichenia_dicarpa,rps4,AF313599,598,Gleichenia dicarpa R. Br.,Gleichenia dicarpa R.Br.,167730,FALSE
 Gleichenia_dicarpa,rps4-trnS,AF313599,113,Gleichenia dicarpa R. Br.,Gleichenia dicarpa R.Br.,167730,FALSE
-Gleichenia_microphylla,rbcL,DQ910504,1266,Gleichenia microphylla R. Br.,Gleichenia microphylla R.Br.,411640,FALSE
-Gleichenia_microphylla,trnL-trnF,DQ910526,971,Gleichenia microphylla R. Br.,Gleichenia microphylla R.Br.,411640,FALSE
+Gleichenia_microphylla,rbcL,MW390796,1248,Gleichenia microphylla R. Br.,Gleichenia microphylla R.Br.,411640,FALSE
+Gleichenia_microphylla,rps4,MW316461,546,Gleichenia microphylla R. Br.,Gleichenia microphylla R.Br.,411640,FALSE
+Gleichenia_microphylla,rps4-trnS,MW316461,395,Gleichenia microphylla R. Br.,Gleichenia microphylla R.Br.,411640,FALSE
+Gleichenia_microphylla,trnL-trnF,MW297033,878,Gleichenia microphylla R. Br.,Gleichenia microphylla R.Br.,411640,FALSE
 Gleichenia_polypodioides,rbcL,KF992489,1251,Gleichenia polypodioides (L.) Sm.,Gleichenia polypodioides (L.) Sm.,1521250,FALSE
 Goniophlebium_amoenum,plastome,MT130635,67465,Goniophlebium amoenum (Wall. ex Mett) J. Sm.,Goniophlebium amoenum (Wall. ex Mett.) Bedd.,253745,FALSE
 Goniophlebium_argutum,plastome,MW876319,67317,Goniophlebium argutum (Wall. ex Hook.) J. Sm.,Goniophlebium argutum (Wall. ex Hook.) J.Sm. ex Hook.,347918,FALSE
@@ -7368,9 +7362,9 @@ Grammitis_melanoloma,trnL-trnF,GU476641,279,Grammitis melanoloma (Cordem.) Tardi
 Grammitis_nudicarpa,rbcL,JF950810,1240,Grammitis nudicarpa Copel.,Grammitis nudicarpa Copel.,1054373,FALSE
 Grammitis_nudicarpa,trnL-trnF,JF950911,335,Grammitis nudicarpa Copel.,Grammitis nudicarpa Copel.,1054373,FALSE
 Grammitis_obtusa,atpB,KY711818,1272,Grammitis obtusa Willd. ex Kaulf.,Grammitis obtusa Willd. ex Kaulf.,1521231,FALSE
-Grammitis_obtusa,rbcL,KF992493,1263,Grammitis obtusa Willd. ex Kaulf.,Grammitis obtusa Willd. ex Kaulf.,1521231,FALSE
+Grammitis_obtusa,rbcL,KY711993,1239,Grammitis obtusa Willd. ex Kaulf.,Grammitis obtusa Willd. ex Kaulf.,1521231,FALSE
 Grammitis_obtusa,rps4-trnS,KY712315,479,Grammitis obtusa Willd. ex Kaulf.,Grammitis obtusa Willd. ex Kaulf.,1521231,FALSE
-Grammitis_obtusa,trnL-trnF,KY711641,286,Grammitis obtusa Willd. ex Kaulf.,Grammitis obtusa Willd. ex Kaulf.,1521231,FALSE
+Grammitis_obtusa,trnL-trnF,KY711642,284,Grammitis obtusa Willd. ex Kaulf.,Grammitis obtusa Willd. ex Kaulf.,1521231,FALSE
 Grammitis_paramicola,atpB,KM218816,730,Grammitis paramicola L.E.Bishop,Grammitis paramicola L.E.Bishop,1578109,FALSE
 Grammitis_paramicola,rbcL,KM218801,878,Grammitis paramicola L.E.Bishop,Grammitis paramicola L.E.Bishop,1578109,FALSE
 Grammitis_paramicola,rps4-trnS,KM106149,309,Grammitis paramicola L.E.Bishop,Grammitis paramicola L.E.Bishop,1578109,FALSE
@@ -7646,10 +7640,9 @@ Hymenasplenium_phamhoanghoi,trnL-trnF,MH065590,359,"Hymenasplenium phamhoanghoi 
 Hymenasplenium_praestans,rbcL,MT936350,1247,"Hymenasplenium praestans (Copel.) Testo, Riibe & Sundue",Diplazium praestans (Copel.) C.V.Morton,2767860,FALSE
 Hymenasplenium_praestans,rps4-trnS,MT936351,351,"Hymenasplenium praestans (Copel.) Testo, Riibe & Sundue",Diplazium praestans (Copel.) C.V.Morton,2767860,FALSE
 Hymenasplenium_praestans,trnL-trnF,MT936352,367,"Hymenasplenium praestans (Copel.) Testo, Riibe & Sundue",Diplazium praestans (Copel.) C.V.Morton,2767860,FALSE
-Hymenasplenium_pseudobscurum,rbcL,MH884828,1068,Hymenasplenium pseudobscurum Viane,Hymenasplenium pseudobscurum Viane,2218746,FALSE
+Hymenasplenium_pseudobscurum,rbcL,MH884827,1068,Hymenasplenium pseudobscurum Viane,Hymenasplenium pseudobscurum Viane,2218746,FALSE
 Hymenasplenium_pseudobscurum,rps4,MH884836,560,Hymenasplenium pseudobscurum Viane,Hymenasplenium pseudobscurum Viane,2218746,FALSE
 Hymenasplenium_pseudobscurum,rps4-trnS,MH884836,556,Hymenasplenium pseudobscurum Viane,Hymenasplenium pseudobscurum Viane,2218746,FALSE
-Hymenasplenium_pseudobscurum,trnL-trnF,MH065565,706,Hymenasplenium pseudobscurum Viane,Hymenasplenium pseudobscurum Viane,2218746,FALSE
 Hymenasplenium_pubirhizoma,rbcL,AB574891,1205,Hymenasplenium pubirhizoma (Ching & Z. Y. Liu) K. W. Xu & Li Bing Zhang,Hymenasplenium murakami-hatanakae Nakaike,872592,FALSE
 Hymenasplenium_quangnamense,atpB,MH065484,1219,"Hymenasplenium quangnamense Li Bing Zhang, K. W. Xu & Liang Zhang","Hymenasplenium quangnamense Li Bing Zhang, K.W.Xu & Liang Zhan",2218755,FALSE
 Hymenasplenium_quangnamense,rbcL,MH065412,1248,"Hymenasplenium quangnamense Li Bing Zhang, K. W. Xu & Liang Zhang","Hymenasplenium quangnamense Li Bing Zhang, K.W.Xu & Liang Zhan",2218755,FALSE
@@ -7716,7 +7709,8 @@ Hymenophyllum_bivalve,rbcL,AB496573,1356,Hymenophyllum bivalve (G. Forst.) Sw.,H
 Hymenophyllum_bivalve,rps4,AB496593,571,Hymenophyllum bivalve (G. Forst.) Sw.,Hymenophyllum bivalve (G.Forst.) Sw.,638557,FALSE
 Hymenophyllum_bivalve,rps4-trnS,AB496593,528,Hymenophyllum bivalve (G. Forst.) Sw.,Hymenophyllum bivalve (G.Forst.) Sw.,638557,FALSE
 Hymenophyllum_blandum,rbcL,MF144656,1206,Hymenophyllum blandum Racib.,Hymenophyllum blandum Racib.,2233784,FALSE
-Hymenophyllum_blandum,rps4-trnS,MF144590,372,Hymenophyllum blandum Racib.,Hymenophyllum blandum Racib.,2233784,FALSE
+Hymenophyllum_blandum,rps4,ON773147,583,Hymenophyllum blandum Racib.,Hymenophyllum blandum Racib.,2233784,FALSE
+Hymenophyllum_blandum,rps4-trnS,ON773147,528,Hymenophyllum blandum Racib.,Hymenophyllum blandum Racib.,2233784,FALSE
 Hymenophyllum_braithwaitei,rbcL,AB162686,1356,Hymenophyllum braithwaitei Ebihara & K. Iwats.,Hymenophyllum braithwaitei Ebihara & K.Iwats.,263887,FALSE
 Hymenophyllum_braithwaitei,rps4,MF144591,552,Hymenophyllum braithwaitei Ebihara & K. Iwats.,Hymenophyllum braithwaitei Ebihara & K.Iwats.,263887,FALSE
 Hymenophyllum_braithwaitei,rps4-trnS,MF144591,460,Hymenophyllum braithwaitei Ebihara & K. Iwats.,Hymenophyllum braithwaitei Ebihara & K.Iwats.,263887,FALSE
@@ -8302,7 +8296,7 @@ Jamesonia_warscewiczii,rbcL,KJ416340,1309,Jamesonia warscewiczii (Mett.) Christe
 Jamesonia_warscewiczii,rps4,KJ416368,512,Jamesonia warscewiczii (Mett.) Christenh.,Jamesonia warscewiczii (Mett.) Christenh.,1520355,FALSE
 Jamesonia_warscewiczii,rps4-trnS,KJ416368,303,Jamesonia warscewiczii (Mett.) Christenh.,Jamesonia warscewiczii (Mett.) Christenh.,1520355,FALSE
 Japanobotrychum_chamaeconium,rbcL,DQ849188,1325,Japanobotrychum chamaeconium (Bitter & Hieron. ex Bitter) Nishida ex Tagawa,Botrychium chamaeconium Bitter & Hieron.,401578,FALSE
-Japanobotrychum_lanuginosum,rbcL,JN628840,1336,Japanobotrychum lanuginosum (Wall. ex Hook. & Grev.) M. Nishida ex Tagawa,Japanobotrychium lanuginosum (Wall. ex Hook. & Grev.) M.Nishida ex Tagawa,350578,FALSE
+Japanobotrychum_lanuginosum,plastome,OM897592,64509,Japanobotrychum lanuginosum (Wall. ex Hook. & Grev.) M. Nishida ex Tagawa,Japanobotrychium lanuginosum (Wall. ex Hook. & Grev.) M.Nishida ex Tagawa,350578,FALSE
 Lastreopsis_amplissima,rbcL,KJ464434,1308,Lastreopsis amplissima (C. Presl) Tindale,Lastreopsis amplissima (C.Presl) Tindale,1521656,FALSE
 Lastreopsis_amplissima,rps4-trnS,KJ464676,438,Lastreopsis amplissima (C. Presl) Tindale,Lastreopsis amplissima (C.Presl) Tindale,1521656,FALSE
 Lastreopsis_amplissima,trnL-trnF,KJ464606,282,Lastreopsis amplissima (C. Presl) Tindale,Lastreopsis amplissima (C.Presl) Tindale,1521656,FALSE
@@ -8381,10 +8375,7 @@ Lellingeria_bishopii,atpB,GU376574,1260,Lellingeria bishopii Labiak,Lellingeria 
 Lellingeria_bishopii,rbcL,GU476878,1304,Lellingeria bishopii Labiak,Lellingeria bishopii Labiak,741642,FALSE
 Lellingeria_bishopii,rps4-trnS,GU387048,446,Lellingeria bishopii Labiak,Lellingeria bishopii Labiak,741642,FALSE
 Lellingeria_bishopii,trnL-trnF,GU387216,317,Lellingeria bishopii Labiak,Lellingeria bishopii Labiak,741642,FALSE
-Lellingeria_brevistipes,atpB,GU376576,1260,Lellingeria brevistipes (Mett. ex Kuhn) A. R. Sm. & R. C. Moran,Lellingeria brevistipes (Mett. ex Kuhn) A.R.Sm. & R.C.Moran,857779,FALSE
-Lellingeria_brevistipes,rbcL,GU387030,1270,Lellingeria brevistipes (Mett. ex Kuhn) A. R. Sm. & R. C. Moran,Lellingeria brevistipes (Mett. ex Kuhn) A.R.Sm. & R.C.Moran,857779,FALSE
-Lellingeria_brevistipes,rps4-trnS,GU387050,432,Lellingeria brevistipes (Mett. ex Kuhn) A. R. Sm. & R. C. Moran,Lellingeria brevistipes (Mett. ex Kuhn) A.R.Sm. & R.C.Moran,857779,FALSE
-Lellingeria_brevistipes,trnL-trnF,GU387218,314,Lellingeria brevistipes (Mett. ex Kuhn) A. R. Sm. & R. C. Moran,Lellingeria brevistipes (Mett. ex Kuhn) A.R.Sm. & R.C.Moran,857779,FALSE
+Lellingeria_brevistipes,plastome,MZ357088,66761,Lellingeria brevistipes (Mett. ex Kuhn) A. R. Sm. & R. C. Moran,Lellingeria brevistipes (Mett. ex Kuhn) A.R.Sm. & R.C.Moran,857779,FALSE
 Lellingeria_calolepis,atpB,GU376577,1260,Lellingeria calolepis Labiak,Lellingeria calolepis Labiak,861203,FALSE
 Lellingeria_calolepis,rbcL,GU386979,1270,Lellingeria calolepis Labiak,Lellingeria calolepis Labiak,861203,FALSE
 Lellingeria_calolepis,rps4-trnS,GU387051,445,Lellingeria calolepis Labiak,Lellingeria calolepis Labiak,861203,FALSE
@@ -9382,11 +9373,19 @@ Lomariopsis_leptocarpa,rps4-trnS,OL473652,592,Lomariopsis leptocarpa Fée,Lomari
 Lomariopsis_leptocarpa,trnL-trnF,OL473677,974,Lomariopsis leptocarpa Fée,Lomariopsis leptocarpa Fee,2912853,FALSE
 Lomariopsis_lineata,plastome,MT130608,67034,Lomariopsis lineata (C. Presl) Holttum,Lomariopsis cochinchinensis Fee,2831237,FALSE
 Lomariopsis_longicaudata,trnL-trnF,DQ396574,379,Lomariopsis longicaudata (Bonap.) Holttum,Lomariopsis longicaudata (Bonap.) Holttum,373562,FALSE
+Lomariopsis_longini,rbcL,OL420749,1428,Lomariopsis longini L.Y.Kuo & Y.H.Wu,Lomariopsis longini L.Y.Kuo & Y.H.Wu,1790074,FALSE
+Lomariopsis_longini,rps4,OL473658,603,Lomariopsis longini L.Y.Kuo & Y.H.Wu,Lomariopsis longini L.Y.Kuo & Y.H.Wu,1790074,FALSE
+Lomariopsis_longini,rps4-trnS,OL473658,600,Lomariopsis longini L.Y.Kuo & Y.H.Wu,Lomariopsis longini L.Y.Kuo & Y.H.Wu,1790074,FALSE
+Lomariopsis_longini,trnL-trnF,OL473684,975,Lomariopsis longini L.Y.Kuo & Y.H.Wu,Lomariopsis longini L.Y.Kuo & Y.H.Wu,1790074,FALSE
 Lomariopsis_madagascarica,trnL-trnF,DQ396576,372,Lomariopsis madagascarica (Bonap.) Alston,Lomariopsis madagascarica (Bonap.) Alston.,373563,FALSE
 Lomariopsis_mannii,trnL-trnF,DQ396577,381,Lomariopsis mannii (Underw.) Alston,Lomariopsis mannii (Underw.) Alston,373564,FALSE
 Lomariopsis_marginata,rbcL,AY818677,1273,Lomariopsis marginata (Schrad.) Kuhn,Lomariopsis marginata (Schrad.) Kuhn,264807,FALSE
 Lomariopsis_marginata,rps4-trnS,AY540049,428,Lomariopsis marginata (Schrad.) Kuhn,Lomariopsis marginata (Schrad.) Kuhn,264807,FALSE
 Lomariopsis_maxonii,rbcL,MW138155,1309,Lomariopsis maxonii (Underw.) Holttum,Lomariopsis maxonii (Underw.) Holttum,373565,FALSE
+Lomariopsis_moorei,rbcL,OL420753,1326,Lomariopsis moorei Y.H.Wu & L.Y.Kuo,Lomariopsis moorei Y.H.Wu & L.Y.Kuo,2912857,FALSE
+Lomariopsis_moorei,rps4,OL473662,579,Lomariopsis moorei Y.H.Wu & L.Y.Kuo,Lomariopsis moorei Y.H.Wu & L.Y.Kuo,2912857,FALSE
+Lomariopsis_moorei,rps4-trnS,OL473662,555,Lomariopsis moorei Y.H.Wu & L.Y.Kuo,Lomariopsis moorei Y.H.Wu & L.Y.Kuo,2912857,FALSE
+Lomariopsis_moorei,trnL-trnF,OL473691,897,Lomariopsis moorei Y.H.Wu & L.Y.Kuo,Lomariopsis moorei Y.H.Wu & L.Y.Kuo,2912857,FALSE
 Lomariopsis_muriculata,trnL-trnF,DQ396582,371,Lomariopsis muriculata Holttum,Lomariopsis muriculata Holttum,373566,FALSE
 Lomariopsis_nigropaleata,atpB,MN781294,1118,Lomariopsis nigropaleata Holttum,Lomariopsis nigropaleata Holttum,373567,FALSE
 Lomariopsis_nigropaleata,rbcL,MN781334,1155,Lomariopsis nigropaleata Holttum,Lomariopsis nigropaleata Holttum,373567,FALSE
@@ -9433,9 +9432,6 @@ Lorinseria_areolata,rps4-trnS,AF425155,478,Lorinseria areolata (L.) C. Presl,Lor
 Loxogramme_abyssinica,atpA,EF463826,1506,Loxogramme abyssinica (Baker) M. G. Price,Loxogramme abyssinica (Baker) M.G.Price,347919,FALSE
 Loxogramme_abyssinica,atpB,EF463498,1278,Loxogramme abyssinica (Baker) M. G. Price,Loxogramme abyssinica (Baker) M.G.Price,347919,FALSE
 Loxogramme_abyssinica,rbcL,EF463252,1308,Loxogramme abyssinica (Baker) M. G. Price,Loxogramme abyssinica (Baker) M.G.Price,347919,FALSE
-Loxogramme_abyssinica,rps4,DQ164474,574,Loxogramme abyssinica (Baker) M. G. Price,Loxogramme abyssinica (Baker) M.G.Price,347919,FALSE
-Loxogramme_abyssinica,rps4-trnS,DQ164474,543,Loxogramme abyssinica (Baker) M. G. Price,Loxogramme abyssinica (Baker) M.G.Price,347919,FALSE
-Loxogramme_abyssinica,trnL-trnF,DQ164506,340,Loxogramme abyssinica (Baker) M. G. Price,Loxogramme abyssinica (Baker) M.G.Price,347919,FALSE
 Loxogramme_acroscopa,plastome,MW876336,66246,Loxogramme acroscopa (Christ) C. Chr.,Loxogramme lankokiensis (Rosenst.) C.Chr.,2044837,FALSE
 Loxogramme_avenia,plastome,MW876335,66343,Loxogramme avenia (Blume) C. Presl,Loxogramme avenia C.Presl,194879,FALSE
 Loxogramme_chinensis,plastome,MT130671,66319,Loxogramme chinensis Ching,Loxogramme chinensis Ching,1649021,FALSE
@@ -9778,10 +9774,7 @@ Melpomene_firma,atpB,GU376630,1260,Melpomene firma (J. Sm.) A. R. Sm. & R. C. Mo
 Melpomene_firma,rbcL,GU387035,1270,Melpomene firma (J. Sm.) A. R. Sm. & R. C. Moran,Melpomene firma (J.Sm.) A.R.Sm. & R.C.Moran,558850,FALSE
 Melpomene_firma,rps4-trnS,GU387112,423,Melpomene firma (J. Sm.) A. R. Sm. & R. C. Moran,Melpomene firma (J.Sm.) A.R.Sm. & R.C.Moran,558850,FALSE
 Melpomene_firma,trnL-trnF,GU387276,320,Melpomene firma (J. Sm.) A. R. Sm. & R. C. Moran,Melpomene firma (J.Sm.) A.R.Sm. & R.C.Moran,558850,FALSE
-Melpomene_flabelliformis,atpB,GU376632,1260,Melpomene flabelliformis (Poir.) A. R. Sm. & R. C. Moran,Melpomene flabelliformis,263111,FALSE
-Melpomene_flabelliformis,rbcL,GU387028,1270,Melpomene flabelliformis (Poir.) A. R. Sm. & R. C. Moran,Melpomene flabelliformis,263111,FALSE
-Melpomene_flabelliformis,rps4-trnS,GU387114,391,Melpomene flabelliformis (Poir.) A. R. Sm. & R. C. Moran,Melpomene flabelliformis,263111,FALSE
-Melpomene_flabelliformis,trnL-trnF,GU387278,326,Melpomene flabelliformis (Poir.) A. R. Sm. & R. C. Moran,Melpomene flabelliformis,263111,FALSE
+Melpomene_flabelliformis,plastome,MZ357089,66807,Melpomene flabelliformis (Poir.) A. R. Sm. & R. C. Moran,Melpomene flabelliformis,263111,FALSE
 Melpomene_flagellata,rbcL,FJ011084,1279,Melpomene flagellata Lehnert,Melpomene flagellata Lehnert,558867,FALSE
 Melpomene_gracilis,atpB,FJ011006,1182,Melpomene gracilis (Hook.) A. R. Sm.,Melpomene gracilis (Hook.) A.R.Sm.,558851,FALSE
 Melpomene_gracilis,rbcL,FJ011043,1242,Melpomene gracilis (Hook.) A. R. Sm.,Melpomene gracilis (Hook.) A.R.Sm.,558851,FALSE
@@ -9972,10 +9965,10 @@ Microgramma_lindbergii,rps4,MT806119,571,Microgramma lindbergii (Mett.) de la So
 Microgramma_lindbergii,rps4-trnS,MT806119,555,Microgramma lindbergii (Mett.) de la Sota,Microgramma lindbergii (Mett. ex Kuhn) de la Sota,2080802,FALSE
 Microgramma_lindbergii,trnL-trnF,MT568813,833,Microgramma lindbergii (Mett.) de la Sota,Microgramma lindbergii (Mett. ex Kuhn) de la Sota,2080802,FALSE
 Microgramma_lycopodioides,plastome,MT130703,67463,Microgramma lycopodioides (L.) Copel.,Microgramma lycopodioides (L.) Copel.,253756,FALSE
-Microgramma_mauritiana,rbcL,DQ642148,1278,Microgramma mauritiana (Willd.) Tardieu,Microgramma mauritiana (Willd.) Tardieu,253850,FALSE
+Microgramma_mauritiana,rbcL,AY362577,1320,Microgramma mauritiana (Willd.) Tardieu,Microgramma mauritiana (Willd.) Tardieu,253850,FALSE
 Microgramma_mauritiana,rps4,DQ642186,570,Microgramma mauritiana (Willd.) Tardieu,Microgramma mauritiana (Willd.) Tardieu,253850,FALSE
 Microgramma_mauritiana,rps4-trnS,DQ642186,537,Microgramma mauritiana (Willd.) Tardieu,Microgramma mauritiana (Willd.) Tardieu,253850,FALSE
-Microgramma_mauritiana,trnL-trnF,DQ642226,258,Microgramma mauritiana (Willd.) Tardieu,Microgramma mauritiana (Willd.) Tardieu,253850,FALSE
+Microgramma_mauritiana,trnL-trnF,DQ642225,289,Microgramma mauritiana (Willd.) Tardieu,Microgramma mauritiana (Willd.) Tardieu,253850,FALSE
 Microgramma_megalophylla,rbcL,AY362578,1320,Microgramma megalophylla (Desv.) de la Sota,Microgramma megalophylla (Desv.) de la Sota,253757,FALSE
 Microgramma_megalophylla,rps4,AY362650,600,Microgramma megalophylla (Desv.) de la Sota,Microgramma megalophylla (Desv.) de la Sota,253757,FALSE
 Microgramma_megalophylla,rps4-trnS,AY362650,591,Microgramma megalophylla (Desv.) de la Sota,Microgramma megalophylla (Desv.) de la Sota,253757,FALSE
@@ -10133,11 +10126,11 @@ Microsorum_commutatum,rps4-trnS,MH113470,569,Microsorum commutatum (Blume) Copel
 Microsorum_commutatum,trnL-trnF,MH113503,777,Microsorum commutatum (Blume) Copel.,Microsorum commutatum (Blume) Copel.,253762,FALSE
 Microsorum_cuspidatum,plastome,MT364353,67430,Microsorum cuspidatum (D. Don) Tagawa,Microsorum cuspidatum (D.Don) Tagawa,187367,FALSE
 Microsorum_glossophyllum,atpA,MH175522,952,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
-Microsorum_glossophyllum,atpB,MH113578,682,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
+Microsorum_glossophyllum,atpB,MH113579,670,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
 Microsorum_glossophyllum,matK,MH113612,829,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
 Microsorum_glossophyllum,rbcL,MH051180,726,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
-Microsorum_glossophyllum,rps4,MH113478,542,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
-Microsorum_glossophyllum,rps4-trnS,MH113478,559,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
+Microsorum_glossophyllum,rps4,MH113479,542,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
+Microsorum_glossophyllum,rps4-trnS,MH113479,559,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
 Microsorum_glossophyllum,trnL-trnF,MH113512,511,Microsorum glossophyllum (Copel.) Copel.,Microsorum glossophyllum (Copel.) Copel.. 1947,2496288,FALSE
 Microsorum_grossum,atpA,EF463831,1506,Microsorum grossum (Langsd. & Fisch.) S. B. Andrews,Microsorum grossum (Langsd. & Fisch.) S.B.Andrews,253764,FALSE
 Microsorum_grossum,atpB,EF463500,1278,Microsorum grossum (Langsd. & Fisch.) S. B. Andrews,Microsorum grossum (Langsd. & Fisch.) S.B.Andrews,253764,FALSE
@@ -10409,7 +10402,7 @@ Myriopteris_tomentosa,rbcL,HQ157306,948,Myriopteris tomentosa (Link) Fée,Myriop
 Myriopteris_viscida,atpA,KF961757,1769,Myriopteris viscida (Davenp.) Grusz & Windham,Myriopteris viscida (Davenp.) Grusz & Windham,1519021,FALSE
 Myriopteris_viscida,rbcL,KF961821,1309,Myriopteris viscida (Davenp.) Grusz & Windham,Myriopteris viscida (Davenp.) Grusz & Windham,1519021,FALSE
 Myriopteris_windhamii,atpA,KF961756,1772,Myriopteris windhamii Grusz,Myriopteris windhamii Grusz,1519022,FALSE
-Myriopteris_windhamii,rbcL,KF961820,1298,Myriopteris windhamii Grusz,Myriopteris windhamii Grusz,1519022,FALSE
+Myriopteris_windhamii,rbcL,KF961822,1309,Myriopteris windhamii Grusz,Myriopteris windhamii Grusz,1519022,FALSE
 Myriopteris_wootonii,atpA,KF961759,1773,Myriopteris wootonii (Maxon) Grusz & Windham,Myriopteris wootonii (Maxon) Grusz & Windham,531292,FALSE
 Myriopteris_wootonii,atpB,FJ870828,574,Myriopteris wootonii (Maxon) Grusz & Windham,Myriopteris wootonii (Maxon) Grusz & Windham,531292,FALSE
 Myriopteris_wootonii,rbcL,KF961823,1309,Myriopteris wootonii (Maxon) Grusz & Windham,Myriopteris wootonii (Maxon) Grusz & Windham,531292,FALSE
@@ -10441,7 +10434,7 @@ Nephrolepis_acutifolia,rps4,HM748165,537,Nephrolepis acutifolia (Desv.) Christ,N
 Nephrolepis_acutifolia,rps4-trnS,HM748165,517,Nephrolepis acutifolia (Desv.) Christ,Nephrolepis acutifolia (Desv.) H.Christ,910271,FALSE
 Nephrolepis_biserrata,plastome,MT130615,67402,Nephrolepis biserrata (Sw.) Schott,Nephrolepis biserrata (Sw.) Schott,389499,FALSE
 Nephrolepis_brownii,rbcL,KR816691,1326,Nephrolepis brownii (Desv.) Hovenkamp & Miyam.,Nephrolepis brownii (Desv.) Hovenkamp & Miyam.,910272,FALSE
-Nephrolepis_cordifolia,plastome,MT130673,67219,Nephrolepis cordifolia (L.) C. Presl,Nephrolepis cordifolia (L.) C.Presl,32153,FALSE
+Nephrolepis_cordifolia,plastome,OL876381,67224,Nephrolepis cordifolia (L.) C. Presl,Nephrolepis auriculata (L.) Trimen,298046,FALSE
 Nephrolepis_davalliae,rbcL,HM748147,1244,Nephrolepis davalliae Alderw.,Nephrolepis davalliae Alderw.,910273,FALSE
 Nephrolepis_davalliae,rps4,HM748174,519,Nephrolepis davalliae Alderw.,Nephrolepis davalliae Alderw.,910273,FALSE
 Nephrolepis_davalliae,rps4-trnS,HM748174,525,Nephrolepis davalliae Alderw.,Nephrolepis davalliae Alderw.,910273,FALSE
@@ -10590,7 +10583,6 @@ Notogrammitis_givenii,trnL-trnF,JQ904112,867,Notogrammitis givenii (Parris) Parr
 Notogrammitis_heterophylla,atpB,JX499237,1269,Notogrammitis heterophylla (Labill.) Parris,Notogrammitis heterophylla (Labill.) Parris,263087,FALSE
 Notogrammitis_heterophylla,rbcL,AY460628,1311,Notogrammitis heterophylla (Labill.) Parris,Notogrammitis heterophylla (Labill.) Parris,263087,FALSE
 Notogrammitis_heterophylla,trnL-trnF,JQ904099,848,Notogrammitis heterophylla (Labill.) Parris,Notogrammitis heterophylla (Labill.) Parris,263087,FALSE
-Notogrammitis_patagonica,atpB,JX499246,1267,Notogrammitis patagonica (C. Chr.) Parris,Notogrammitis patagonica (C.Chr.) Parris,1280273,FALSE
 Notogrammitis_patagonica,rbcL,JQ904088,1213,Notogrammitis patagonica (C. Chr.) Parris,Notogrammitis patagonica (C.Chr.) Parris,1280273,FALSE
 Notogrammitis_patagonica,trnL-trnF,JQ904075,526,Notogrammitis patagonica (C. Chr.) Parris,Notogrammitis patagonica (C.Chr.) Parris,1280273,FALSE
 Notogrammitis_pseudociliata,atpB,AY459477,1266,Notogrammitis pseudociliata (Parris) Parris,Notogrammitis pseudociliata (Parris) Parris,263104,FALSE
@@ -10780,11 +10772,8 @@ Onychium_tenuifrons,matK,KR018623,658,Onychium tenuifrons Ching,Onychium tenuifr
 Onychium_tenuifrons,rbcL,AY266415,1263,Onychium tenuifrons Ching,Onychium tenuifrons Ching,238829,FALSE
 Onychium_tenuifrons,trnL-trnF,DQ432688,962,Onychium tenuifrons Ching,Onychium tenuifrons Ching,238829,FALSE
 Ophioderma_falcata,rbcL,KY099838,1268,Ophioderma falcata (C. Presl) O. Deg.,Ophioglossum falcatum (Presl) Fowler,1008361,FALSE
-Ophioderma_pendula,atpB,MN524734,1154,Ophioderma pendula (L.) C. Presl,Ophioderma pendulum,2705723,FALSE
-Ophioderma_pendula,matK,MN524822,592,Ophioderma pendula (L.) C. Presl,Ophioderma pendulum,2705723,FALSE
-Ophioderma_pendula,rbcL,MN524765,1282,Ophioderma pendula (L.) C. Presl,Ophioderma pendulum,2705723,FALSE
-Ophioderma_pendula,rps4,MN524717,580,Ophioderma pendula (L.) C. Presl,Ophioderma pendulum,2705723,FALSE
-Ophioderma_pendula,rps4-trnS,MN524717,340,Ophioderma pendula (L.) C. Presl,Ophioderma pendulum,2705723,FALSE
+Ophioderma_pendulum,plastome,OM897600,63104,Ophioderma pendulum (L.) C. Presl,Ophioderma pendulum,2705723,FALSE
+Ophioderma_redactophylla,atpB,OL519835,242,Ophioderma redactophylla Chantanaorr. & Li Bing Zhang,Ophioderma redactophyllum Chantanaorr. & Li Bing Zhang,2705724,FALSE
 Ophioderma_redactophylla,matK,MN524824,581,Ophioderma redactophylla Chantanaorr. & Li Bing Zhang,Ophioderma redactophyllum Chantanaorr. & Li Bing Zhang,2705724,FALSE
 Ophioderma_redactophylla,rbcL,MN524767,1278,Ophioderma redactophylla Chantanaorr. & Li Bing Zhang,Ophioderma redactophyllum Chantanaorr. & Li Bing Zhang,2705724,FALSE
 Ophioderma_redactophylla,rps4,MN524719,580,Ophioderma redactophylla Chantanaorr. & Li Bing Zhang,Ophioderma redactophyllum Chantanaorr. & Li Bing Zhang,2705724,FALSE
@@ -10797,47 +10786,30 @@ Ophioglossum_austroasiaticum,rps4-trnS,MN524804,404,Ophioglossum austroasiaticum
 Ophioglossum_californicum,plastome,KC117178,62976,Ophioglossum californicum Prantl,Ophioglossum californicum Prantl,1267209,FALSE
 Ophioglossum_coriaceum,rbcL,JF950813,1274,Ophioglossum coriaceum A. Cunn.,Ophioglossum coriaceum A.Cunn.,1054599,FALSE
 Ophioglossum_coriaceum,trnL-trnF,JF950935,338,Ophioglossum coriaceum A. Cunn.,Ophioglossum coriaceum A.Cunn.,1054599,FALSE
-Ophioglossum_costatum,atpB,MN524736,1164,Ophioglossum costatum R. Br.,Ophioglossum costatum R.Br.,208702,FALSE
-Ophioglossum_costatum,matK,MN524826,592,Ophioglossum costatum R. Br.,Ophioglossum costatum R.Br.,208702,FALSE
-Ophioglossum_costatum,rbcL,MN524768,1282,Ophioglossum costatum R. Br.,Ophioglossum costatum R.Br.,208702,FALSE
-Ophioglossum_costatum,rps4,MN524788,567,Ophioglossum costatum R. Br.,Ophioglossum costatum R.Br.,208702,FALSE
-Ophioglossum_costatum,rps4-trnS,MN524788,112,Ophioglossum costatum R. Br.,Ophioglossum costatum R.Br.,208702,FALSE
-Ophioglossum_crotalophoroides,atpB,MN524737,1167,Ophioglossum crotalophoroides Walter,Ophioglossum crotalophoroides Walter,208701,FALSE
-Ophioglossum_crotalophoroides,matK,MN524827,583,Ophioglossum crotalophoroides Walter,Ophioglossum crotalophoroides Walter,208701,FALSE
-Ophioglossum_crotalophoroides,rbcL,AY138417,1321,Ophioglossum crotalophoroides Walter,Ophioglossum crotalophoroides Walter,208701,FALSE
-Ophioglossum_crotalophoroides,rps4,MN524789,566,Ophioglossum crotalophoroides Walter,Ophioglossum crotalophoroides Walter,208701,FALSE
-Ophioglossum_crotalophoroides,rps4-trnS,MN524789,412,Ophioglossum crotalophoroides Walter,Ophioglossum crotalophoroides Walter,208701,FALSE
+Ophioglossum_costatum,plastome,OM897594,63829,Ophioglossum costatum R. Br.,Ophioglossum costatum R.Br.,208702,FALSE
+Ophioglossum_crotalophoroides,plastome,OM897595,64755,Ophioglossum crotalophoroides Walter,Ophioglossum crotalophoroides Walter,208701,FALSE
 Ophioglossum_eliminatum,rbcL,MK120496,606,Ophioglossum eliminatum Khand. & Goswamy,Ophioglossum eliminatum S.Khandelwal & H.K.Goswami,2500583,FALSE
-Ophioglossum_engelmannii,rbcL,L11058,1428,Ophioglossum engelmannii Prantl,Ophioglossum engelmannii Prantl,13834,FALSE
+Ophioglossum_engelmannii,plastome,OM897596,64020,Ophioglossum engelmannii Prantl,Ophioglossum engelmannii Prantl,13834,FALSE
 Ophioglossum_gomezianum,rbcL,AY138419,1243,Ophioglossum gomezianum Welw. ex A. Braun apud Kuhn,Ophioglossum gomezianum Welw. ex A.Braun,208703,FALSE
 Ophioglossum_gramineum,rbcL,AY138412,1321,Ophioglossum gramineum Willd.,Ophioglossum gramineum Willd.,208697,FALSE
 Ophioglossum_kawamurae,matK,AB716739,783,Ophioglossum kawamurae Tagawa,Ophioglossum kawamurae Tagawa,1008363,FALSE
 Ophioglossum_kawamurae,rbcL,AB626648,1197,Ophioglossum kawamurae Tagawa,Ophioglossum kawamurae Tagawa,1008363,FALSE
 Ophioglossum_lancifolium,rbcL,AY138415,1321,Ophioglossum lancifolium C. Presl,Ophioglossum richardsiae J.E.Burrows,208699,FALSE
 Ophioglossum_namegatae,rbcL,AB574675,1205,Ophioglossum namegatae M. Nishida & Kurita,Ophioglossum namegatae M.Nishida & Kurita,872794,FALSE
-Ophioglossum_nudicaule,matK,MN524829,585,Ophioglossum nudicaule L. fil.,Ophioglossum nudicaule L.f.,208700,FALSE
-Ophioglossum_nudicaule,rbcL,MN524772,1266,Ophioglossum nudicaule L. fil.,Ophioglossum nudicaule L.f.,208700,FALSE
-Ophioglossum_nudicaule,rps4,MN524792,561,Ophioglossum nudicaule L. fil.,Ophioglossum nudicaule L.f.,208700,FALSE
-Ophioglossum_nudicaule,rps4-trnS,MN524792,408,Ophioglossum nudicaule L. fil.,Ophioglossum nudicaule L.f.,208700,FALSE
+Ophioglossum_nudicaule,plastome,OM897598,48242,Ophioglossum nudicaule L. fil.,Ophioglossum nudicaule L.f.,208700,FALSE
 Ophioglossum_parvifolium,rbcL,MW666157,603,Ophioglossum parvifolium Hook. & Grev.,Ophioglossum parvifolium Grev. & Hook.,2169457,FALSE
 Ophioglossum_parvum,matK,MN524843,584,Ophioglossum parvum M. Nishida & Kurita,Ophioglossum parvum M.Nishida & Kurita,872795,FALSE
 Ophioglossum_parvum,rbcL,MN524787,1278,Ophioglossum parvum M. Nishida & Kurita,Ophioglossum parvum M.Nishida & Kurita,872795,FALSE
 Ophioglossum_parvum,rps4,MN524805,573,Ophioglossum parvum M. Nishida & Kurita,Ophioglossum parvum M.Nishida & Kurita,872795,FALSE
 Ophioglossum_parvum,rps4-trnS,MN524805,404,Ophioglossum parvum M. Nishida & Kurita,Ophioglossum parvum M.Nishida & Kurita,872795,FALSE
-Ophioglossum_petiolatum,atpB,MN524743,1168,Ophioglossum petiolatum Hook.,Ophioglossum petiolatum Hook.,37426,FALSE
-Ophioglossum_petiolatum,matK,MN524832,584,Ophioglossum petiolatum Hook.,Ophioglossum petiolatum Hook.,37426,FALSE
-Ophioglossum_petiolatum,rbcL,MN524776,1282,Ophioglossum petiolatum Hook.,Ophioglossum petiolatum Hook.,37426,FALSE
-Ophioglossum_petiolatum,rps4,MN524796,573,Ophioglossum petiolatum Hook.,Ophioglossum petiolatum Hook.,37426,FALSE
-Ophioglossum_petiolatum,rps4-trnS,MN524796,408,Ophioglossum petiolatum Hook.,Ophioglossum petiolatum Hook.,37426,FALSE
+Ophioglossum_petiolatum,plastome,OM897601,64745,Ophioglossum petiolatum Hook.,Ophioglossum petiolatum Hook.,37426,FALSE
 Ophioglossum_polyphyllum,rbcL,MT657859,1292,Ophioglossum polyphyllum A. Braun apud Seubert,Ophioglossum polyphyllum A.Braun ex Seub.,2853783,FALSE
 Ophioglossum_pusillum,rbcL,AY138413,1321,Ophioglossum pusillum Raf.,Ophioglossum pusillum Raf.,208698,FALSE
-Ophioglossum_reticulatum,atpB,MN524750,1167,Ophioglossum reticulatum L.,Ophioglossum reticulatum L.,58522,FALSE
-Ophioglossum_reticulatum,matK,MN524840,584,Ophioglossum reticulatum L.,Ophioglossum reticulatum L.,58522,FALSE
-Ophioglossum_reticulatum,rbcL,MN524784,1282,Ophioglossum reticulatum L.,Ophioglossum reticulatum L.,58522,FALSE
-Ophioglossum_reticulatum,rps4,MN524803,573,Ophioglossum reticulatum L.,Ophioglossum reticulatum L.,58522,FALSE
-Ophioglossum_reticulatum,rps4-trnS,MN524803,400,Ophioglossum reticulatum L.,Ophioglossum reticulatum L.,58522,FALSE
+Ophioglossum_reticulatum,plastome,OM897602,64743,Ophioglossum reticulatum L.,Ophioglossum reticulatum L.,58522,FALSE
 Ophioglossum_rubellum,rbcL,MW666155,603,Ophioglossum rubellum Welw. ex A. Braun,Ophioglossum indicum B.L.Yadav & H.K.Goswami,2862420,FALSE
 Ophioglossum_thermale,rbcL,AB574680,1205,Ophioglossum thermale Kom.,Ophioglossum thermale var. nipponicum (Miyabe & Kudo) M.Nishida ex Tagawa,872796,FALSE
+Ophioglossum_trilokinathii,rbcL,MW081146,590,"Ophioglossum trilokinathii B.L.Yadav, M.K.Meghvansi, K.Meena & C.B.Gena","Ophioglossum trilokinathii B.L.Yadav, M.K.Meghvansi, K.Meena & C.B.Gena",2909875,FALSE
+Ophioglossum_trilokinathii,trnL-trnF,MW081148,344,"Ophioglossum trilokinathii B.L.Yadav, M.K.Meghvansi, K.Meena & C.B.Gena","Ophioglossum trilokinathii B.L.Yadav, M.K.Meghvansi, K.Meena & C.B.Gena",2909875,FALSE
 Ophioglossum_vulgatum,plastome,MZ066610,64671,Ophioglossum vulgatum L.,Ophioglossum vulgatum L.,49227,FALSE
 Oreogrammitis_adspersa,plastome,MT130563,66152,Oreogrammitis adspersa (Blume) Parris,Oreogrammitis adspersa (Blume) Parris,1578138,FALSE
 Oreogrammitis_archboldii,rbcL,OK514682,587,Oreogrammitis archboldii (C. Chr.) Parris,Oreogrammitis archboldii (C.Chr.) Parris,2869518,FALSE
@@ -11204,8 +11176,6 @@ Parapolystichum_windsorensis,trnL-trnF,KJ464639,200,"Parapolystichum windsorensi
 Parrisia_parietina,atpA,EF463812,1506,Parrisia parietina (Klotzsch) Shalisko & Sundue,Parrisia parietina (Klotzsch) Shalisko & Sundue,449845,FALSE
 Parrisia_parietina,atpB,EF463494,1278,Parrisia parietina (Klotzsch) Shalisko & Sundue,Parrisia parietina (Klotzsch) Shalisko & Sundue,449845,FALSE
 Parrisia_parietina,rbcL,EF463248,1308,Parrisia parietina (Klotzsch) Shalisko & Sundue,Parrisia parietina (Klotzsch) Shalisko & Sundue,449845,FALSE
-Parrisia_parietina,rps4-trnS,KY712288,368,Parrisia parietina (Klotzsch) Shalisko & Sundue,Enterosora sprucei (Hook.) Parris,1521232,FALSE
-Parrisia_parietina,trnL-trnF,KY711566,270,Parrisia parietina (Klotzsch) Shalisko & Sundue,Enterosora sprucei (Hook.) Parris,1521232,FALSE
 Pecluma_alfredii,rbcL,AY096206,1320,Pecluma alfredii (Rosenst.) M. G. Price,Pecluma alfredii (Rosenst.) M.G.Price,194897,FALSE
 Pecluma_alfredii,rps4,AY096232,587,Pecluma alfredii (Rosenst.) M. G. Price,Pecluma alfredii (Rosenst.) M.G.Price,194897,FALSE
 Pecluma_alfredii,rps4-trnS,AY096232,309,Pecluma alfredii (Rosenst.) M. G. Price,Pecluma alfredii (Rosenst.) M.G.Price,194897,FALSE
@@ -11376,9 +11346,6 @@ Pellaea_brachyptera,atpA,MW057302,1751,Pellaea brachyptera (T. Moore) Baker,Pell
 Pellaea_brachyptera,rbcL,MW057278,1309,Pellaea brachyptera (T. Moore) Baker,Pellaea brachyptera (T.Moore) Baker,414641,FALSE
 Pellaea_breweri,atpA,EU268764,1687,Pellaea breweri D. C. Eaton,Pellaea breweri D.C.Eaton,414642,FALSE
 Pellaea_breweri,rbcL,EU268808,1309,Pellaea breweri D. C. Eaton,Pellaea breweri D.C.Eaton,414642,FALSE
-Pellaea_breweri,rps4,DQ914079,588,Pellaea breweri D. C. Eaton,Pellaea breweri D.C.Eaton,414642,FALSE
-Pellaea_breweri,rps4-trnS,EU831113,531,Pellaea breweri D. C. Eaton,Pellaea breweri D.C.Eaton,414642,FALSE
-Pellaea_breweri,trnL-trnF,DQ914179,386,Pellaea breweri D. C. Eaton,Pellaea breweri D.C.Eaton,414642,FALSE
 Pellaea_bridgesii,atpA,MW057315,1773,Pellaea bridgesii Hook.,Pellaea bridgesii Hook.,414643,FALSE
 Pellaea_bridgesii,rbcL,MW057291,1309,Pellaea bridgesii Hook.,Pellaea bridgesii Hook.,414643,FALSE
 Pellaea_calidirupium,atpA,MW057303,1764,Pellaea calidirupium,Pellaea calidirupium,911569,FALSE
@@ -11428,8 +11395,8 @@ Pellaea_nana,trnL-trnF,MT080364,887,Pellaea nana (Hook.) Bostock,Pellaea nana (H
 Pellaea_notabilis,rps4,DQ914099,588,Pellaea notabilis Maxon,Pellaea notabilis Maxon,414658,FALSE
 Pellaea_notabilis,rps4-trnS,DQ914099,528,Pellaea notabilis Maxon,Pellaea notabilis Maxon,414658,FALSE
 Pellaea_notabilis,trnL-trnF,DQ914194,394,Pellaea notabilis Maxon,Pellaea notabilis Maxon,414658,FALSE
-Pellaea_ovata,atpA,MW057308,1773,Pellaea ovata (Desv.) Weath.,Pellaea ovata (Desv.) Weath.,414659,FALSE
-Pellaea_ovata,rbcL,MW057284,1309,Pellaea ovata (Desv.) Weath.,Pellaea ovata (Desv.) Weath.,414659,FALSE
+Pellaea_ovata,atpA,OM938538,1773,Pellaea ovata (Desv.) Weath.,Pellaea ovata (Desv.) Weath.,414659,FALSE
+Pellaea_ovata,rbcL,OM914498,1309,Pellaea ovata (Desv.) Weath.,Pellaea ovata (Desv.) Weath.,414659,FALSE
 Pellaea_ovata,rps4,EU831125,588,Pellaea ovata (Desv.) Weath.,Pellaea ovata (Desv.) Weath.,414659,FALSE
 Pellaea_ovata,rps4-trnS,DQ914101,545,Pellaea ovata (Desv.) Weath.,Pellaea ovata (Desv.) Weath.,414659,FALSE
 Pellaea_ovata,trnL-trnF,DQ914195,386,Pellaea ovata (Desv.) Weath.,Pellaea ovata (Desv.) Weath.,414659,FALSE
@@ -11460,14 +11427,11 @@ Pellaea_rufa,rps4-trnS,GU935553,555,Pellaea rufa A. F. Tryon,Pellaea rufa A.F.Tr
 Pellaea_rufa,trnL-trnF,GU935616,907,Pellaea rufa A. F. Tryon,Pellaea rufa A.F.Tryon,991852,FALSE
 Pellaea_sagittata,atpA,MW057312,1769,Pellaea sagittata (Cav.) Link,Pellaea sagittata,414661,FALSE
 Pellaea_sagittata,rbcL,MW057288,1309,Pellaea sagittata (Cav.) Link,Pellaea sagittata,414661,FALSE
-Pellaea_sagittata,rps4,DQ914102,577,Pellaea sagittata (Cav.) Link,Pellaea sagittata,414661,FALSE
-Pellaea_sagittata,rps4-trnS,EU831126,536,Pellaea sagittata (Cav.) Link,Pellaea sagittata,414661,FALSE
-Pellaea_sagittata,trnL-trnF,DQ914196,385,Pellaea sagittata (Cav.) Link,Pellaea sagittata,414661,FALSE
 Pellaea_ternifolia,atpA,MW057313,1773,Pellaea ternifolia (Cav.) Link,Pellaea ternifolia (Cav.) Link,414663,FALSE
 Pellaea_ternifolia,rbcL,MW057289,1309,Pellaea ternifolia (Cav.) Link,Pellaea ternifolia (Cav.) Link,414663,FALSE
 Pellaea_truncata,plastome,MH173066,67412,Pellaea truncata Goodd.,Pellaea truncata Goodd.,414665,FALSE
-Pellaea_wrightiana,atpA,MW057314,1773,Pellaea wrightiana Hook.,Pellaea wrightiana Hook.,414666,FALSE
-Pellaea_wrightiana,rbcL,MW057290,1309,Pellaea wrightiana Hook.,Pellaea wrightiana Hook.,414666,FALSE
+Pellaea_wrightiana,atpA,OM938544,1773,Pellaea wrightiana Hook.,Pellaea wrightiana Hook.,414666,FALSE
+Pellaea_wrightiana,rbcL,OM914502,1309,Pellaea wrightiana Hook.,Pellaea wrightiana Hook.,414666,FALSE
 Pentagramma_glanduloviscida,atpA,KR066355,1770,Pentagramma glanduloviscida Schuettp. & Windham,Pentagramma glanduloviscida Schuettp. & Windham,1769930,FALSE
 Pentagramma_maxonii,atpA,MK632525,1770,Pentagramma maxonii (Weath.) Schuettp. & Windham,Pentagramma maxonii (Weath.) Schuettp. & Windham,500434,FALSE
 Pentagramma_maxonii,rbcL,MK632740,1309,Pentagramma maxonii (Weath.) Schuettp. & Windham,Pentagramma maxonii (Weath.) Schuettp. & Windham,500434,FALSE
@@ -12030,9 +11994,7 @@ Polyphlebium_venosum,rbcL,AY175786,1206,Polyphlebium venosum (R. Br.) Copel.,Pol
 Polyphlebium_vieillardii,rbcL,AB257471,1206,Polyphlebium vieillardii (Bosch) Ebihara & K. Iwats.,Polyphlebium vieillardii (Bosch) Ebihara & K.Iwats.,381263,FALSE
 Polypodium_amorphum,rbcL,U21142,1323,Polypodium amorphum Suksd.,Polypodium amorphum Suksd.,38355,FALSE
 Polypodium_appalachianum,rbcL,U21141,1323,Polypodium appalachianum Haufler & Windham,Polypodium appalachianum Haufler & Windham,38354,FALSE
-Polypodium_arcanum,rbcL,AY362586,1320,Polypodium arcanum Maxon,Polypodium arcanum Maxon,253782,FALSE
-Polypodium_arcanum,rps4,AY362659,580,Polypodium arcanum Maxon,Polypodium arcanum Maxon,253782,FALSE
-Polypodium_arcanum,rps4-trnS,AY362659,563,Polypodium arcanum Maxon,Polypodium arcanum Maxon,253782,FALSE
+Polypodium_arcanum,plastome,MZ357090,67455,Polypodium arcanum Maxon,Polypodium arcanum Maxon,253782,FALSE
 Polypodium_californicum,rbcL,KF909040,1308,Polypodium californicum Kaulf.,Polypodium californicum Kaulf.,104286,FALSE
 Polypodium_californicum,trnL-trnF,AF159189,159,Polypodium californicum Kaulf.,Polypodium californicum Kaulf.,104286,FALSE
 Polypodium_cambricum,matK,HE970727,802,Polypodium cambricum L.,Polypodium cambricum L.,664666,FALSE
@@ -12060,13 +12022,13 @@ Polypodium_pellucidum,rps4-trnS,AY096234,462,Polypodium pellucidum Kaulf.,Polypo
 Polypodium_pellucidum,trnL-trnF,AF159190,237,Polypodium pellucidum Kaulf.,Polypodium pellucidum Kaulf.,38392,FALSE
 Polypodium_plesiosorum,rbcL,U21144,1323,Polypodium plesiosorum Kunze,Polypodium plesiosorum Kunze,38357,FALSE
 Polypodium_puberulum,rbcL,U21143,1323,Polypodium puberulum Schltdl. & Cham.,Polypodium glaberulum Mickel & Beitel,38356,FALSE
-Polypodium_rhodopleuron,rbcL,U21145,1323,Polypodium rhodopleuron Kunze,Polypodium rhodopleuron Kunze,38389,FALSE
+Polypodium_rhodopleuron,plastome,MZ357091,67461,Polypodium rhodopleuron Kunze,Polypodium rhodopleuron Kunze,38389,FALSE
 Polypodium_scouleri,rbcL,U21150,1323,Polypodium scouleri Hook. & Grev.,Polypodium scouleri Hook. & Grev.,38393,FALSE
 Polypodium_sibiricum,plastome,MW876355,67344,Polypodium sibiricum Sipliv.,Polypodium sibiricum Sipliv.,104296,FALSE
-Polypodium_subpetiolatum,rbcL,KF909064,1308,Polypodium subpetiolatum Hook.,Polypodium subpetiolatum Hook.,664672,FALSE
+Polypodium_subpetiolatum,plastome,MZ357092,67462,Polypodium subpetiolatum Hook.,Polypodium subpetiolatum Hook.,664672,FALSE
 Polypodium_virginianum,atpA,KF186559,1523,Polypodium virginianum L.,Polypodium virginianum L.,872808,FALSE
 Polypodium_virginianum,rbcL,KF186527,1309,Polypodium virginianum L.,Polypodium virginianum L.,872808,FALSE
-Polypodium_vulgare,plastome,MT984517,34113,Polypodium vulgare L.,Polypodium vulgare L.,58048,FALSE
+Polypodium_vulgare,plastome,MZ357093,67312,Polypodium vulgare L.,Polypodium vulgare L.,58048,FALSE
 Polystichopsis_chaerophylloides,atpA,EF463718,1506,Polystichopsis chaerophylloides (Poir.) Morton,Polystichopsis chaerophylloides (Poir.) C.V.Morton,207852,FALSE
 Polystichopsis_chaerophylloides,atpB,EF463434,1278,Polystichopsis chaerophylloides (Poir.) Morton,Polystichopsis chaerophylloides (Poir.) C.V.Morton,207852,FALSE
 Polystichopsis_chaerophylloides,rbcL,EF463216,1308,Polystichopsis chaerophylloides (Poir.) Morton,Polystichopsis chaerophylloides (Poir.) C.V.Morton,207852,FALSE
@@ -12200,8 +12162,6 @@ Polystichum_discretum,rps4-trnS,DQ151864,488,Polystichum discretum (D. Don) J. S
 Polystichum_discretum,trnL-trnF,DQ150401,377,Polystichum discretum (D. Don) J. Sm.,Polystichum discretum (D.Don) J.Sm.,341138,FALSE
 Polystichum_disjunctum,rbcL,MK174902,1188,Polystichum disjunctum Ching ex W. M. Chu & Z. R. He,Polystichum disjunctum Ching ex W.M.Chu & Z.R.He,341139,FALSE
 Polystichum_disjunctum,rps4,MK214701,561,Polystichum disjunctum Ching ex W. M. Chu & Z. R. He,Polystichum disjunctum Ching ex W.M.Chu & Z.R.He,341139,FALSE
-Polystichum_disjunctum,rps4-trnS,MK214701,550,Polystichum disjunctum Ching ex W. M. Chu & Z. R. He,Polystichum disjunctum Ching ex W.M.Chu & Z.R.He,341139,FALSE
-Polystichum_disjunctum,trnL-trnF,DQ150402,378,Polystichum disjunctum Ching ex W. M. Chu & Z. R. He,Polystichum disjunctum Ching ex W.M.Chu & Z.R.He,341139,FALSE
 Polystichum_dracomontanum,rbcL,AF537240,1255,Polystichum dracomontanum Schelpe & N. C. Anthony,Polystichum dracomontanum,207857,FALSE
 Polystichum_drepanum,rbcL,KC878852,1153,Polystichum drepanum (Sw.) C. Presl,Polystichum drepanum C.Presl,1445492,FALSE
 Polystichum_drepanum,rps4,KC890811,443,Polystichum drepanum (Sw.) C. Presl,Polystichum drepanum C.Presl,1445492,FALSE
@@ -12588,9 +12548,7 @@ Polystichum_xichouense,rbcL,DQ054515,1267,Polystichum xichouense (S. K. Wu & Mit
 Polystichum_xiphophyllum,rbcL,KU244701,1221,Polystichum xiphophyllum (Baker) Diels,Polystichum xiphophyllum (Baker) Diels,341151,FALSE
 Polystichum_xiphophyllum,rps4-trnS,KU244855,393,Polystichum xiphophyllum (Baker) Diels,Polystichum xiphophyllum (Baker) Diels,341151,FALSE
 Polystichum_xiphophyllum,trnL-trnF,KU244940,882,Polystichum xiphophyllum (Baker) Diels,Polystichum xiphophyllum (Baker) Diels,341151,FALSE
-Polystichum_yaanense,rbcL,KU244762,1221,Polystichum yaanense Liang Zhang & Li Bing Zhang,Polystichum yaanense,1160296,FALSE
-Polystichum_yaanense,rps4-trnS,KU244936,398,Polystichum yaanense Liang Zhang & Li Bing Zhang,Polystichum yaanense,1160296,FALSE
-Polystichum_yaanense,trnL-trnF,KU245025,835,Polystichum yaanense Liang Zhang & Li Bing Zhang,Polystichum yaanense,1160296,FALSE
+Polystichum_yaanense,plastome,MT773344,54757,Polystichum yaanense Liang Zhang & Li Bing Zhang,Polystichum yaanense,1160296,FALSE
 Polystichum_yaeyamense,rbcL,AB575225,1205,Polystichum yaeyamense (Makino) Makino,Polystichum yaeyamense (Makino) Makino,872832,FALSE
 Polystichum_yuanum,rbcL,KU244737,1221,Polystichum yuanum Ching,Polystichum yuanum,265695,FALSE
 Polystichum_yuanum,rps4-trnS,KU244907,386,Polystichum yuanum Ching,Polystichum yuanum,265695,FALSE
@@ -12761,8 +12719,8 @@ Pteris_argyraea,rbcL,MF972804,1286,Pteris argyraea T. Moore,Pteris argyraea T.Mo
 Pteris_argyraea,rps4,MF972827,572,Pteris argyraea T. Moore,Pteris argyraea T.Moore,451089,FALSE
 Pteris_argyraea,rps4-trnS,MF972827,329,Pteris argyraea T. Moore,Pteris argyraea T.Moore,451089,FALSE
 Pteris_argyraea,trnL-trnF,MF972845,883,Pteris argyraea T. Moore,Pteris argyraea T.Moore,451089,FALSE
-Pteris_arisanensis,matK,MZ340418,891,Pteris arisanensis Tagawa,Pteris arisanensis Tagawa,1508565,FALSE
-Pteris_arisanensis,rbcL,MZ291666,1278,Pteris arisanensis Tagawa,Pteris arisanensis Tagawa,1508565,FALSE
+Pteris_arisanensis,matK,OL694386,891,Pteris arisanensis Tagawa,Pteris arisanensis Tagawa,1508565,FALSE
+Pteris_arisanensis,rbcL,OL694234,1278,Pteris arisanensis Tagawa,Pteris arisanensis Tagawa,1508565,FALSE
 Pteris_aspericaulis,atpB,MF972661,1168,Pteris aspericaulis Wall. ex J. Agardh,Pteris aspericaulis Wall. ex J.Agardh,265697,FALSE
 Pteris_aspericaulis,matK,MF972728,900,Pteris aspericaulis Wall. ex J. Agardh,Pteris aspericaulis Wall. ex J.Agardh,265697,FALSE
 Pteris_aspericaulis,rbcL,MF972805,1286,Pteris aspericaulis Wall. ex J. Agardh,Pteris aspericaulis Wall. ex J.Agardh,265697,FALSE
@@ -12772,8 +12730,8 @@ Pteris_aspericaulis,trnL-trnF,MF972846,868,Pteris aspericaulis Wall. ex J. Agard
 Pteris_assamica,matK,KF289556,891,Pteris assamica Fraser-Jenk. & T. G. Walker,Pteris assamica Fraser-Jenk.,1508566,FALSE
 Pteris_assamica,rbcL,KF289686,1278,Pteris assamica Fraser-Jenk. & T. G. Walker,Pteris assamica Fraser-Jenk.,1508566,FALSE
 Pteris_atrovirens,rbcL,MW660785,596,Pteris atrovirens Willd.,Pteris atrovirens Willd.,2815887,FALSE
-Pteris_austrotaiwanensis,matK,MZ340419,889,Pteris austrotaiwanensis Y. S. Chao,Pteris austrotaiwanensis Y.S.Chao,2919484,FALSE
-Pteris_austrotaiwanensis,rbcL,MZ291667,1278,Pteris austrotaiwanensis Y. S. Chao,Pteris austrotaiwanensis Y.S.Chao,2919484,FALSE
+Pteris_austrotaiwanensis,matK,OL694510,889,Pteris austrotaiwanensis Y. S. Chao,Pteris austrotaiwanensis Y.S.Chao,2919484,FALSE
+Pteris_austrotaiwanensis,rbcL,OL694358,1278,Pteris austrotaiwanensis Y. S. Chao,Pteris austrotaiwanensis Y.S.Chao,2919484,FALSE
 Pteris_bahamensis,atpA,KM007585,1758,Pteris bahamensis (J. Agardh) Fée,Pteris bahamensis (J.Agardh) Fee,1643361,FALSE
 Pteris_bahamensis,atpB,KM007700,1171,Pteris bahamensis (J. Agardh) Fée,Pteris bahamensis (J.Agardh) Fee,1643361,FALSE
 Pteris_bahamensis,rbcL,KM008150,1286,Pteris bahamensis (J. Agardh) Fée,Pteris bahamensis (J.Agardh) Fee,1643361,FALSE
@@ -12797,8 +12755,8 @@ Pteris_biaurita,rps4,KM007871,571,Pteris biaurita subsp. fornicata Fraser-Jenk.,
 Pteris_biaurita,rps4-trnS,KM007871,380,Pteris biaurita subsp. fornicata Fraser-Jenk.,Pteris pacifica Hieron.,1508601,FALSE
 Pteris_biaurita,trnL-trnF,KM008095,579,Pteris biaurita subsp. fornicata Fraser-Jenk.,Pteris pacifica Hieron.,1508601,FALSE
 Pteris_blumeana,rbcL,MW660783,600,Pteris blumeana J. Agardh,Pteris blumeana J.Agardh,2815889,FALSE
-Pteris_boninensis,matK,MZ340398,891,Pteris boninensis H. Ohba,Pteris boninensis H.Ohba,872833,FALSE
-Pteris_boninensis,rbcL,MZ291646,1278,Pteris boninensis H. Ohba,Pteris boninensis H.Ohba,872833,FALSE
+Pteris_boninensis,matK,OL694397,891,Pteris boninensis H. Ohba,Pteris boninensis H.Ohba,872833,FALSE
+Pteris_boninensis,rbcL,OL694245,1278,Pteris boninensis H. Ohba,Pteris boninensis H.Ohba,872833,FALSE
 Pteris_borneensis,matK,KY705069,891,Pteris borneensis Y. S. Chao,Pteris borneensis Y.S.Chao,2152916,FALSE
 Pteris_borneensis,rbcL,KY705067,1278,Pteris borneensis Y. S. Chao,Pteris borneensis Y.S.Chao,2152916,FALSE
 Pteris_brasiliensis,atpA,KM007590,1759,Pteris brasiliensis Raddi,Pteris brasiliensis Raddi,434454,FALSE
@@ -13036,16 +12994,16 @@ Pteris_kidoi,matK,KF289500,891,Pteris kidoi Kurata,Pteris kidoi Sa.Kurata,872840
 Pteris_kidoi,rbcL,HM582613,1287,Pteris kidoi Kurata,Pteris kidoi Sa.Kurata,872840,FALSE
 Pteris_kingiana,matK,KF289523,882,Pteris kingiana Endl.,Pteris kingiana Endl.,1508591,FALSE
 Pteris_kingiana,rbcL,KF289653,1278,Pteris kingiana Endl.,Pteris kingiana Endl.,1508591,FALSE
-Pteris_kiuschiuensis,matK,MZ340421,891,Pteris kiuschiuensis Hieron.,Pteris kiuschiuensis Hieron.,872841,FALSE
-Pteris_kiuschiuensis,rbcL,MZ291669,1278,Pteris kiuschiuensis Hieron.,Pteris kiuschiuensis Hieron.,872841,FALSE
+Pteris_kiuschiuensis,matK,OL694524,891,Pteris kiuschiuensis Hieron.,Pteris kiuschiuensis Hieron.,872841,FALSE
+Pteris_kiuschiuensis,rbcL,OL694372,1278,Pteris kiuschiuensis Hieron.,Pteris kiuschiuensis Hieron.,872841,FALSE
 Pteris_laevis,rbcL,MW660775,597,Pteris laevis Mett.,Pteris laevis Mett.,2815879,FALSE
 Pteris_langsonensis,rbcL,MF972814,1286,"Pteris langsonensis L. B. Zhang, Liang Zhang & N. T. Lu","Pteris langsonensis Li Bing Zhang, Liang Zhang & N.T.Lu",2042935,FALSE
 Pteris_latipinna,matK,MF416323,891,Pteris latipinna Y. S. Chao & W. L. Chiou,Pteris latipinna Y.S.Chao & W.L.Chiou,2048105,FALSE
 Pteris_latipinna,rbcL,MF416317,1278,Pteris latipinna Y. S. Chao & W. L. Chiou,Pteris latipinna Y.S.Chao & W.L.Chiou,2048105,FALSE
 Pteris_laurea,matK,KF289597,883,Pteris laurea Desv.,Pteris laurea Desv.,1508592,FALSE
 Pteris_laurea,rbcL,KF289727,1278,Pteris laurea Desv.,Pteris laurea Desv.,1508592,FALSE
-Pteris_laurisilvicola,matK,KF289608,891,Pteris laurisilvicola Kurata,Pteris laurisilvicola Sa.Kurata,872842,FALSE
-Pteris_laurisilvicola,rbcL,KF289738,1278,Pteris laurisilvicola Kurata,Pteris laurisilvicola Sa.Kurata,872842,FALSE
+Pteris_laurisilvicola,matK,OL694449,891,Pteris laurisilvicola Kurata,Pteris laurisilvicola Sa.Kurata,872842,FALSE
+Pteris_laurisilvicola,rbcL,OL694297,1278,Pteris laurisilvicola Kurata,Pteris laurisilvicola Sa.Kurata,872842,FALSE
 Pteris_lechleri,atpA,KM007623,1757,Pteris lechleri Mett.,Pteris lechleri Mett.,434458,FALSE
 Pteris_lechleri,atpB,KM007737,1171,Pteris lechleri Mett.,Pteris lechleri Mett.,434458,FALSE
 Pteris_lechleri,rbcL,KM008188,1286,Pteris lechleri Mett.,Pteris lechleri Mett.,434458,FALSE
@@ -13111,8 +13069,8 @@ Pteris_mertensioides,matK,KF289534,890,Pteris mertensioides Willd.,Pteris merten
 Pteris_mertensioides,rbcL,KF289664,1278,Pteris mertensioides Willd.,Pteris mertensioides Willd.,1508597,FALSE
 Pteris_microptera,rbcL,JF950814,1290,Pteris microptera Mett. ex Kuhn,Pteris microptera Mett. ex Kuhn,1055730,FALSE
 Pteris_mildbraedii,rbcL,MW660770,1281,Pteris mildbraedii Hieron.,Pteris mildbraedii Hieron.,2815896,FALSE
-Pteris_minor,matK,MF416327,891,Pteris minor (Hieron.) Y. S. Chao,Pteris minor (Hieron.) Y.S.Chao,2048098,FALSE
-Pteris_minor,rbcL,MF416321,1278,Pteris minor (Hieron.) Y. S. Chao,Pteris minor (Hieron.) Y.S.Chao,2048098,FALSE
+Pteris_minor,matK,OL694475,891,Pteris minor (Hieron.) Y. S. Chao,Pteris minor (Hieron.) Y.S.Chao,2048098,FALSE
+Pteris_minor,rbcL,OL694323,1278,Pteris minor (Hieron.) Y. S. Chao,Pteris minor (Hieron.) Y.S.Chao,2048098,FALSE
 Pteris_mkomaziensis,rbcL,MW660769,850,Pteris mkomaziensis Verdc.,Pteris mkomaziensis Verdc.,2815897,FALSE
 Pteris_moluccana,matK,KF289603,897,Pteris moluccana Blume,Pteris moluccana Blume,1508550,FALSE
 Pteris_moluccana,rbcL,KF289733,1278,Pteris moluccana Blume,Pteris moluccana Blume,1508550,FALSE
@@ -13147,8 +13105,8 @@ Pteris_nanlingensis,rbcL,KM008203,1286,Pteris nanlingensis R. H. Miao,Pteris nan
 Pteris_nanlingensis,rps4,KM007868,571,Pteris nanlingensis R. H. Miao,Pteris nanlingensis R.H.Miao,1643376,FALSE
 Pteris_nanlingensis,rps4-trnS,KM007868,422,Pteris nanlingensis R. H. Miao,Pteris nanlingensis R.H.Miao,1643376,FALSE
 Pteris_nanlingensis,trnL-trnF,KM008093,575,Pteris nanlingensis R. H. Miao,Pteris nanlingensis R.H.Miao,1643376,FALSE
-Pteris_natiensis,matK,KF289614,891,Pteris natiensis Tagawa,Pteris natiensis Tagawa,872844,FALSE
-Pteris_natiensis,rbcL,KF289744,1278,Pteris natiensis Tagawa,Pteris natiensis Tagawa,872844,FALSE
+Pteris_natiensis,matK,OL694531,891,Pteris natiensis Tagawa,Pteris natiensis Tagawa,872844,FALSE
+Pteris_natiensis,rbcL,OL694379,1278,Pteris natiensis Tagawa,Pteris natiensis Tagawa,872844,FALSE
 Pteris_navarrensis,atpA,KM007638,1758,Pteris navarrensis Christ,Pteris navarrensis Christ,1643377,FALSE
 Pteris_navarrensis,atpB,KM007752,1171,Pteris navarrensis Christ,Pteris navarrensis Christ,1643377,FALSE
 Pteris_navarrensis,rbcL,KM008204,1286,Pteris navarrensis Christ,Pteris navarrensis Christ,1643377,FALSE
@@ -13167,8 +13125,8 @@ Pteris_orizabae,rbcL,KM008205,715,Pteris orizabae M. Martens & Galeotti,Pteris o
 Pteris_orizabae,rps4,KM007870,571,Pteris orizabae M. Martens & Galeotti,Pteris orizabae M.Martens & Galeotti,1643378,FALSE
 Pteris_orizabae,rps4-trnS,KM007870,388,Pteris orizabae M. Martens & Galeotti,Pteris orizabae M.Martens & Galeotti,1643378,FALSE
 Pteris_orizabae,trnL-trnF,KM007982,333,Pteris orizabae M. Martens & Galeotti,Pteris orizabae M.Martens & Galeotti,1643378,FALSE
-Pteris_oshimensis,matK,MZ340417,891,Pteris oshimensis Hieron.,Pteris oshimensis Hieron.,872846,FALSE
-Pteris_oshimensis,rbcL,MZ291665,1278,Pteris oshimensis Hieron.,Pteris oshimensis Hieron.,872846,FALSE
+Pteris_oshimensis,matK,OL694464,891,Pteris oshimensis Hieron.,Pteris oshimensis Hieron.,872846,FALSE
+Pteris_oshimensis,rbcL,OL694312,1278,Pteris oshimensis Hieron.,Pteris oshimensis Hieron.,872846,FALSE
 Pteris_otaria,matK,KF289536,889,Pteris otaria Bedd.,Pteris ottaria Bedd.,1282434,FALSE
 Pteris_otaria,rbcL,KF289666,1278,Pteris otaria Bedd.,Pteris ottaria Bedd.,1282434,FALSE
 Pteris_pallens,atpA,KM007641,1506,Pteris pallens (Sw.) Mett.,Pteris pallens (Sw.) Mett.,451076,FALSE
@@ -13228,8 +13186,8 @@ Pteris_pseudopellucida,rps4,KM007878,571,Pteris pseudopellucida Ching,Pteris pse
 Pteris_pseudopellucida,rps4-trnS,KM007878,427,Pteris pseudopellucida Ching,Pteris pseudopellucida Ching,1508607,FALSE
 Pteris_pseudopellucida,trnL-trnF,KM008101,575,Pteris pseudopellucida Ching,Pteris pseudopellucida Ching,1508607,FALSE
 Pteris_pseudosefuricola,rbcL,AB697632,1235,"Pteris × pseudosefuricola Ebihara, Nakato & S. Matsumoto",Pteris x sefuricola Kurata,1140113,FALSE
-Pteris_pseudowulaiensis,matK,MZ340422,891,Pteris pseudowulaiensis Y. S. Chao,Pteris pseudowulaiensis Y.S.Chao,2919485,FALSE
-Pteris_pseudowulaiensis,rbcL,MZ291670,1278,Pteris pseudowulaiensis Y. S. Chao,Pteris pseudowulaiensis Y.S.Chao,2919485,FALSE
+Pteris_pseudowulaiensis,matK,OL694534,891,Pteris pseudowulaiensis Y. S. Chao,Pteris pseudowulaiensis Y.S.Chao,2919485,FALSE
+Pteris_pseudowulaiensis,rbcL,OL694382,1278,Pteris pseudowulaiensis Y. S. Chao,Pteris pseudowulaiensis Y.S.Chao,2919485,FALSE
 Pteris_pteridioides,matK,KF289586,891,Pteris pteridioides (Hook.) Ballard,Pteris pteridioides (Hook.) Ballard,1508608,FALSE
 Pteris_pteridioides,rbcL,KF289716,1278,Pteris pteridioides (Hook.) Ballard,Pteris pteridioides (Hook.) Ballard,1508608,FALSE
 Pteris_puberula,atpA,KM007648,1758,Pteris puberula Ching,Pteris puberula Ching,1508609,FALSE
@@ -13266,6 +13224,7 @@ Pteris_satsumana,matK,KF289610,891,Pteris satsumana Kurata,Pteris satsumana Sa.K
 Pteris_satsumana,rbcL,KF289740,1278,Pteris satsumana Kurata,Pteris satsumana Sa.Kurata,1508612,FALSE
 Pteris_saxatilis,atpB,GU136779,1111,Pteris saxatilis (Carse) Carse,Pteris saxatilis,911571,FALSE
 Pteris_saxatilis,rbcL,GU136798,1143,Pteris saxatilis (Carse) Carse,Pteris saxatilis,911571,FALSE
+Pteris_scabra,matK,KF289590,891,Pteris scabra Bory ex Willd.,Pteris scabra Bory & Willd.,1508613,FALSE
 Pteris_scabra,rbcL,MF972819,1283,Pteris scabra Bory ex Willd.,Pteris scabra Bory & Willd.,1508613,FALSE
 Pteris_scabra,rps4,MF972838,572,Pteris scabra Bory ex Willd.,Pteris scabra Bory & Willd.,1508613,FALSE
 Pteris_scabra,rps4-trnS,MF972838,405,Pteris scabra Bory ex Willd.,Pteris scabra Bory & Willd.,1508613,FALSE
@@ -13725,12 +13684,7 @@ Salvinia_oblongifolia,rps4-trnS,EU269680,501,Salvinia oblongifolia Mart.,Salvini
 Salvinia_oblongifolia,trnL-trnF,EU269693,821,Salvinia oblongifolia Mart.,Salvinia oblongifolia Martius,301480,FALSE
 Sceptridium_atrovirens,rbcL,AY138402,1321,Sceptridium atrovirens Sahashi,Sceptridium atrovirens Sahashi,208693,FALSE
 Sceptridium_biternatum,rbcL,L13474,1428,Sceptridium biternatum (Savigny) Lyon,Sceptridium biternatum (Savigny) Lyon,13830,FALSE
-Sceptridium_daucifolium,atpB,MN524721,1161,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,1008364,FALSE
-Sceptridium_daucifolium,matK,MN524809,590,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,1008364,FALSE
-Sceptridium_daucifolium,rbcL,MN524754,1269,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,1008364,FALSE
-Sceptridium_daucifolium,rps4,MN524656,571,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,1008364,FALSE
-Sceptridium_daucifolium,rps4-trnS,MN524656,454,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,1008364,FALSE
-Sceptridium_daucifolium,trnL-trnF,MN524662,172,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,1008364,FALSE
+Sceptridium_daucifolium,plastome,OM897591,64579,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,Sceptridium daucifolium (Wall. ex Hook. & Grev.) Lyon,1008364,FALSE
 Sceptridium_dissectum,rbcL,AY138401,1321,Sceptridium dissectum (Spreng.) Lyon,Sceptridium dissectum (Spreng.) Lyon,93613,FALSE
 Sceptridium_formosanum,rbcL,JF303963,1276,Sceptridium formosanum (Tagawa) Holub,Sceptridium formosanum (Tagawa) Holub,872463,FALSE
 Sceptridium_japonicum,rbcL,MN030169,1428,Sceptridium japonicum (Prantl) Lyon,Sceptridium japonicum (Prantl) Lyon,208694,FALSE
@@ -13747,17 +13701,18 @@ Sceptridium_rugulosum,rbcL,MG215121,552,Sceptridium rugulosum (W. H. Wagner) Sko
 Sceptridium_schaffneri,rbcL,MW620384,1308,Sceptridium schaffneri (Underw.) Lyon,Sceptridium schaffneri (Underw.) Lyon,350579,FALSE
 Sceptridium_ternatum,plastome,OL549459,64659,Sceptridium ternatum (Thunb.) Lyon,Botrychium ternatum (Thunb.) Sw.,208695,FALSE
 Sceptridium_triangularifolium,rbcL,AB574672,1205,Sceptridium triangularifolium Sahashi,Sceptridium triangularifolium Sahashi,872469,FALSE
-Schizaea_dichotoma,atpA,AM176472,1514,Schizaea dichotoma (L.) Sm.,Schizaea dichotoma (L.) J.Sm.,148574,FALSE
-Schizaea_dichotoma,atpB,AY612709,1150,Schizaea dichotoma (L.) Sm.,Schizaea dichotoma (L.) J.Sm.,148574,FALSE
-Schizaea_dichotoma,matK,JF303899,1365,Schizaea dichotoma (L.) Sm.,Schizaea dichotoma (L.) J.Sm.,148574,FALSE
-Schizaea_dichotoma,rbcL,AJ303408,1325,Schizaea dichotoma (L.) Sm.,Schizaea dichotoma (L.) J.Sm.,148574,FALSE
+Schizaea_dichotoma,plastome,ON207052,54323,Schizaea dichotoma (L.) Sm.,Schizaea dichotoma (L.) J.Sm.,148574,FALSE
 Schizaea_elegans,plastome,KX258660,51830,Schizaea elegans (Vahl) Sw.,Schizaea elegans (Vahl) Sw.,180990,FALSE
-Schizaea_fistulosa,rbcL,KY099860,1309,Schizaea fistulosa Labill.,Schizaea fistulosa Labill.,292911,FALSE
-Schizaea_incurvata,rbcL,KT423960,1212,Schizaea incurvata Schkuhr,Schizaea incurvata Schkuhr,1844395,FALSE
+Schizaea_fistulosa,plastome,ON207051,53826,Schizaea fistulosa Labill.,Schizaea fistulosa Labill.,292911,FALSE
+Schizaea_incurvata,rbcL,ON368147,1325,Schizaea incurvata Schkuhr,Schizaea incurvata Schkuhr,1844395,FALSE
+Schizaea_incurvata,trnL-trnF,ON368115,168,Schizaea incurvata Schkuhr,Schizaea incurvata Schkuhr,1844395,FALSE
 Schizaea_pectinata,plastome,KX258661,53279,Schizaea pectinata (L.) Sw.,Schizaea pectinata (L.) Sw.,148576,FALSE
-Schizaea_poeppigiana,rbcL,AJ303406,1325,Schizaea poeppigiana Sturm,Schizaea poeppigiana J.W.Sturm,148578,FALSE
-Schizaea_pusilla,rbcL,AJ303410,1325,Schizaea pusilla Pursh,Schizaea pusilla Pursh,148579,FALSE
-Schizaea_stricta,rbcL,AJ303407,1325,Schizaea stricta Lellinger,Schizaea stricta Lellinger,148580,FALSE
+Schizaea_poeppigiana,plastome,ON207053,54094,Schizaea poeppigiana Sturm,Schizaea poeppigiana J.W.Sturm,148578,FALSE
+Schizaea_pusilla,plastome,ON120846,50126,Schizaea pusilla Pursh,Schizaea pusilla Pursh,148579,FALSE
+Schizaea_sprucei,plastome,ON207054,54290,Schizaea sprucei Hook. ex Baker,Schizaea sprucei,2937756,FALSE
+Schizaea_stricta,rbcL,ON368152,1325,Schizaea stricta Lellinger,Schizaea stricta Lellinger,148580,FALSE
+Schizaea_stricta,trnL-trnF,ON368120,169,Schizaea stricta Lellinger,Schizaea stricta Lellinger,148580,FALSE
+Schizaea_tenella,plastome,ON314248,53570,Schizaea tenella Kaulf.,Schizaea tenella Kaulf.,2937757,FALSE
 Scleroglossum_pusillum,atpB,KY711911,1272,Scleroglossum pusillum (Blume) Alderw.,Scleroglossum pusillum (Blume) Alderw.,1578155,FALSE
 Scleroglossum_pusillum,rbcL,KY712079,1239,Scleroglossum pusillum (Blume) Alderw.,Scleroglossum pusillum (Blume) Alderw.,1578155,FALSE
 Scleroglossum_pusillum,rps4-trnS,KY712404,465,Scleroglossum pusillum (Blume) Alderw.,Scleroglossum pusillum (Blume) Alderw.,1578155,FALSE
@@ -13772,7 +13727,7 @@ Scoliosorus_ensiformis,plastome,MH173090,65897,Scoliosorus ensiformis (Hook.) T.
 Selliguea_albidosquamata,atpA,KT289108,1790,Selliguea albidosquamata (Blume) Parris,Selliguea albidosquamata (Blume) Parris,1882424,FALSE
 Selliguea_albidosquamata,atpB,KT289124,1252,Selliguea albidosquamata (Blume) Parris,Selliguea albidosquamata (Blume) Parris,1882424,FALSE
 Selliguea_albidosquamata,matK,KT289140,833,Selliguea albidosquamata (Blume) Parris,Selliguea albidosquamata (Blume) Parris,1882424,FALSE
-Selliguea_albidosquamata,rbcL,KT289199,1187,Selliguea albidosquamata (Blume) Parris,Selliguea albidosquamata (Blume) Parris,1882424,FALSE
+Selliguea_albidosquamata,rbcL,KT289200,1221,Selliguea albidosquamata (Blume) Parris,Selliguea albidosquamata (Blume) Parris,1882424,FALSE
 Selliguea_albidosquamata,trnL-trnF,KT289338,791,Selliguea albidosquamata (Blume) Parris,Selliguea albidosquamata (Blume) Parris,1882424,FALSE
 Selliguea_brachypodia,rbcL,AY362557,1320,Selliguea brachypodia (Copel.) X. C. Zhang & L. J. He,Selliguea brachypodia (Copel.) X.C.Zhang & L.J.He,253779,FALSE
 Selliguea_brachypodia,rps4,AY362621,567,Selliguea brachypodia (Copel.) X. C. Zhang & L. J. He,Selliguea brachypodia (Copel.) X.C.Zhang & L.J.He,253779,FALSE
@@ -13811,6 +13766,7 @@ Selliguea_engleri,rbcL,AB575248,1205,Selliguea engleri (Luerss.) Fraser-Jenk.,Se
 Selliguea_feei,rbcL,AY529170,1320,Selliguea feei Bory,Selliguea feei Bory,194882,FALSE
 Selliguea_feei,rps4,AY529192,589,Selliguea feei Bory,Selliguea feei Bory,194882,FALSE
 Selliguea_feei,rps4-trnS,AY529192,548,Selliguea feei Bory,Selliguea feei Bory,194882,FALSE
+Selliguea_feei,trnL-trnF,AY459179,339,Selliguea feei Bory,Selliguea feei Bory,194882,FALSE
 Selliguea_feeoides,rbcL,MT657616,1309,Selliguea feeoides Copel.,Selliguea feeoides Copel.,253799,FALSE
 Selliguea_glauca,atpA,KT289111,1341,Selliguea glauca (J. Sm. ex Brack.) Hovenkamp,Selliguea glauca (J.Sm. ex T.Moore) Hovenkamp,1882426,FALSE
 Selliguea_glauca,atpB,KT289127,1252,Selliguea glauca (J. Sm. ex Brack.) Hovenkamp,Selliguea glauca (J.Sm. ex T.Moore) Hovenkamp,1882426,FALSE
@@ -13864,9 +13820,8 @@ Selliguea_pyrolifolia,trnL-trnF,KT289347,787,Selliguea pyrolifolia (Goldm.) Hove
 Selliguea_rhynchophylla,atpA,KT289107,1791,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,1190843,FALSE
 Selliguea_rhynchophylla,atpB,KT289123,1252,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,1190843,FALSE
 Selliguea_rhynchophylla,matK,KT289139,836,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,1190843,FALSE
-Selliguea_rhynchophylla,rbcL,JQ685427,1266,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,1190843,FALSE
-Selliguea_rhynchophylla,rps4-trnS,JQ685492,464,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,1190843,FALSE
-Selliguea_rhynchophylla,trnL-trnF,KT289329,798,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,1190843,FALSE
+Selliguea_rhynchophylla,rbcL,KT289189,1138,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,1190843,FALSE
+Selliguea_rhynchophylla,trnL-trnF,KT289328,793,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,Selliguea rhynchophylla (Hook.) Fraser-Jenk.,1190843,FALSE
 Selliguea_senanensis,rbcL,KT289191,1221,"Selliguea senanensis (Maxim.) S. G. Lu, Hovenkamp & M. G. Gilbert","Selliguea senanensis (Maxim.) S.G.Lu, Hovenkamp & M.G.Gilbert",2834930,FALSE
 Selliguea_senanensis,trnL-trnF,KT289330,790,"Selliguea senanensis (Maxim.) S. G. Lu, Hovenkamp & M. G. Gilbert","Selliguea senanensis (Maxim.) S.G.Lu, Hovenkamp & M.G.Gilbert",2834930,FALSE
 Selliguea_soridens,atpA,KT289113,1790,Selliguea soridens (Hook.) Hovenkamp,Selliguea soridens (Hook.) Parris,1882431,FALSE
@@ -14033,6 +13988,7 @@ Sphaeropteris_brunei,rbcL,AM177349,1308,Sphaeropteris brunei (Christ) R. M. Tryo
 Sphaeropteris_brunei,rps4,AM176505,592,Sphaeropteris brunei (Christ) R. M. Tryon,Sphaeropteris brunei (Christ) R.M.Tryon,361555,FALSE
 Sphaeropteris_brunei,rps4-trnS,AM176505,118,Sphaeropteris brunei (Christ) R. M. Tryon,Sphaeropteris brunei (Christ) R.M.Tryon,361555,FALSE
 Sphaeropteris_brunei,trnL-trnF,AM410301,1003,Sphaeropteris brunei (Christ) R. M. Tryon,Sphaeropteris brunei (Christ) R.M.Tryon,361555,FALSE
+Sphaeropteris_brunoniana,plastome,MT543220,67399,Sphaeropteris brunoniana (Wall. ex Hook.) R. M. Tryon,Sphaeropteris brunoniana (Hook.) R.M.Tryon,204593,FALSE
 Sphaeropteris_capitata,atpA,EF463642,1506,Sphaeropteris capitata (Copel.) R. M. Tryon,Sphaeropteris capitata (Copel.) R.M.Tryon,411294,FALSE
 Sphaeropteris_capitata,atpB,EF463366,1183,Sphaeropteris capitata (Copel.) R. M. Tryon,Sphaeropteris capitata (Copel.) R.M.Tryon,411294,FALSE
 Sphaeropteris_capitata,rbcL,AM410192,1309,Sphaeropteris capitata (Copel.) R. M. Tryon,Sphaeropteris capitata (Copel.) R.M.Tryon,411294,FALSE
@@ -14064,7 +14020,7 @@ Sphaeropteris_horrida,trnL-trnF,AM410327,995,Sphaeropteris horrida (Liebm.) R. M
 Sphaeropteris_insignis,trnL-trnF,MN155715,951,Sphaeropteris insignis (D. C. Eaton) R. M. Tryon,Sphaeropteris insignis (D.C.Eaton) R.M.Tryon,2598376,FALSE
 Sphaeropteris_intermedia,rbcL,KP337960,1295,Sphaeropteris intermedia (Mett.) R. M. Tryon,Sphaeropteris intermedia (Mett.) R.M.Tryon,1710843,FALSE
 Sphaeropteris_intermedia,trnL-trnF,MN155717,882,Sphaeropteris intermedia (Mett.) R. M. Tryon,Sphaeropteris intermedia (Mett.) R.M.Tryon,1710843,FALSE
-Sphaeropteris_lepifera,plastome,MN623357,67366,Sphaeropteris lepifera (J. Sm. ex Hook.) R. M. Tryon,Cyathea lepifera (J.Sm. ex Hook.) Copel.,29636,FALSE
+Sphaeropteris_lepifera,plastome,ON359895,67365,Sphaeropteris lepifera (J. Sm. ex Hook.) R. M. Tryon,Cyathea lepifera (J.Sm. ex Hook.) Copel.,29636,FALSE
 Sphaeropteris_lunulata,rbcL,KP337951,1295,Sphaeropteris lunulata (G. Forst.) R. M. Tryon,Sphaeropteris lunulata (Forst.) R.M.Tryon,1710844,FALSE
 Sphaeropteris_marginata,trnL-trnF,MN155722,944,Sphaeropteris marginata (Brause) R. M. Tryon,Sphaeropteris marginata (Brause) R.M.Tryon,2598386,FALSE
 Sphaeropteris_medullaris,atpA,AM176458,1514,Sphaeropteris medullaris (G. Forst.) Bernh.,Sphaeropteris medullaris (G.Forst.) Bernh.,361556,FALSE
@@ -14150,8 +14106,11 @@ Sphenomeris_clavata,rbcL,HQ157301,910,Sphenomeris clavata (L.) Maxon,Sphenomeris
 Sphenomeris_clavata,rps4,HQ157332,486,Sphenomeris clavata (L.) Maxon,Sphenomeris clavata (L.) Maxon,866271,FALSE
 Sphenomeris_clavata,trnL-trnF,GU478729,457,Sphenomeris clavata (L.) Maxon,Sphenomeris clavata (L.) Maxon,866271,FALSE
 Spicantopsis_amabilis,rbcL,AB040544,1278,Spicantopsis amabilis Nakai,Struthiopteris amabilis (Makino) Ching,120687,FALSE
-Spicantopsis_hancockii,rbcL,AB040556,1259,Spicantopsis hancockii (Hance) Masam.,Struthiopteris hancockii (Hance) Tagawa,120698,FALSE
-Spicantopsis_niponica,rbcL,AB575051,1205,Spicantopsis niponica (Kunze) Nakai,Struthiopteris nipponica (Kunze) Nakai,872459,FALSE
+Spicantopsis_amabilis,trnL-trnF,MH644138,830,Spicantopsis amabilis Nakai,Struthiopteris amabilis (Makino) Ching,120687,FALSE
+Spicantopsis_hancockii,rbcL,MH644114,1231,Spicantopsis hancockii (Hance) Masam.,Struthiopteris hancockii (Hance) Tagawa,120698,FALSE
+Spicantopsis_hancockii,trnL-trnF,MH644141,842,Spicantopsis hancockii (Hance) Masam.,Struthiopteris hancockii (Hance) Tagawa,120698,FALSE
+Spicantopsis_niponica,rbcL,MH644112,1231,Spicantopsis niponica (Kunze) Nakai,Struthiopteris nipponica (Kunze) Nakai,872459,FALSE
+Spicantopsis_niponica,trnL-trnF,MH644140,843,Spicantopsis niponica (Kunze) Nakai,Struthiopteris nipponica (Kunze) Nakai,872459,FALSE
 Stegnogramma_aspidioides,matK,MN159401,1307,Stegnogramma aspidioides Blume,Stegnogramma aspidioides Blume,2713459,FALSE
 Stegnogramma_aspidioides,rbcL,MN159434,1326,Stegnogramma aspidioides Blume,Stegnogramma aspidioides Blume,2713459,FALSE
 Stegnogramma_aspidioides,trnL-trnF,MN159500,862,Stegnogramma aspidioides Blume,Stegnogramma aspidioides Blume,2713459,FALSE
@@ -14265,6 +14224,7 @@ Sticherus_hypoleucus,rbcL,MW138151,1309,Sticherus hypoleucus (Sodiro) Copel.,Sti
 Sticherus_owhyhensis,rbcL,MT657783,1309,Sticherus owhyhensis (Hook.) Ching,Sticherus owhyhensis (Hook.) Ching,2853748,FALSE
 Sticherus_retroflexus,rbcL,MW138203,1309,Sticherus retroflexus (Bornm. ex Christ) Copel.,Sticherus retroflexus (J.Bommer) Copel.,2781667,FALSE
 Sticherus_tahitensis,rbcL,KY099868,1248,Sticherus tahitensis (Copel.) H. St. John,Sticherus tahitensis (Copel.) St.John,2053886,FALSE
+Sticherus_tener,rbcL,MW390794,1251,Sticherus tener (R. Br.) Ching,Sticherus tener (R.Br.) Ching,1280277,FALSE
 Sticherus_tener,trnL-trnF,JX569724,900,Sticherus tener (R. Br.) Ching,Sticherus tener (R.Br.) Ching,1280277,FALSE
 Sticherus_truncatus,atpB,GU950642,1069,Sticherus truncatus (Willd.) Nakai,Sticherus laevigatus (Willd.) C.Presl,397686,FALSE
 Sticherus_truncatus,matK,KU936570,758,Sticherus truncatus (Willd.) Nakai,Sticherus laevigatus (Willd.) C.Presl,397686,FALSE
@@ -14346,15 +14306,20 @@ Strophocaulon_unitum,rps4,KT805122,553,Strophocaulon unitum (L.) S. E. Fawc. & A
 Strophocaulon_unitum,rps4-trnS,KT805122,523,Strophocaulon unitum (L.) S. E. Fawc. & A. R. Sm.,Strophocaulon unitum (L.) S.E.Fawc. & A.R.Sm.,1521243,FALSE
 Strophocaulon_unitum,trnL-trnF,KT805056,841,Strophocaulon unitum (L.) S. E. Fawc. & A. R. Sm.,Strophocaulon unitum (L.) S.E.Fawc. & A.R.Sm.,1521243,FALSE
 Struthiopteris_castanea,rbcL,AB040549,1275,Struthiopteris castanea (Makino) Nakai,Struthiopteris castanea (Makino & Nemoto) Nakai,120691,FALSE
-Struthiopteris_castanea,trnL-trnF,KU898715,780,Struthiopteris castanea (Makino) Nakai,Struthiopteris castanea (Makino & Nemoto) Nakai,120691,FALSE
+Struthiopteris_castanea,trnL-trnF,MH644128,836,Struthiopteris castanea (Makino) Nakai,Struthiopteris castanea (Makino & Nemoto) Nakai,120691,FALSE
 Struthiopteris_spicant,atpA,JF832102,1751,Struthiopteris spicant (L.) Weiss,Struthiopteris spicant (L.) F.W.Weiss,114457,FALSE
 Struthiopteris_spicant,atpB,JF832157,1284,Struthiopteris spicant (L.) Weiss,Struthiopteris spicant (L.) F.W.Weiss,114457,FALSE
+Struthiopteris_spicant,matK,JF832262,1326,Struthiopteris spicant (L.) Weiss,Struthiopteris spicant (L.) F.W.Weiss,114457,FALSE
 Struthiopteris_spicant,rbcL,JF832059,1295,Struthiopteris spicant (L.) Weiss,Struthiopteris spicant (L.) F.W.Weiss,114457,FALSE
+Struthiopteris_spicant,rps4,MH178841,538,Struthiopteris spicant (L.) Weiss,Struthiopteris spicant (L.) F.W.Weiss,114457,FALSE
+Struthiopteris_spicant,rps4-trnS,MH178841,531,Struthiopteris spicant (L.) Weiss,Struthiopteris spicant (L.) F.W.Weiss,114457,FALSE
+Struthiopteris_spicant,trnL-trnF,DQ683413,848,Struthiopteris spicant (L.) Weiss,Struthiopteris spicant (L.) F.W.Weiss,114457,FALSE
 Synammia_espinosae,plastome,MW876373,66770,Synammia espinosae (Weath.) G. Kunkel,Synammia espinosae (Weath.) G.Kunkel,2836289,FALSE
 Synammia_feuillei,plastome,MW876374,66897,Synammia feuillei (Bertero) Copel.,Synammia feuillei (Bertero) Copel.,253804,FALSE
 Synammia_intermedia,plastome,MW876375,66939,Synammia intermedia (Colla) G. Kunkel,Synammia intermedia (Muhl. ex Willd.) G.Kunkel,355664,FALSE
+Syngramma_quinata,rbcL,OK650037,1248,Syngramma quinata (Hook.) Carruth.,Syngramma quinata (Hook.) Carruth.,170718,FALSE
 Syngramma_quinata,rps4,AF321701,578,Syngramma quinata (Hook.) Carruth.,Syngramma quinata (Hook.) Carruth.,170718,FALSE
-Syngramma_quinata,rps4-trnS,AF321701,316,Syngramma quinata (Hook.) Carruth.,Syngramma quinata (Hook.) Carruth.,170718,FALSE
+Syngramma_quinata,rps4-trnS,OL311326,493,Syngramma quinata (Hook.) Carruth.,Syngramma quinata (Hook.) Carruth.,170718,FALSE
 Taenitis_blechnoides,plastome,MT130549,67018,Taenitis blechnoides (Willd.) Sw.,Taenitis blechnoides (Willd.) Sw.,32177,FALSE
 Taenitis_interrupta,atpA,KM007672,1763,Taenitis interrupta Hook. & Grev.,Taenitis interrupta Hook. & Grev.,170719,FALSE
 Taenitis_interrupta,rbcL,KM008240,872,Taenitis interrupta Hook. & Grev.,Taenitis interrupta Hook. & Grev.,170719,FALSE
@@ -14419,10 +14384,10 @@ Tectaria_borneensis,atpB,KJ196489,1152,Tectaria borneensis S. Y. Dong,Heterogoni
 Tectaria_borneensis,matK,KJ196514,408,Tectaria borneensis S. Y. Dong,Heterogonium stenosemioides (Baker) C.Chr.,1524105,FALSE
 Tectaria_borneensis,rbcL,KJ196854,1219,Tectaria borneensis S. Y. Dong,Heterogonium stenosemioides (Baker) C.Chr.,1524105,FALSE
 Tectaria_borneensis,trnL-trnF,KJ196642,280,Tectaria borneensis S. Y. Dong,Heterogonium stenosemioides (Baker) C.Chr.,1524105,FALSE
-Tectaria_christovalensis,atpB,MF623688,1148,Tectaria christovalensis (C. Chr.) Alston,Tectaria christovalensis (C.Chr.) Alston,2172915,FALSE
-Tectaria_christovalensis,matK,MF623712,1139,Tectaria christovalensis (C. Chr.) Alston,Tectaria christovalensis (C.Chr.) Alston,2172915,FALSE
+Tectaria_christovalensis,atpB,OK480080,1149,Tectaria christovalensis (C. Chr.) Alston,Tectaria christovalensis (C.Chr.) Alston,2172915,FALSE
+Tectaria_christovalensis,matK,OK480120,1139,Tectaria christovalensis (C. Chr.) Alston,Tectaria christovalensis (C.Chr.) Alston,2172915,FALSE
 Tectaria_christovalensis,rbcL,MF623760,1219,Tectaria christovalensis (C. Chr.) Alston,Tectaria christovalensis (C.Chr.) Alston,2172915,FALSE
-Tectaria_christovalensis,trnL-trnF,MF623781,228,Tectaria christovalensis (C. Chr.) Alston,Tectaria christovalensis (C.Chr.) Alston,2172915,FALSE
+Tectaria_christovalensis,trnL-trnF,OK480201,228,Tectaria christovalensis (C. Chr.) Alston,Tectaria christovalensis (C.Chr.) Alston,2172915,FALSE
 Tectaria_cicutaria,atpB,KJ196408,689,Tectaria cicutaria (L.) Copel.,Tectaria cicutaria (L.) Copel.,1434243,FALSE
 Tectaria_cicutaria,matK,KJ196621,1296,Tectaria cicutaria (L.) Copel.,Tectaria cicutaria (L.) Copel.,1434243,FALSE
 Tectaria_cicutaria,rbcL,KF667649,1324,Tectaria cicutaria (L.) Copel.,Tectaria cicutaria (L.) Copel.,1434243,FALSE
@@ -14445,10 +14410,10 @@ Tectaria_dubia,atpB,MF623690,1148,Tectaria dubia (C. B. Clarke & Baker) Ching,Te
 Tectaria_dubia,matK,MF623714,1139,Tectaria dubia (C. B. Clarke & Baker) Ching,Tectaria dubia (C.B.Clarke & Baker) Ching,2172916,FALSE
 Tectaria_dubia,rbcL,LC496652,1253,Tectaria dubia (C. B. Clarke & Baker) Ching,Tectaria dubia (C.B.Clarke & Baker) Ching,2172916,FALSE
 Tectaria_dubia,trnL-trnF,MF623783,226,Tectaria dubia (C. B. Clarke & Baker) Ching,Tectaria dubia (C.B.Clarke & Baker) Ching,2172916,FALSE
-Tectaria_durvillei,atpB,MF623691,1148,Tectaria durvillei (Bory) Holttum,Tectaria durvillei (Bory) Holttum,2172917,FALSE
-Tectaria_durvillei,matK,MF623715,1139,Tectaria durvillei (Bory) Holttum,Tectaria durvillei (Bory) Holttum,2172917,FALSE
-Tectaria_durvillei,rbcL,MF623763,1219,Tectaria durvillei (Bory) Holttum,Tectaria durvillei (Bory) Holttum,2172917,FALSE
-Tectaria_durvillei,trnL-trnF,MF623784,228,Tectaria durvillei (Bory) Holttum,Tectaria durvillei (Bory) Holttum,2172917,FALSE
+Tectaria_durvillei,atpB,OK480091,1149,Tectaria durvillei (Bory) Holttum,Tectaria durvillei (Bory) Holttum,2172917,FALSE
+Tectaria_durvillei,matK,OK480130,1139,Tectaria durvillei (Bory) Holttum,Tectaria durvillei (Bory) Holttum,2172917,FALSE
+Tectaria_durvillei,rbcL,OK104187,1219,Tectaria durvillei (Bory) Holttum,Tectaria durvillei (Bory) Holttum,2172917,FALSE
+Tectaria_durvillei,trnL-trnF,OK480212,228,Tectaria durvillei (Bory) Holttum,Tectaria durvillei (Bory) Holttum,2172917,FALSE
 Tectaria_ebenina,atpA,KY937589,1786,Tectaria ebenina (C. Chr.) Ching,Tectaria ebenina (C.Chr.) Ching,2006857,FALSE
 Tectaria_ebenina,atpB,MF623692,1148,Tectaria ebenina (C. Chr.) Ching,Tectaria ebenina (C.Chr.) Ching,2006857,FALSE
 Tectaria_ebenina,matK,KY937225,1151,Tectaria ebenina (C. Chr.) Ching,Tectaria ebenina (C.Chr.) Ching,2006857,FALSE
@@ -14514,18 +14479,18 @@ Tectaria_herpetocaulos,trnL-trnF,KJ196669,298,Tectaria herpetocaulos Holttum,Tec
 Tectaria_heterocarpa,atpA,KF898017,1027,Tectaria heterocarpa (Bedd.) C. V. Morton,Tectaria heterocarpa (Bedd.) C.V.Morton,1435279,FALSE
 Tectaria_heterocarpa,rbcL,KF887181,1185,Tectaria heterocarpa (Bedd.) C. V. Morton,Tectaria heterocarpa (Bedd.) C.V.Morton,1435279,FALSE
 Tectaria_heterocarpa,trnL-trnF,KF897964,290,Tectaria heterocarpa (Bedd.) C. V. Morton,Tectaria heterocarpa (Bedd.) C.V.Morton,1435279,FALSE
-Tectaria_hilocarpa,atpB,MF623696,1148,Tectaria hilocarpa (Fée) M. G. Price,Tectaria hilocarpa (Fee) M.G.Price,2172918,FALSE
-Tectaria_hilocarpa,matK,MF623720,1139,Tectaria hilocarpa (Fée) M. G. Price,Tectaria hilocarpa (Fee) M.G.Price,2172918,FALSE
-Tectaria_hilocarpa,rbcL,MF623768,1219,Tectaria hilocarpa (Fée) M. G. Price,Tectaria hilocarpa (Fee) M.G.Price,2172918,FALSE
-Tectaria_hilocarpa,trnL-trnF,MF623789,228,Tectaria hilocarpa (Fée) M. G. Price,Tectaria hilocarpa (Fee) M.G.Price,2172918,FALSE
+Tectaria_hilocarpa,atpB,OK480094,1149,Tectaria hilocarpa (Fée) M. G. Price,Tectaria hilocarpa (Fee) M.G.Price,2172918,FALSE
+Tectaria_hilocarpa,matK,OK480133,1139,Tectaria hilocarpa (Fée) M. G. Price,Tectaria hilocarpa (Fee) M.G.Price,2172918,FALSE
+Tectaria_hilocarpa,rbcL,OK104188,1219,Tectaria hilocarpa (Fée) M. G. Price,Tectaria hilocarpa (Fee) M.G.Price,2172918,FALSE
+Tectaria_hilocarpa,trnL-trnF,OK480215,228,Tectaria hilocarpa (Fée) M. G. Price,Tectaria hilocarpa (Fee) M.G.Price,2172918,FALSE
 Tectaria_impressa,plastome,MT130620,67389,Tectaria impressa (Fée) Holttum,Tectaria impressa (Fee) Holttum,1435280,FALSE
 Tectaria_incisa,atpA,EF463868,1506,Tectaria incisa Cav.,Tectaria incisa Cav.,449885,FALSE
 Tectaria_incisa,atpB,EF463528,1278,Tectaria incisa Cav.,Tectaria incisa Cav.,449885,FALSE
 Tectaria_incisa,rbcL,EF463272,1308,Tectaria incisa Cav.,Tectaria incisa Cav.,449885,FALSE
-Tectaria_ingens,rbcL,KY937344,1231,Tectaria ingens (Atk. ex C. B. Clarke) Holttum,Tectaria ingens (Atk. ex C.B.Clarke) Holttum,2006858,FALSE
-Tectaria_ingens,rps4,KY937418,572,Tectaria ingens (Atk. ex C. B. Clarke) Holttum,Tectaria ingens (Atk. ex C.B.Clarke) Holttum,2006858,FALSE
-Tectaria_ingens,rps4-trnS,KY937418,533,Tectaria ingens (Atk. ex C. B. Clarke) Holttum,Tectaria ingens (Atk. ex C.B.Clarke) Holttum,2006858,FALSE
-Tectaria_ingens,trnL-trnF,KY937522,732,Tectaria ingens (Atk. ex C. B. Clarke) Holttum,Tectaria ingens (Atk. ex C.B.Clarke) Holttum,2006858,FALSE
+Tectaria_ingens,atpB,MW795607,1149,Tectaria ingens (Atk. ex C. B. Clarke) Holttum,Tectaria ingens (Atk. ex C.B.Clarke) Holttum,2006858,FALSE
+Tectaria_ingens,matK,MW795613,1139,Tectaria ingens (Atk. ex C. B. Clarke) Holttum,Tectaria ingens (Atk. ex C.B.Clarke) Holttum,2006858,FALSE
+Tectaria_ingens,rbcL,MW795599,1219,Tectaria ingens (Atk. ex C. B. Clarke) Holttum,Tectaria ingens (Atk. ex C.B.Clarke) Holttum,2006858,FALSE
+Tectaria_ingens,trnL-trnF,MW795629,230,Tectaria ingens (Atk. ex C. B. Clarke) Holttum,Tectaria ingens (Atk. ex C.B.Clarke) Holttum,2006858,FALSE
 Tectaria_jardini,rbcL,MT216133,1309,Tectaria jardini (Mett.) E.D.Br.,Tectaria jardini (Mett.) E.D.Br.,2730553,FALSE
 Tectaria_kusukusensis,atpA,KP271068,1749,Tectaria kusukusensis (Hayata) Lellinger,Tectaria kusukusensis (Hayata) Lellinger,450137,FALSE
 Tectaria_kusukusensis,matK,KU605135,1151,Tectaria kusukusensis (Hayata) Lellinger,Tectaria kusukusensis (Hayata) Lellinger,450137,FALSE
@@ -14540,7 +14505,10 @@ Tectaria_labrusca,trnL-trnF,KJ196692,280,Tectaria labrusca (Hook.) Copel.,Tectar
 Tectaria_laotica,rps4,KY937419,574,Tectaria laotica Tardieu & C. Chr.,Tectaria laotica C.Chr. & Tardieu,2006859,FALSE
 Tectaria_laotica,rps4-trnS,KY937419,510,Tectaria laotica Tardieu & C. Chr.,Tectaria laotica C.Chr. & Tardieu,2006859,FALSE
 Tectaria_laotica,trnL-trnF,KY937524,145,Tectaria laotica Tardieu & C. Chr.,Tectaria laotica C.Chr. & Tardieu,2006859,FALSE
-Tectaria_latifolia,rbcL,MT657535,1219,Tectaria latifolia (G. Forst.) Copel.,Tectaria latifolia Copel.,2853786,FALSE
+Tectaria_latifolia,atpB,OK480096,1149,Tectaria latifolia (G. Forst.) Copel.,Tectaria latifolia Copel.,2853786,FALSE
+Tectaria_latifolia,matK,OK480135,1139,Tectaria latifolia (G. Forst.) Copel.,Tectaria latifolia Copel.,2853786,FALSE
+Tectaria_latifolia,rbcL,OK104190,1213,Tectaria latifolia (G. Forst.) Copel.,Tectaria latifolia Copel.,2853786,FALSE
+Tectaria_latifolia,trnL-trnF,OK480217,228,Tectaria latifolia (G. Forst.) Copel.,Tectaria latifolia Copel.,2853786,FALSE
 Tectaria_luchunensis,atpB,KJ196444,1152,Tectaria luchunensis S. K. Wu,Tectaria luchunensis S.K.Wu,1524130,FALSE
 Tectaria_luchunensis,matK,KJ196572,1232,Tectaria luchunensis S. K. Wu,Tectaria luchunensis S.K.Wu,1524130,FALSE
 Tectaria_luchunensis,rbcL,KJ196891,1219,Tectaria luchunensis S. K. Wu,Tectaria luchunensis S.K.Wu,1524130,FALSE
@@ -14596,10 +14564,10 @@ Tectaria_pica,atpA,KF898027,1738,Tectaria pica (L. fil.) C. Chr.,Tectaria pica (
 Tectaria_pica,rbcL,KF992520,1258,Tectaria pica (L. fil.) C. Chr.,Tectaria pica (L.) C.Chr.,1435284,FALSE
 Tectaria_pica,trnL-trnF,KF897973,300,Tectaria pica (L. fil.) C. Chr.,Tectaria pica (L.) C.Chr.,1435284,FALSE
 Tectaria_pilosa,rbcL,KJ628852,1265,Tectaria pilosa (Fée) R. C. Moran,Tectaria pilosa (Fee) R.C.Moran,1481364,FALSE
-Tectaria_pleiosora,atpB,MF623687,1142,Tectaria pleiosora (Alderw.) C. Chr.,Tectaria pleiosora (Alderw.) C.Chr.,1524121,FALSE
-Tectaria_pleiosora,matK,MF623711,1138,Tectaria pleiosora (Alderw.) C. Chr.,Tectaria pleiosora (Alderw.) C.Chr.,1524121,FALSE
-Tectaria_pleiosora,rbcL,MF623759,1219,Tectaria pleiosora (Alderw.) C. Chr.,Tectaria pleiosora (Alderw.) C.Chr.,1524121,FALSE
-Tectaria_pleiosora,trnL-trnF,MF623793,228,Tectaria pleiosora (Alderw.) C. Chr.,Tectaria pleiosora (Alderw.) C.Chr.,1524121,FALSE
+Tectaria_pleiosora,atpB,OK480103,1143,Tectaria pleiosora (Alderw.) C. Chr.,Tectaria pleiosora (Alderw.) C.Chr.,1524121,FALSE
+Tectaria_pleiosora,matK,OK480142,1138,Tectaria pleiosora (Alderw.) C. Chr.,Tectaria pleiosora (Alderw.) C.Chr.,1524121,FALSE
+Tectaria_pleiosora,rbcL,OK104194,1219,Tectaria pleiosora (Alderw.) C. Chr.,Tectaria pleiosora (Alderw.) C.Chr.,1524121,FALSE
+Tectaria_pleiosora,trnL-trnF,OK480226,228,Tectaria pleiosora (Alderw.) C. Chr.,Tectaria pleiosora (Alderw.) C.Chr.,1524121,FALSE
 Tectaria_polymorpha,atpA,KU605217,882,Tectaria polymorpha (Wall. ex Hook.) Copel.,Tectaria polymorpha (Wall. ex Hook.) Copel.,1524134,FALSE
 Tectaria_polymorpha,matK,KU605143,1151,Tectaria polymorpha (Wall. ex Hook.) Copel.,Tectaria polymorpha (Wall. ex Hook.) Copel.,1524134,FALSE
 Tectaria_polymorpha,rbcL,KU605206,1268,Tectaria polymorpha (Wall. ex Hook.) Copel.,Tectaria polymorpha (Wall. ex Hook.) Copel.,1524134,FALSE
@@ -14638,9 +14606,8 @@ Tectaria_sagenioides,matK,KJ196518,1232,Tectaria sagenioides (Mett.) Christenh.,
 Tectaria_sagenioides,rbcL,KJ196897,1219,Tectaria sagenioides (Mett.) Christenh.,Tectaria sagenioides (Mett.) Christenh.,1435286,FALSE
 Tectaria_sagenioides,trnL-trnF,KF561672,392,Tectaria sagenioides (Mett.) Christenh.,Tectaria sagenioides (Mett.) Christenh.,1435286,FALSE
 Tectaria_semipinnata,atpA,KU605219,1012,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
-Tectaria_semipinnata,atpB,KJ196498,1152,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
-Tectaria_semipinnata,matK,KJ196601,1232,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
-Tectaria_semipinnata,rbcL,KJ196817,1219,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
+Tectaria_semipinnata,matK,KU605145,1151,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
+Tectaria_semipinnata,rbcL,KU605200,500,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
 Tectaria_semipinnata,rps4,KU605097,570,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
 Tectaria_semipinnata,rps4-trnS,KU605097,559,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
 Tectaria_semipinnata,trnL-trnF,KU605122,716,Tectaria semipinnata (Roxb.) C. V. Morton,Tectaria semipinnata (Roxb.) C.V.Morton,1524135,FALSE
@@ -14723,9 +14690,7 @@ Teratophyllum_koordersii,trnL-trnF,GU376566,372,Teratophyllum koordersii Holttum
 Teratophyllum_ludens,rps4-trnS,GU376717,497,Teratophyllum ludens (Fée) Holttum,Teratophyllum ludens (Fee) Holttum,857986,FALSE
 Teratophyllum_ludens,trnL-trnF,GU376568,374,Teratophyllum ludens (Fée) Holttum,Teratophyllum ludens (Fee) Holttum,857986,FALSE
 Teratophyllum_rotundifoliatum,rps4-trnS,GU376718,497,Teratophyllum rotundifoliatum (R. Bonap.) Holttum,Teratophyllum rotundifoliatum (Bonap.) Holttum,859230,FALSE
-Terpsichore_asplenifolia,atpB,JF514059,1218,Terpsichore asplenifolia (L.) A. R. Sm.,Terpsichore aspleniifolia (L.) A.R.Sm.,1080219,FALSE
-Terpsichore_asplenifolia,rbcL,MW620305,1308,Terpsichore asplenifolia (L.) A. R. Sm.,Terpsichore aspleniifolia (L.) A.R.Sm.,1080219,FALSE
-Terpsichore_asplenifolia,rps4-trnS,KM106192,436,Terpsichore asplenifolia (L.) A. R. Sm.,Terpsichore aspleniifolia (L.) A.R.Sm.,1080219,FALSE
+Terpsichore_asplenifolia,plastome,MZ357094,63566,Terpsichore asplenifolia (L.) A. R. Sm.,Terpsichore aspleniifolia (L.) A.R.Sm.,1080219,FALSE
 Terpsichore_atroviridis,rbcL,MW138276,1309,Terpsichore atroviridis (Copel.) A. R. Sm.,Terpsichore atroviridis (Copel.) A.R.Sm.,2781668,FALSE
 Terpsichore_chrysleri,atpB,KM218859,650,Terpsichore chrysleri (Copel.) A. R. Sm.,Terpsichore chrysleri (Proctor ex Copel.) A.R.Sm.,1578157,FALSE
 Terpsichore_chrysleri,rbcL,KM218813,876,Terpsichore chrysleri (Copel.) A. R. Sm.,Terpsichore chrysleri (Proctor ex Copel.) A.R.Sm.,1578157,FALSE
@@ -14767,9 +14732,8 @@ Tmesipteris_tannensis,trnL-trnF,FJ384425,763,Tmesipteris tannensis (Spreng.) Ber
 Tmesipteris_truncata,rbcL,U30836,1206,Tmesipteris truncata (R. Br.) Desv.,Tmesipteris oblanceolata Copel.,39587,FALSE
 Tmesipteris_truncata,trnL-trnF,FJ384429,819,Tmesipteris truncata (R. Br.) Desv.,Tmesipteris truncata (R.Br.) Desv.,223815,FALSE
 Todea_barbara,atpA,EF588690,1736,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
-Todea_barbara,atpB,DQ646097,1340,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
-Todea_barbara,matK,KM925082,1522,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
-Todea_barbara,rbcL,DQ646005,1392,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
+Todea_barbara,atpB,EF588734,476,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
+Todea_barbara,rbcL,EF588712,1309,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
 Todea_barbara,rps4,EF588776,598,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
 Todea_barbara,rps4-trnS,EF588776,491,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
 Todea_barbara,trnL-trnF,EF588822,198,Todea barbara (L.) T. Moore,Todea barbara (L.) T.Moore,90702,FALSE
@@ -14897,10 +14861,10 @@ Vandenboschia_auriculata,rbcL,AB257455,1206,Vandenboschia auriculata (Blume) Cop
 Vandenboschia_collariata,rbcL,MW138128,1309,Vandenboschia collariata (Bosch) Ebihara & K. Iwats.,Vandenboschia collariata (Bosch) Ebihara & K.Iwats.,652154,FALSE
 Vandenboschia_cyrtotheca,rbcL,MT657784,1236,Vandenboschia cyrtotheca (Hillebr.) Copel.,Vandenboschia cyrtotheca (Hillebr.) Copel.,381232,FALSE
 Vandenboschia_cystoseiroides,rbcL,LC496747,1253,Vandenboschia cystoseiroides (Christ ex Tardieu & C. Chr.) Ching,Vandenboschia cystoseiroides (Christ ex Tardieu & C.Chr.) Ching,2605333,FALSE
-Vandenboschia_davallioides,atpB,U93828,1440,Vandenboschia davallioides (Gaudich.) Copel.,Vandenboschia davallioides,29621,FALSE
 Vandenboschia_davallioides,rbcL,U05948,1320,Vandenboschia davallioides (Gaudich.) Copel.,Vandenboschia davallioides,29621,FALSE
-Vandenboschia_gigantea,rbcL,AB479150,1206,Vandenboschia gigantea (Bory ex Willd.) Pic. Serm.,Vandenboschia gigantea (Bory ex Willd.) Ebihara & Dubuisson,593784,FALSE
+Vandenboschia_gigantea,rbcL,OM160640,1206,Vandenboschia gigantea (Bory ex Willd.) Pic. Serm.,Vandenboschia gigantea (Bory ex Willd.) Ebihara & Dubuisson,593784,FALSE
 Vandenboschia_johnstonensis,rbcL,AB257462,1206,Vandenboschia johnstonensis (Bailey) Copel.,Vandenboschia johnstonensis (Bailey) Copel.,381244,FALSE
+Vandenboschia_kalamocarpa,rbcL,OM160646,1206,Vandenboschia kalamocarpa (Hayata) Ebihara,Vandenboschia kalamocarpa (Hayata) Ebihara,872906,FALSE
 Vandenboschia_liukiuensis,rbcL,AB196369,1206,Vandenboschia liukiuensis (Y. Yabe) Tagawa,Vandenboschia liukiuensis,305435,FALSE
 Vandenboschia_maxima,rbcL,KY099875,1236,Vandenboschia maxima (Blume) Copel.,Vandenboschia maxima (Blume) Copel.,221324,FALSE
 Vandenboschia_radicans,rbcL,AF275650,1326,Vandenboschia radicans (Sw.) Copel.,Vandenboschia radicans (Sw.) Copel.,49543,FALSE
@@ -14915,7 +14879,7 @@ Vittaria_isoetifolia,rbcL,U20936,1324,Vittaria isoetifolia Bory,Vittaria isoetif
 Vittaria_lineata,atpA,KX165267,1773,Vittaria lineata (L.) J. E. Sm.,Vittaria lineata (L.) Sm.,38538,FALSE
 Vittaria_lineata,rbcL,KX165061,1309,Vittaria lineata (L.) J. E. Sm.,Vittaria lineata (L.) Sm.,38538,FALSE
 Vittaria_scabrida,atpA,KU517483,1774,Vittaria scabrida Klotzsch,Vittaria scabrida Klotzsch ex Fee,1913065,FALSE
-Vittaria_scabrida,rbcL,KU517612,1309,Vittaria scabrida Klotzsch,Vittaria scabrida Klotzsch ex Fee,1913065,FALSE
+Vittaria_scabrida,rbcL,KU517611,1309,Vittaria scabrida Klotzsch,Vittaria scabrida Klotzsch ex Fee,1913065,FALSE
 Woodsia_alpina,atpA,KP226709,1692,Woodsia alpina (Bolton) Gray,Woodsia alpina (Bolton) Gray,1303118,FALSE
 Woodsia_alpina,matK,KP226734,777,Woodsia alpina (Bolton) Gray,Woodsia alpina (Bolton) Gray,1303118,FALSE
 Woodsia_alpina,rbcL,KP226759,1204,Woodsia alpina (Bolton) Gray,Woodsia alpina (Bolton) Gray,1303118,FALSE
