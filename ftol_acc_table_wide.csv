@@ -134,7 +134,7 @@ Adiantum_gracile,MH019355,NA,NA,MH019578,NA,NA,NA,NA,voucher,spprado2242,NA,FALS
 Adiantum_gravesii,KY382729,KY429095,KY461708,KY450871,KY451001,KY451001,KY450945,NA,voucher,wah048,NA,FALSE
 Adiantum_henslovianum,KX524418,NA,NA,KX524214,NA,NA,NA,NA,monophy,NA,NA,FALSE
 Adiantum_hirsutum,NA,NA,NA,KF992410,NA,NA,NA,NA,unjoined,shennequinr223,Evolutionary patterns in the assembly of fern diversity on the,FALSE
-Adiantum_hispidulum,JF937304,JF935431,NA,JF935349,JF980615,JF980615,JF980694,NA,voucher,jwen10771,NA,FALSE
+Adiantum_hispidulum,NA,NA,NA,NA,NA,NA,NA,LT615217,NA,NA,NA,FALSE
 Adiantum_hornei,NA,NA,NA,MH019581,NA,NA,NA,NA,unjoined,ucgame9510,A worldwide phylogeny of Adiantum (Pteridaceae) reveals remarkable,FALSE
 Adiantum_hosei,MH019358,NA,NA,MH019582,NA,NA,NA,NA,voucher,ucbeaman10302,NA,FALSE
 Adiantum_humile,MH019359,NA,NA,MH019583,NA,NA,NA,NA,voucher,ucboudrie3934,NA,FALSE
@@ -481,7 +481,7 @@ Ampelopteris_prolifera,NA,NA,NA,NA,NA,NA,NA,MT130611,NA,NA,NA,FALSE
 Ananthacorus_angustifolius,KU517449,NA,KX896837,U20932,NA,NA,NA,NA,monophy,NA,NA,FALSE
 Anchistea_virginica,EF463623,EF463359,KX656061,AB040606,AF533857,AF533857,NA,NA,monophy,NA,NA,FALSE
 Anemia_abbottii,NA,NA,NA,KT423808,NA,NA,NA,NA,unjoined,mejia23945,Molecular phylogeny and character evolution of Anemiaceae,FALSE
-Anemia_adiantifolia,NA,NA,NA,KR816690,NA,NA,NA,NA,unjoined,950064,Phylogenetic and functional diversity of Florida ferns,FALSE
+Anemia_adiantifolia,NA,NA,NA,NA,NA,NA,NA,OM419342,NA,NA,NA,FALSE
 Anemia_affinis,NA,NA,NA,KT423812,NA,KT423684,KT423392,NA,voucher,breedlove17953,NA,FALSE
 Anemia_andersonii,NA,NA,NA,KT423813,NA,KT423747,KT423465,NA,voucher,labiakmickel5299,NA,FALSE
 Anemia_angolensis,NA,NA,NA,AJ303427,NA,NA,NA,NA,unjoined,nkbrobson1651,Schizaeaceae: a phylogenetic approach,FALSE
@@ -753,6 +753,7 @@ Asplenium_balearicum,NA,NA,NA,NA,MK827554,MK827554,NA,NA,voucher,pokornyor6,NA,F
 Asplenium_bangii,NA,MK826374,NA,MK826931,MK827441,MK827441,MK827937,NA,voucher,rothfels4831,NA,FALSE
 Asplenium_barteri,NA,NA,NA,MK827041,NA,NA,MK827924,NA,monophy,NA,NA,FALSE
 Asplenium_bicentenniale,NA,NA,NA,KP774944,KP218752,KP218752,KP218787,NA,voucher,djo273,NA,FALSE
+Asplenium_bimixtum,NA,NA,NA,NA,NA,NA,NA,MN912732,NA,NA,NA,FALSE
 Asplenium_bipartitum,NA,NA,NA,KF992427,NA,NA,NA,NA,unjoined,shennequin358,Evolutionary patterns in the assembly of fern diversity on the,FALSE
 Asplenium_bipinnatifidum,NA,NA,NA,KP774915,KP872963,KP872963,KP835379,NA,voucher,fiji111,NA,FALSE
 Asplenium_blastophorum,NA,NA,NA,MK826914,MK827423,MK827423,MK827925,NA,voucher,anderberg116,NA,FALSE
@@ -921,7 +922,7 @@ Asplenium_pachychlamys,NA,MK826401,NA,MK826958,MK827469,MK827469,MK827961,NA,vou
 Asplenium_paleaceum,NA,NA,NA,KP774941,KP218779,KP218779,KP218793,NA,voucher,djo316,NA,FALSE
 Asplenium_palmeri,NA,MK826042,NA,MK826539,MK827064,MK827064,MK827617,NA,voucher,rothfels08025,NA,FALSE
 Asplenium_parvifolium,NA,NA,NA,AF240640,NA,NA,NA,NA,unjoined,NA,Phylogeny and biosystematic relationships of four subgenera in,FALSE
-Asplenium_paucivenosum,NA,NA,NA,NA,NA,NA,AF525260,NA,unjoined,NA,NA,FALSE
+Asplenium_paucivenosum,NA,NA,NA,NA,NA,NA,NA,OM419382,NA,NA,NA,FALSE
 Asplenium_pauperequitum,NA,MK826419,NA,AY283233,MK827488,MK827488,KP888649,NA,monophy,NA,NA,FALSE
 Asplenium_pearcei,NA,NA,NA,KJ628630,NA,NA,NA,NA,unjoined,NA,Phylogenetic relatedness within neotropical fern communities,FALSE
 Asplenium_pellucidum,NA,NA,NA,KP774853,KP835421,KP835421,KP835386,NA,voucher,djo299,NA,FALSE
@@ -1003,7 +1004,7 @@ Asplenium_sublaserpitiifolium,NA,MK826063,NA,MK826561,MK827088,MK827088,NA,NA,vo
 Asplenium_sulcatum,NA,NA,NA,KF992441,NA,NA,NA,NA,unjoined,egrangaudsn,Evolutionary patterns in the assembly of fern diversity on the,FALSE
 Asplenium_surrogatum,NA,NA,NA,EU240034,EU240024,EU240024,EU240029,NA,voucher,weltp22090,NA,FALSE
 Asplenium_tenerrimum,NA,MK826044,NA,NA,MK827066,MK827066,MK827619,NA,voucher,rothfels08058,NA,FALSE
-Asplenium_tenerum,NA,MK826357,NA,MK826911,MK827421,MK827421,MK827905,NA,voucher,zhang8324,NA,FALSE
+Asplenium_tenerum,NA,NA,NA,NA,NA,NA,NA,MT700551,NA,NA,NA,FALSE
 Asplenium_tenuifolium,NA,MK826060,NA,MH109141,MH109147,MH109147,MH109153,NA,voucher,jl00361,NA,FALSE
 Asplenium_theciferum,JF832094,JF832153,JF832255,AF336099,AY549821,AY549821,AY300070,NA,monophy,NA,NA,FALSE
 Asplenium_thunbergii,NA,NA,NA,KP774892,KP835429,KP835429,KP835352,NA,voucher,jk9108,NA,FALSE
@@ -1024,8 +1025,8 @@ Asplenium_vittaeforme,NA,MK826433,NA,MK826990,MK827503,MK827503,MK827987,NA,vouc
 Asplenium_volkensii,NA,NA,NA,AY300148,NA,NA,AY300095,NA,monophy,NA,NA,FALSE
 Asplenium_vulcanicum,NA,NA,NA,GU929829,NA,NA,NA,NA,unjoined,kh136,"Pectin-rich, helical cell wall thickenings of root cortical cells",FALSE
 Asplenium_wilfordii,NA,NA,NA,AB574883,NA,NA,NA,NA,unjoined,tns763478,Molecular species identification with rich floristic sampling: DNA,FALSE
-Asplenium_wrightii,NA,MK826154,NA,MK826640,MK827167,MK827167,MK827715,NA,voucher,xugx008,NA,FALSE
-Asplenium_yoshinagae,NA,MK826242,NA,MK826722,MK827250,MK827250,MK827776,NA,voucher,zhang9735a,NA,FALSE
+Asplenium_wrightii,NA,NA,NA,NA,NA,NA,NA,OM419360,NA,NA,NA,FALSE
+Asplenium_yoshinagae,NA,NA,NA,NA,NA,NA,NA,OM419356,NA,NA,NA,FALSE
 Astrolepis_cochisensis,MW057292,NA,NA,MW057268,NA,NA,NA,NA,voucher,windham3490,NA,FALSE
 Astrolepis_crassifolia,MW057293,NA,NA,MW057269,NA,NA,NA,NA,voucher,windham494,NA,FALSE
 Astrolepis_deltoidea,MW057294,NA,NA,MW057270,NA,NA,NA,NA,voucher,hatch279,NA,FALSE
@@ -1250,7 +1251,7 @@ Botrychium_yaaxudakeit,NA,NA,NA,MG215324,NA,NA,NA,NA,unjoined,ccdb18347c2,Using 
 Botrypus_virginianus,KF186552,NA,NA,KF186520,NA,NA,NA,NA,voucher,oac96871,NA,FALSE
 Brainea_insignis,NA,NA,NA,NA,NA,NA,NA,MN623366,NA,NA,NA,FALSE
 Calciphilopteris_ludens,NA,NA,NA,NA,NA,NA,NA,MT130590,NA,NA,NA,FALSE
-Callistopteris_apiifolia,NA,NA,NA,NA,NA,NA,NA,MH265125,NA,NA,NA,FALSE
+Callistopteris_apiifolia,NA,NA,NA,NA,NA,NA,NA,OM419359,NA,NA,NA,FALSE
 Callistopteris_baldwinii,NA,NA,NA,MT657790,NA,NA,NA,NA,unjoined,krwood17938,Biogeography of Pacific pteridophytes in a global context,FALSE
 Calochlaena_dubia,NA,NA,NA,U05615,NA,NA,NA,NA,unjoined,NA,rbcL gene sequences provide evidence for the evolutionary lineages,FALSE
 Calochlaena_javanica,NA,NA,NA,HQ334992,NA,NA,NA,NA,unjoined,ba655,"A new species of tree fern Dicksonia (Dicksoniaceae) from Timor,",FALSE
@@ -1316,7 +1317,7 @@ Campyloneurum_vulpinum,NA,NA,NA,MF318043,NA,MF318178,MF318424,NA,monophy,NA,NA,F
 Campyloneurum_wurdackii,NA,NA,NA,MF318058,NA,MF318181,MF318426,NA,voucher,wurdack41303,NA,FALSE
 Campyloneurum_xalapense,NA,NA,NA,MF318009,NA,MF318193,MF318439,NA,voucher,munnestrada1128,NA,FALSE
 Cephalomanes_atrovirens,NA,NA,NA,AB257485,NA,NA,NA,NA,unjoined,smatsumoto517,A global molecular phylogeny of the fern genus Trichomanes,FALSE
-Cephalomanes_javanicum,NA,NA,NA,Y09195,NA,NA,NA,NA,unjoined,NA,rbcL sequences: a promising tool for the molecular systematics of,FALSE
+Cephalomanes_javanicum,NA,NA,NA,NA,NA,NA,NA,OM419357,NA,NA,NA,FALSE
 Ceradenia_argyrata,NA,KY711752,NA,KY711926,NA,KY712253,KY711579,NA,monophy,NA,NA,FALSE
 Ceradenia_aulaeifolia,NA,AY459453,NA,AY460619,NA,NA,NA,NA,voucher,arojas3232uccrinbmo,NA,FALSE
 Ceradenia_ayapoyana,NA,NA,NA,KM218811,NA,KM106123,KM106053,NA,voucher,ijimenez1114,NA,FALSE
@@ -1396,7 +1397,7 @@ Cheilanthes_tenuifolia,MH170453,NA,NA,MH170425,NA,NA,NA,NA,voucher,grusz1,NA,FAL
 Cheilanthes_viridis,GU935487,NA,NA,GU935495,GU935548,GU935548,GU935602,NA,voucher,schelpe2959,NA,FALSE
 Cheiloplecton_rigidum,MK632498,NA,NA,U29133,NA,NA,MN876720,NA,monophy,NA,NA,FALSE
 Cheiroglossa_palmata,NA,NA,AB716733,AY138421,NA,NA,NA,NA,monophy,NA,NA,FALSE
-Cheiropleuria_bicuspis,NA,NA,NA,AB042573,NA,NA,NA,NA,unjoined,kato,Taxonomic Studies of Cheiropleuria (Dipteridaceae) with Description,FALSE
+Cheiropleuria_bicuspis,NA,NA,NA,NA,NA,NA,NA,OM419348,NA,NA,NA,FALSE
 Cheiropleuria_integrifolia,EF463661,AY612692,JF303904,EU352298,AY612654,AY612654,NA,NA,monophy,NA,NA,FALSE
 Cheiropleuria_parva,NA,NA,NA,AB042572,NA,NA,NA,NA,unjoined,murakami,Taxonomic Studies of Cheiropleuria (Dipteridaceae) with Description,FALSE
 Chingia_longissima,EF463887,EF463547,NA,EF463291,AF425163,AF425163,AF425126,NA,manual,NA,NA,FALSE
@@ -1498,7 +1499,7 @@ Crepidomanes_intermedium,NA,NA,NA,MT657843,NA,NA,NA,NA,unjoined,krwood17067,Biog
 Crepidomanes_intramarginale,NA,NA,NA,KF041487,NA,NA,NA,NA,unjoined,tsutsumisn,New insights into the systematics and evolution of the filmy fern,FALSE
 Crepidomanes_intricatum,NA,NA,NA,AB378491,AB378495,AB378495,NA,NA,voucher,tnsdrfarrar0601060206010604,NA,FALSE
 Crepidomanes_kurzii,NA,NA,NA,EU122970,NA,NA,NA,NA,unjoined,jnitta052,Exploring the utility of three plastid loci for biocoding the filmy,FALSE
-Crepidomanes_latealatum,NA,NA,NA,AB083291,NA,NA,NA,NA,unjoined,ebihara99120502,"Hymenophyllum paniense (Hymenophyllaceae), A New Species of Filmy",FALSE
+Crepidomanes_latealatum,NA,NA,NA,NA,NA,NA,NA,OM419367,NA,NA,NA,FALSE
 Crepidomanes_latemarginale,NA,NA,NA,EU122971,NA,NA,NA,NA,unjoined,uc1622589,Exploring the utility of three plastid loci for biocoding the filmy,FALSE
 Crepidomanes_longilabiatum,NA,NA,NA,AB479132,NA,NA,NA,NA,unjoined,personalfrakotondrainibe1860,New insights into the systematics and evolution of the filmy fern,FALSE
 Crepidomanes_makinoi,NA,NA,NA,AB574709,NA,NA,NA,NA,unjoined,tns776936,Molecular species identification with rich floristic sampling: DNA,FALSE
@@ -1576,7 +1577,7 @@ Ctenopterella_denticulata,NA,JF514081,NA,JF514013,NA,NA,JF514047,NA,voucher,rank
 Ctenopterella_lasiostipes,NA,KY711778,NA,KY711953,NA,KY712279,KY711605,NA,voucher,munzinger1673,NA,FALSE
 Ctenopterella_parvula,NA,KY711770,NA,KY711945,NA,KY712272,KY711597,NA,voucher,janssen2455,NA,FALSE
 Ctenopterella_zenkeri,NA,KY711774,NA,KY711949,NA,KY712276,KY711601,NA,voucher,rouhan1354bis,NA,FALSE
-Culcita_coniifolia,AM176435,AM176595,NA,AM177333,AM176491,AM176491,NA,NA,voucher,conant4405,NA,FALSE
+Culcita_coniifolia,NA,NA,NA,NA,NA,NA,NA,OM419350,NA,NA,NA,FALSE
 Culcita_macrocarpa,AM176436,AM176596,NA,AM177334,AM176492,AM176492,NA,NA,voucher,rumseyandvogelsn,NA,FALSE
 Cyathea_abrapatriciana,NA,NA,NA,NA,NA,NA,MN155467,NA,unjoined,NA,NA,FALSE
 Cyathea_acutidens,NA,NA,NA,NA,NA,NA,MN155469,NA,unjoined,NA,NA,FALSE
@@ -1981,8 +1982,8 @@ Dicranopteris_cadetii,NA,NA,NA,KF992471,NA,NA,NA,NA,unjoined,shennequin284,Evolu
 Dicranopteris_curranii,NA,MZ365116,MZ365153,MZ365070,MZ365166,NA,MZ365217,NA,voucher,hns065,NA,FALSE
 Dicranopteris_flexuosa,NA,NA,NA,NA,DQ390582,DQ390582,NA,NA,voucher,christenhusz4241,NA,FALSE
 Dicranopteris_linearis,NA,KU877800,KU936569,KU936634,KU936699,KU936699,KU936764,NA,voucher,yyh13448,NA,FALSE
-Dicranopteris_pedata,NA,NA,NA,NA,NA,NA,NA,MN817664,NA,NA,NA,FALSE
-Dicranopteris_splendida,NA,MZ365114,MZ365131,MZ365060,MZ365156,NA,MZ365196,NA,voucher,hns061,NA,FALSE
+Dicranopteris_pedata,NA,NA,NA,NA,NA,NA,NA,OM419363,NA,NA,NA,FALSE
+Dicranopteris_splendida,NA,NA,NA,NA,NA,NA,NA,OM419352,NA,NA,NA,FALSE
 Dicranopteris_weatherbyi,NA,NA,NA,MT657778,NA,NA,NA,NA,unjoined,krwood13647,Biogeography of Pacific pteridophytes in a global context,FALSE
 Dictymia_brownii,NA,NA,NA,NA,NA,NA,NA,MW876312,NA,NA,NA,FALSE
 Dictymia_mckeei,EF463810,EF463492,NA,DQ164441,DQ164472,DQ164472,DQ164504,NA,monophy,NA,NA,FALSE
@@ -2182,13 +2183,13 @@ Diploblechnum_fraseri,NA,NA,NA,KF975790,KF975746,KF975746,NA,NA,voucher,weltp021
 Diploblechnum_lenormandii,NA,NA,NA,KF975793,KF975749,KF975749,KF975719,NA,voucher,weltp026071,NA,FALSE
 Diploblechnum_neglectum,KP164483,KP164490,NA,AB040582,KJ170808,KJ170808,KJ170862,NA,monophy,NA,NA,FALSE
 Diplopterygium_bancroftii,EF588669,AY612695,NA,EF588691,AY612657,AY612657,EF588800,NA,monophy,NA,NA,FALSE
-Diplopterygium_blotianum,NA,KU877750,KU936519,KU936584,KU936649,KU936649,KU936714,NA,voucher,hns055,NA,FALSE
+Diplopterygium_blotianum,NA,NA,NA,NA,NA,NA,NA,OM419345,NA,NA,NA,FALSE
 Diplopterygium_cantonense,NA,KU877773,KU936542,KU936607,KU936672,KU936672,KU936737,NA,voucher,hns064,NA,FALSE
 Diplopterygium_chinense,NA,NA,NA,NA,NA,NA,NA,MT113334,NA,NA,NA,FALSE
 Diplopterygium_giganteum,NA,KU877793,KU936562,KU936627,KU936692,KU936692,KU936757,NA,voucher,yyh13917,NA,FALSE
 Diplopterygium_glaucoides,NA,GU950638,NA,DQ838066,GU950650,GU950650,NA,NA,voucher,sgluc63,NA,FALSE
-Diplopterygium_glaucum,NA,NA,NA,NA,NA,NA,NA,KF225594,NA,NA,NA,FALSE
-Diplopterygium_laevissimum,NA,KU877795,KU936564,KU936629,KU936694,KU936694,KU936759,NA,voucher,mes028,NA,FALSE
+Diplopterygium_glaucum,NA,NA,NA,NA,NA,NA,NA,OM419358,NA,NA,NA,FALSE
+Diplopterygium_laevissimum,NA,NA,NA,NA,NA,NA,NA,OM419370,NA,NA,NA,FALSE
 Diplopterygium_longissimum,NA,NA,NA,KY099796,NA,NA,NA,NA,unjoined,nitta667,Life cycle matters: DNA barcoding reveals contrasting community,FALSE
 Diplopterygium_pinnatum,NA,NA,NA,MT657782,NA,NA,NA,NA,unjoined,krwood18161,Biogeography of Pacific pteridophytes in a global context,FALSE
 Diplopterygium_rufum,NA,GU950640,NA,DQ838068,GU950652,GU950652,NA,NA,voucher,sglui23,NA,FALSE
@@ -2281,7 +2282,7 @@ Dryopteris_barbigera,NA,NA,NA,JN189539,NA,JN189213,JN189108,NA,voucher,ucusacami
 Dryopteris_basisora,NA,NA,NA,AY587119,NA,DQ191828,NA,NA,voucher,sgluc28,NA,FALSE
 Dryopteris_benedictii,KF186545,NA,NA,KF186512,NA,NA,NA,NA,voucher,oac96843,NA,FALSE
 Dryopteris_bernieri,NA,NA,NA,KY073638,NA,NA,NA,NA,unjoined,comptonnbg02636625,Into Africa: Molecular phylogenetics and historical biogeography of,FALSE
-Dryopteris_blanfordii,NA,NA,KT876448,KT876447,NA,KT876442,KT876443,NA,publication,NA,systematic position of the dryopteris blanfordii subsp.,FALSE
+Dryopteris_blanfordii,NA,NA,NA,NA,NA,NA,NA,LT827127,NA,NA,NA,FALSE
 Dryopteris_bodinieri,NA,NA,NA,DQ508772,NA,NA,DQ514494,NA,voucher,ljm078,NA,FALSE
 Dryopteris_bojeri,NA,NA,NA,KY073639,NA,KY073663,NA,NA,voucher,helsinki1572930,NA,FALSE
 Dryopteris_borreri,NA,NA,NA,JN189557,NA,JN189231,JN189126,NA,voucher,ucusacachristenhusz4290,NA,FALSE
@@ -2326,7 +2327,7 @@ Dryopteris_erythrosora,NA,NA,NA,NA,NA,NA,NA,MT130675,NA,NA,NA,FALSE
 Dryopteris_expansa,EF463674,EF463390,NA,EF463179,NA,NA,NA,NA,voucher,christenhusz4263,NA,FALSE
 Dryopteris_fadenii,NA,NA,NA,KY073642,NA,KY073666,KY073701,NA,voucher,helsinki1142549,NA,FALSE
 Dryopteris_fatuhivensis,NA,NA,NA,NA,NA,JN189275,JN189168,NA,voucher,colowood10092,NA,FALSE
-Dryopteris_filix-mas,NA,NA,NA,NA,NA,NA,NA,MT984524,NA,NA,NA,FALSE
+Dryopteris_filix-mas,NA,NA,NA,NA,NA,NA,NA,LT618774,NA,NA,NA,FALSE
 Dryopteris_flaccisquama,NA,NA,NA,JN189519,NA,JN189193,JN189088,NA,voucher,nyfay3152,NA,FALSE
 Dryopteris_formosana,NA,NA,NA,JN189545,NA,JN189219,JN189114,NA,voucher,ucusacarbc181,NA,FALSE
 Dryopteris_fragrans,NA,NA,NA,NA,NA,NA,NA,KX418656,NA,NA,NA,FALSE
@@ -2476,7 +2477,7 @@ Dryopteris_tyrrhena,NA,NA,NA,KY073660,NA,KY073679,KY073716,NA,voucher,madridcomp
 Dryopteris_unidentata,NA,NA,NA,AY268832,NA,NA,NA,NA,unjoined,NA,Molecular phylogenetics and historical biogeography of Hawaiian,FALSE
 Dryopteris_uniformis,EF463679,EF463395,NA,EF463183,NA,NA,NA,NA,voucher,schuettpelz537,NA,FALSE
 Dryopteris_varia,NA,NA,NA,AY736329,NA,NA,AY736355,NA,voucher,ljm180,NA,FALSE
-Dryopteris_villarii,NA,NA,NA,KY073661,NA,KY073680,KY073717,NA,voucher,flasebs146,NA,FALSE
+Dryopteris_villarii,NA,NA,NA,NA,NA,NA,NA,LT905144,NA,NA,NA,FALSE
 Dryopteris_wallichiana,NA,NA,NA,KJ464428,NA,KJ464669,KJ464599,NA,voucher,labiak4434,NA,FALSE
 Dryopteris_wattsii,KP164481,KP164488,NA,KP164495,NA,NA,NA,NA,voucher,sankowsky4171,NA,FALSE
 Dryopteris_wulingshanensis,NA,NA,NA,MZ444607,NA,NA,NA,NA,unjoined,NA,"Dryopteriswulingshanensis (Dryopteridaceae), a new species from",FALSE
@@ -2916,7 +2917,7 @@ Hymenasplenium_laterepens,NA,NA,NA,MH884807,MH884829,MH884829,NA,NA,monophy,NA,N
 Hymenasplenium_latidens,NA,NA,NA,MW194204,MW194219,MW194219,NA,NA,voucher,chang1029,NA,FALSE
 Hymenasplenium_ngheanense,NA,MH065500,NA,MH065426,MH065331,MH065331,MH065583,NA,voucher,zhang6532,NA,FALSE
 Hymenasplenium_obliquissimum,NA,NA,NA,NA,NA,NA,NA,MT130674,NA,NA,NA,FALSE
-Hymenasplenium_obscurum,NA,MH065483,NA,MH065411,MH065354,MH065354,MH065567,NA,voucher,zhang7715,NA,FALSE
+Hymenasplenium_obscurum,NA,NA,NA,NA,NA,NA,NA,OM419355,NA,NA,NA,FALSE
 Hymenasplenium_phamhoanghoi,NA,MH065506,NA,MH065432,MH065334,MH065334,MH065590,NA,voucher,zhang8819,NA,FALSE
 Hymenasplenium_praestans,NA,NA,NA,MT936350,NA,MT936351,MT936352,NA,voucher,gh01005665,NA,FALSE
 Hymenasplenium_pseudobscurum,NA,NA,NA,MH884827,MH884836,MH884836,NA,NA,voucher,chang1010,NA,FALSE
@@ -2940,7 +2941,7 @@ Hymenophyllum_australe,NA,NA,NA,AB496575,AB496595,AB496595,KC986872,NA,monophy,N
 Hymenophyllum_badium,NA,NA,NA,AB191440,AY775413,AY775413,NA,NA,monophy,NA,NA,FALSE
 Hymenophyllum_baileyanum,EF463750,EF463459,NA,AB191441,AY095129,AY095129,NA,NA,monophy,NA,NA,FALSE
 Hymenophyllum_balfourii,NA,NA,NA,KF992498,NA,NA,NA,NA,unjoined,frakotondrainibe6981,Evolutionary patterns in the assembly of fern diversity on the,FALSE
-Hymenophyllum_barbatum,NA,NA,NA,NA,NA,NA,NA,MN583334,NA,NA,NA,FALSE
+Hymenophyllum_barbatum,NA,NA,NA,NA,NA,NA,NA,OM419349,NA,NA,NA,FALSE
 Hymenophyllum_bivalve,NA,NA,NA,AB496573,AB496593,AB496593,NA,NA,voucher,aebihara01121605,NA,FALSE
 Hymenophyllum_blandum,NA,NA,NA,MF144656,ON773147,ON773147,NA,NA,monophy,NA,NA,FALSE
 Hymenophyllum_braithwaitei,NA,NA,NA,AB162686,MF144591,MF144591,NA,NA,voucher,ebihara00122504,NA,FALSE
@@ -3008,7 +3009,7 @@ Hymenophyllum_novoguineense,NA,NA,NA,MN266598,MN266507,MN266507,NA,NA,voucher,kr
 Hymenophyllum_obtusum,NA,NA,NA,MT657834,NA,NA,NA,NA,unjoined,krwood18278,Biogeography of Pacific pteridophytes in a global context,FALSE
 Hymenophyllum_oligosorum,NA,NA,NA,MH211073,MH211102,MH211102,NA,NA,voucher,tchsu5646,NA,FALSE
 Hymenophyllum_ooides,NA,NA,NA,AB191449,NA,NA,NA,NA,unjoined,mha21589,New Insights into the Phylogeny of the Genus Hymenophyllum s.l.,FALSE
-Hymenophyllum_pallidum,NA,NA,NA,AB191457,NA,NA,NA,NA,unjoined,ebihara00122801,New Insights into the Phylogeny of the Genus Hymenophyllum s.l.,FALSE
+Hymenophyllum_pallidum,NA,NA,NA,NA,NA,NA,NA,OM419369,NA,NA,NA,FALSE
 Hymenophyllum_palmatifidum,NA,NA,NA,AB162682,NA,NA,NA,NA,unjoined,ebiharakinabalu017,Polyphyletic origin of Microtrichomanes (Prantl) Copel.,FALSE
 Hymenophyllum_paniculiflorum,NA,NA,NA,MH211066,MH211095,MH211095,NA,NA,voucher,lykuo3551,NA,FALSE
 Hymenophyllum_paniense,NA,NA,NA,AB083275,NA,NA,NA,NA,unjoined,ebihara00122502,"Hymenophyllum paniense (Hymenophyllaceae), A New Species of Filmy",FALSE
@@ -3041,7 +3042,7 @@ Hymenophyllum_secundum,NA,NA,NA,AF275648,AY095125,AY095125,NA,NA,voucher,wctaylo
 Hymenophyllum_semiglabrum,NA,NA,NA,MW138134,NA,NA,NA,NA,unjoined,jhnitta2315,A taxonomic and molecular survey of the pteridophytes of the,FALSE
 Hymenophyllum_serrulatum,NA,NA,NA,AB496565,AB496586,AB496586,NA,NA,voucher,aebihara000223009,NA,FALSE
 Hymenophyllum_seselifolium,NA,NA,NA,MF144679,MF144617,MF144617,NA,NA,voucher,salino14739,NA,FALSE
-Hymenophyllum_sibthorpioides,EF463760,EF463468,NA,AB162688,AY095127,AY095127,NA,NA,monophy,NA,NA,FALSE
+Hymenophyllum_sibthorpioides,NA,NA,NA,NA,NA,NA,NA,OM419366,NA,NA,NA,FALSE
 Hymenophyllum_sieberi,NA,NA,NA,MW138285,NA,NA,NA,NA,unjoined,jhnitta130,A taxonomic and molecular survey of the pteridophytes of the,FALSE
 Hymenophyllum_soriemersum,NA,NA,NA,MF144661,MF144598,MF144598,NA,NA,voucher,mackee21864,NA,FALSE
 Hymenophyllum_splendidum,NA,NA,NA,MF144684,NA,NA,NA,NA,unjoined,deblauwe228,Origins of the fern genus Hymenophyllum (Hymenophyllaceae) in New,FALSE
@@ -3573,9 +3574,9 @@ Loxsomopsis_pearcei,AM176452,AY612703,NA,AY612680,AY612665,AY612665,NA,NA,monoph
 Lygodium_articulatum,NA,NA,NA,KT423956,NA,KT423798,KT423520,NA,voucher,streimann80071,NA,FALSE
 Lygodium_circinatum,NA,NA,NA,AJ303418,NA,NA,NA,NA,unjoined,mwchase9459,Schizaeaceae: a phylogenetic approach,FALSE
 Lygodium_cubense,NA,NA,NA,NA,NA,NA,DQ845219,NA,unjoined,NA,NA,FALSE
-Lygodium_flexuosum,NA,NA,NA,LC496632,NA,NA,NA,NA,unjoined,hitbctfujiwara201810301,Resolving the Enigma of Fern Genome Evolution: from Genomic,FALSE
+Lygodium_flexuosum,NA,NA,NA,NA,NA,NA,NA,OM419365,NA,NA,NA,FALSE
 Lygodium_heterodoxum,NA,NA,NA,AJ303421,NA,NA,NA,NA,unjoined,ahughes55,Schizaeaceae: a phylogenetic approach,FALSE
-Lygodium_japonicum,NA,NA,NA,NA,NA,NA,NA,KF225593,NA,NA,NA,FALSE
+Lygodium_japonicum,NA,NA,NA,NA,NA,NA,NA,OM419353,NA,NA,NA,FALSE
 Lygodium_kerstenii,NA,NA,NA,AJ303420,NA,NA,NA,NA,unjoined,fisherschweickerdt230,Schizaeaceae: a phylogenetic approach,FALSE
 Lygodium_lanceolatum,NA,NA,NA,AJ303414,NA,NA,NA,NA,unjoined,wbaker1024,Schizaeaceae: a phylogenetic approach,FALSE
 Lygodium_microphyllum,NA,NA,NA,NA,NA,NA,NA,MG761729,NA,NA,NA,FALSE
@@ -3644,7 +3645,7 @@ Marsilea_vestita,NA,DQ643285,NA,DQ643319,DQ536352,DQ536352,DQ643381,NA,voucher,h
 Marsilea_villifolia,NA,DQ643286,NA,DQ643320,DQ536353,DQ536353,NA,NA,voucher,hansen3232,NA,FALSE
 Marsilea_villosa,NA,DQ643287,NA,DQ643321,DQ536354,DQ536354,DQ643382,NA,voucher,degener9049,NA,FALSE
 Matonia_foxworthyi,NA,NA,NA,AF012266,NA,NA,NA,NA,unjoined,NA,An rbcL-based phylogeny and heteroblastic leaf morphology of,FALSE
-Matonia_pectinata,EF588672,AY612704,JF303903,EU352307,AY612666,AY612666,EF588803,NA,monophy,NA,NA,FALSE
+Matonia_pectinata,NA,NA,NA,NA,NA,NA,NA,OM419375,NA,NA,NA,FALSE
 Matteuccia_struthiopteris,NA,NA,NA,NA,NA,NA,NA,KY427353,NA,NA,NA,FALSE
 Maxonia_apiifolia,EF463711,EF463427,NA,EF463209,KJ628941,KJ628941,KJ464641,NA,monophy,NA,NA,FALSE
 Megalastrum_abundans,NA,NA,NA,KJ464478,NA,KJ464729,KJ464642,NA,voucher,schwartsburd1631,NA,FALSE
@@ -3721,7 +3722,7 @@ Metaxya_contamanensis,NA,NA,KP244047,KP244073,KP244112,KP244112,NA,NA,voucher,tu
 Metaxya_elongata,NA,NA,KP244059,KP244077,KP244100,KP244100,NA,NA,voucher,turjones480,NA,FALSE
 Metaxya_lanosa,NA,NA,NA,AF317701,NA,NA,NA,NA,unjoined,htuomistokruokolainen13054,"Metaxya lanosa, a second species in the genus and fern family",FALSE
 Metaxya_parkeri,NA,NA,KP244062,KJ628779,KP244103,KP244094,NA,NA,monophy,NA,NA,FALSE
-Metaxya_rostrata,AM176453,AM176610,NA,AM177346,NA,NA,NA,NA,voucher,conant4355,NA,FALSE
+Metaxya_rostrata,NA,NA,NA,NA,NA,NA,NA,OM419378,NA,NA,NA,FALSE
 Metaxya_scalaris,NA,NA,KP244032,KP244065,KP244088,KP244088,NA,NA,voucher,turlehtonen987,NA,FALSE
 Mickelia_bernoullii,NA,NA,NA,NA,NA,GU376653,GU376506,NA,monophy,NA,NA,FALSE
 Mickelia_guianensis,EF463710,EF463426,NA,EF463208,NA,NA,NA,NA,voucher,christenhusz4228,NA,FALSE
@@ -4135,11 +4136,11 @@ Osmolindsaea_minor,NA,NA,NA,NA,NA,NA,KC155885,NA,unjoined,NA,NA,FALSE
 Osmolindsaea_odorata,NA,NA,NA,NA,NA,NA,NA,MT130576,NA,NA,NA,FALSE
 Osmunasium_mildei,NA,NA,NA,NA,NA,NA,NA,MZ292715,NA,NA,NA,FALSE
 Osmunda_hybrida,LC590401,NA,NA,LC590549,LC590471,LC590471,NA,NA,voucher,tns764968,NA,FALSE
-Osmunda_japonica,NA,NA,NA,NA,NA,NA,NA,MK554796,NA,NA,NA,FALSE
+Osmunda_japonica,NA,NA,NA,NA,NA,NA,NA,OM419346,NA,NA,NA,FALSE
 Osmunda_lancea,EF588681,NA,NA,EF588703,EF588767,EF588767,EF588813,NA,voucher,khirai990305,NA,FALSE
 Osmunda_regalis,EF588683,EF588727,NA,EF588705,EF588769,EF588769,EF588815,NA,voucher,mjmchristenhusz4271,NA,FALSE
 Osmunda_spectabilis,KF186540,NA,NA,NA,NA,NA,NA,NA,unjoined,NA,NA,FALSE
-Osmundastrum_cinnamomeum,NA,NA,NA,NA,NA,NA,NA,KF225592,NA,NA,NA,FALSE
+Osmundastrum_cinnamomeum,NA,NA,NA,NA,NA,NA,NA,OM419368,NA,NA,NA,FALSE
 Paesia_divaricatissima,NA,NA,NA,KY099842,NA,NA,NA,NA,unjoined,nitta594,Life cycle matters: DNA barcoding reveals contrasting community,FALSE
 Paesia_glandulosa,NA,NA,NA,NA,NA,MT563120,MT633785,NA,monophy,NA,NA,FALSE
 Paesia_radula,MH289680,NA,NA,MH289637,MH289712,MH289712,NA,NA,publication,NA,hiya: a new genus segregated from hypolepis in the fern family,FALSE
@@ -4326,7 +4327,7 @@ Physematium_scopulinum,NA,NA,NA,MG215504,NA,NA,NA,NA,unjoined,82330him,Using her
 Pichisermollodes_albopes,NA,NA,NA,KT289163,NA,NA,KT289304,NA,voucher,liugx174,NA,FALSE
 Pichisermollodes_connexa,NA,NA,NA,NA,NA,NA,NA,MT130564,NA,NA,NA,FALSE
 Pichisermollodes_crenatopinnata,NA,NA,NA,NA,NA,NA,NA,MW876367,NA,NA,NA,FALSE
-Pichisermollodes_ebenipes,KT289103,KT289119,KT289135,KT289167,NA,NA,KT289308,NA,voucher,zhang3848,NA,FALSE
+Pichisermollodes_ebenipes,NA,NA,NA,NA,NA,NA,NA,OM419351,NA,NA,NA,FALSE
 Pichisermollodes_malacodon,NA,NA,NA,NA,NA,NA,NA,MW876360,NA,NA,NA,FALSE
 Pichisermollodes_quasidivaricata,NA,NA,NA,KT289193,NA,NA,KT289333,NA,voucher,zhang5307,NA,FALSE
 Pichisermollodes_stewartii,NA,NA,NA,JQ685433,NA,NA,NA,NA,unjoined,NA,From the Himalayan Region or the Malay Archipelago: Molecular,FALSE
@@ -4976,7 +4977,7 @@ Ptisana_ambulans,NA,NA,NA,NA,MW051627,MW051627,NA,NA,voucher,taifsitw00629,NA,FA
 Ptisana_attenuata,NA,AF313546,NA,AF313581,NA,NA,NA,NA,voucher,rschmidsn,NA,FALSE
 Ptisana_boninensis,NA,NA,NA,LC484370,NA,NA,NA,NA,unjoined,tns1176751,An update and reassessment of fern and lycophyte diversity data in,FALSE
 Ptisana_decipiens,NA,NA,NA,NA,MW051623,MW051623,NA,NA,voucher,taifsitw03734wade3153,NA,FALSE
-Ptisana_fraxinea,NA,EU439067,NA,EU439088,EU439131,EU439131,NA,NA,monophy,NA,NA,FALSE
+Ptisana_fraxinea,NA,NA,NA,NA,NA,NA,NA,OM419377,NA,NA,NA,FALSE
 Ptisana_howeana,NA,NA,NA,NA,EU439128,EU439128,NA,NA,voucher,murdock359ucinculthsu,NA,FALSE
 Ptisana_melanesica,NA,EU439069,NA,EU439090,EU439134,EU439134,NA,NA,voucher,chase2841kincultkasmarattiawerneri,NA,FALSE
 Ptisana_mertensiana,NA,NA,NA,MT657851,NA,NA,NA,NA,unjoined,dhlorence10151,Biogeography of Pacific pteridophytes in a global context,FALSE
@@ -5123,7 +5124,7 @@ Selliguea_brachypodia,NA,NA,NA,AY362557,AY362621,AY362621,NA,NA,publication,NA,u
 Selliguea_capitellata,NA,NA,NA,NA,NA,NA,NA,MW876361,NA,NA,NA,FALSE
 Selliguea_caudiformis,KT289109,KT289125,KT289141,KT289201,NA,NA,KT289340,NA,voucher,karge740,NA,FALSE
 Selliguea_chenopus,NA,NA,NA,NA,NA,NA,NA,MW876366,NA,NA,NA,FALSE
-Selliguea_chrysotricha,NA,NA,NA,JQ685396,NA,NA,KT289305,NA,monophy,NA,NA,FALSE
+Selliguea_chrysotricha,NA,NA,NA,NA,NA,NA,NA,OM419376,NA,NA,NA,FALSE
 Selliguea_conjuncta,NA,NA,NA,JQ685397,JQ685461,JQ685461,JQ700474,NA,publication,NA,from the himalayan region or the malay archipelago: molecular,FALSE
 Selliguea_conmixta,NA,NA,NA,JQ685398,JQ685462,JQ685462,JQ700475,NA,publication,NA,from the himalayan region or the malay archipelago: molecular,FALSE
 Selliguea_cyrtomioides,NA,NA,NA,JQ685377,NA,JQ685441,JQ700454,NA,publication,NA,from the himalayan region or the malay archipelago: molecular,FALSE
@@ -5135,7 +5136,7 @@ Selliguea_feei,NA,NA,NA,AY529170,AY529192,AY529192,AY459179,NA,monophy,NA,NA,FAL
 Selliguea_feeoides,NA,NA,NA,MT657616,NA,NA,NA,NA,unjoined,dhlorence10627,Biogeography of Pacific pteridophytes in a global context,FALSE
 Selliguea_glauca,KT289111,KT289127,KT289143,NA,NA,NA,KT289342,NA,voucher,karge691,NA,FALSE
 Selliguea_griffithiana,NA,NA,NA,NA,NA,NA,NA,MW876369,NA,NA,NA,FALSE
-Selliguea_hastata,NA,NA,NA,KT289175,NA,NA,KT289316,NA,voucher,qi4566,NA,FALSE
+Selliguea_hastata,NA,NA,NA,NA,NA,NA,NA,OM419379,NA,NA,NA,FALSE
 Selliguea_hellwigii,NA,NA,NA,EU128501,EU128508,EU128508,EU128518,NA,voucher,hovenkampsn,NA,FALSE
 Selliguea_heterocarpa,NA,NA,NA,NA,NA,NA,NA,MW876362,NA,NA,NA,FALSE
 Selliguea_incisocrenata,NA,NA,NA,KT289180,NA,NA,KT289321,NA,voucher,qi4525,NA,FALSE
@@ -5312,7 +5313,7 @@ Sticherus_owhyhensis,NA,NA,NA,MT657783,NA,NA,NA,NA,unjoined,krwood18160,Biogeogr
 Sticherus_retroflexus,NA,NA,NA,MW138203,NA,NA,NA,NA,unjoined,jhnitta804,A taxonomic and molecular survey of the pteridophytes of the,FALSE
 Sticherus_tahitensis,NA,NA,NA,KY099868,NA,NA,NA,NA,unjoined,nitta1221,Life cycle matters: DNA barcoding reveals contrasting community,FALSE
 Sticherus_tener,NA,NA,NA,MW390794,NA,NA,JX569724,NA,monophy,NA,NA,FALSE
-Sticherus_truncatus,NA,GU950642,KU936570,DQ838073,KU936700,GU950654,KU936765,NA,monophy,NA,NA,FALSE
+Sticherus_truncatus,NA,NA,NA,NA,NA,NA,NA,OM419380,NA,NA,NA,FALSE
 Sticherus_urceolatus,NA,NA,NA,NA,NA,NA,JX569730,NA,unjoined,NA,NA,FALSE
 Stigmatopteris_brevinervis,NA,NA,NA,KU521866,NA,KU521899,KU521967,NA,voucher,labiak5508,NA,FALSE
 Stigmatopteris_bulbifera,NA,NA,NA,KU521868,NA,KU521901,KU521969,NA,voucher,fayfay3372,NA,FALSE
@@ -5335,7 +5336,7 @@ Stigmatopteris_rotundata,NA,NA,NA,NA,NA,KU521931,KU521995,NA,voucher,granville88
 Stigmatopteris_sordida,NA,NA,NA,KJ464507,NA,KJ464754,KJ464661,NA,voucher,moran6946,NA,FALSE
 Stigmatopteris_tijuccana,NA,NA,NA,KU521895,NA,KU521932,KU521996,NA,voucher,sylvestre2214,NA,FALSE
 Stigmatopteris_ulei,NA,NA,NA,KU521897,NA,KU521934,KU521998,NA,voucher,labiak5510,NA,FALSE
-Stromatopteris_moniliformis,EF463739,EF463448,NA,AY612685,AY612674,AY612674,NA,NA,monophy,NA,NA,FALSE
+Stromatopteris_moniliformis,NA,NA,NA,NA,NA,NA,NA,OM419372,NA,NA,NA,FALSE
 Strophocaulon_invisum,NA,NA,NA,MT657511,NA,NA,NA,NA,unjoined,taranker2520,Biogeography of Pacific pteridophytes in a global context,FALSE
 Strophocaulon_unitum,NA,NA,NA,KF992518,KT805122,KT805122,KT805056,NA,manual,NA,NA,FALSE
 Struthiopteris_castanea,NA,NA,NA,AB040549,NA,NA,MH644128,NA,monophy,NA,NA,FALSE
@@ -5462,7 +5463,7 @@ Terpsichore_staheliana,NA,NA,NA,MK319119,NA,NA,NA,NA,unjoined,cremersg13084,Taxo
 Thelypteris_confluens,NA,NA,NA,KT626846,NA,NA,NA,NA,manual,NA,NA,FALSE
 Thelypteris_palustris,JF832146,AY612713,JF832292,JF832085,JN572232,JN572232,HQ676538,NA,manual,NA,NA,FALSE
 Thylacopteris_papillosa,NA,NA,NA,NA,NA,NA,NA,MW876376,NA,NA,NA,FALSE
-Thyrsopteris_elegans,AM176461,AM176621,JF303910,AM177353,AM176509,AM176509,HG422548,NA,monophy,NA,NA,FALSE
+Thyrsopteris_elegans,NA,NA,NA,NA,NA,NA,NA,OM419361,NA,NA,NA,FALSE
 Tmesipteris_elongata,NA,NA,NA,NA,NA,NA,NA,KJ569699,NA,NA,NA,FALSE
 Tmesipteris_gracilis,NA,NA,NA,MT216135,NA,NA,NA,NA,unjoined,usschuettpelz1942,The Evolution of Overrepresentation: exploring the biogeography of,FALSE
 Tmesipteris_horomaka,NA,NA,NA,NA,NA,NA,FJ384423,NA,unjoined,NA,NA,FALSE
@@ -5541,7 +5542,7 @@ Vaginularia_acrocarpa,KC984435,KC984439,NA,EU024561,NA,NA,NA,NA,voucher,tranker1
 Vaginularia_junghuhnii,KX165241,NA,NA,KX165053,NA,NA,NA,NA,voucher,acsmith5806,NA,FALSE
 Vaginularia_paradoxa,KX165264,NA,NA,KX165054,NA,NA,NA,NA,voucher,dkarger1548,NA,FALSE
 Vaginularia_trichoidea,NA,NA,NA,NA,NA,NA,NA,MH173085,NA,NA,NA,FALSE
-Vandenboschia_auriculata,NA,NA,NA,AB257455,NA,NA,NA,NA,unjoined,ebihara00111807,A global molecular phylogeny of the fern genus Trichomanes,FALSE
+Vandenboschia_auriculata,NA,NA,NA,NA,NA,NA,NA,OM419344,NA,NA,NA,FALSE
 Vandenboschia_collariata,NA,NA,NA,MW138128,NA,NA,NA,NA,unjoined,jhnitta2376,A taxonomic and molecular survey of the pteridophytes of the,FALSE
 Vandenboschia_cyrtotheca,NA,NA,NA,MT657784,NA,NA,NA,NA,unjoined,krwood15393,Biogeography of Pacific pteridophytes in a global context,FALSE
 Vandenboschia_cystoseiroides,NA,NA,NA,LC496747,NA,NA,NA,NA,unjoined,hitbcmeg18y25,Resolving the Enigma of Fern Genome Evolution: from Genomic,FALSE

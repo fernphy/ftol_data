@@ -1,4 +1,4 @@
-This ftol_data_README.txt file was generated on 2022-10-25 by Joel Nitta
+This ftol_data_README.txt file was generated on 2022-11-06 by Joel Nitta
 
 --------------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ ftol_acc_table_long.csv: GenBank accessions used in the FTOL, long format.
 
 Number of variables: 8
 
-Number of cases/rows: 14987
+Number of cases/rows: 14908
 
 Variable list:
 
@@ -160,7 +160,7 @@ Missing data codes: No missing data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 50094c92358c96fdec0b5f7203728bd2
+MD5 checksum: f88d31d65bd6474246d4cbfd86247c5b
 
 --------------------------------------------------------------------------------
 
@@ -168,7 +168,7 @@ ftol_acc_table_wide.csv: GenBank accessions used in FTOL, wide format.
 
 Number of variables: 13
 
-Number of cases/rows: 5611
+Number of cases/rows: 5612
 
 Variable list:
 
@@ -190,7 +190,7 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: e77b3776ff314054d336e86f8ec1b18d
+MD5 checksum: 4960609b4e49f83a851ad6f953d9cc55
 
 --------------------------------------------------------------------------------
 
@@ -200,13 +200,13 @@ start and end position (column) of each locus is given in
 ftol_plastome_parts.csv. DNA sequences obtained from GenBank release 251
 (https://ftp.ncbi.nlm.nih.gov/genbank/).
 
-Number of bases (columns): 74862
+Number of bases (columns): 75168
 
-Number of rows (taxa): 468
+Number of rows (taxa): 498
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 992252b76d197cb9206cc72361bcae23
+MD5 checksum: 6b179393c26fa0b3bdfa21782124f80e
 
 --------------------------------------------------------------------------------
 
@@ -215,11 +215,11 @@ maximum-likelihood from DNA sequences in ftol_plastome_alignment.fasta.gz.
 Extended majority-rule consensus of 1000 bootstrap trees. Rooted on algae
 (Zygnema). In newick format.
 
-Number of tips: 468
+Number of tips: 498
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 7f549b892d310894ed47fbdf98f8bf0e
+MD5 checksum: 85aefad5cc45acefad9d4b10721b8e43
 
 --------------------------------------------------------------------------------
 
@@ -240,7 +240,7 @@ Missing data codes: None.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 14b241a3630d4069912b6169678b8c03
+MD5 checksum: d29c0d3ec3ab6532f23e10f7594e19a0
 
 --------------------------------------------------------------------------------
 
@@ -250,13 +250,13 @@ The start and end position (column) of each locus is given in
 ftol_sanger_parts.csv. DNA sequences obtained from GenBank release 251
 (https://ftp.ncbi.nlm.nih.gov/genbank/).
 
-Number of bases (columns): 12503
+Number of bases (columns): 12586
 
-Number of rows (taxa): 5607
+Number of rows (taxa): 5608
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 7afda56d602470da3462a3b5a25a9677
+MD5 checksum: b2d692be0be2848f988e49148d307a7f
 
 --------------------------------------------------------------------------------
 
@@ -267,11 +267,11 @@ Extended majority-rule consensus of 1000 bootstrap trees. Rooted on algae
 fossil calibration points (ftol_sanger_con_fossils.csv) using treePL. In newick
 format.
 
-Number of tips: 5606
+Number of tips: 5607
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 6daeeda54111e4201b823e2b7526627d
+MD5 checksum: dc393b61a9dfaf45b40fa296483f8b6d
 
 --------------------------------------------------------------------------------
 
@@ -294,7 +294,7 @@ Does not include the constraint on the root of the tree (landplants; 475 Ma).
 
 Number of variables: 12
 
-Number of cases/rows: 53
+Number of cases/rows: 54
 
 Variable list:
 
@@ -319,7 +319,7 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 5dbe2dd38baf2099009841243b2451c9
+MD5 checksum: 3e93bed19e15ecd91757d1befeb37423
 
 --------------------------------------------------------------------------------
 
@@ -327,11 +327,11 @@ ftol_sanger_con.tre: FTOL consensus phylogeny. Inferred using maximum-likelihood
 from DNA sequences in ftol_plastome_alignment.fasta.gz. Extended majority-rule
 consensus of 1000 bootstrap trees. Rooted on algae (Zygnema). In newick format.
 
-Number of tips: 5607
+Number of tips: 5608
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 71ebcc9f7e677a5494af332d8c40aaff
+MD5 checksum: 3401b45862b4637d5bc767cffc4cada2
 
 --------------------------------------------------------------------------------
 
@@ -341,11 +341,11 @@ Rooted on algae (Zygnema), which was pruned before dating. Divergence times
 estimated with fossil calibration points (ftol_sanger_con_fossils.csv) using
 treePL. In newick format.
 
-Number of tips: 5606
+Number of tips: 5607
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 4528943b360e17db99cbdcdaa7df5c9b
+MD5 checksum: 8a0299714dfb866c6cab91a3bc9cb75d
 
 --------------------------------------------------------------------------------
 
@@ -363,7 +363,7 @@ Does not include the constraint on the root of the tree (landplants; 475 Ma).
 
 Number of variables: 12
 
-Number of cases/rows: 53
+Number of cases/rows: 54
 
 Variable list: See entry for ftol_sanger_con_fossils.csv
 
@@ -371,7 +371,7 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 5dbe2dd38baf2099009841243b2451c9
+MD5 checksum: 3e93bed19e15ecd91757d1befeb37423
 
 --------------------------------------------------------------------------------
 
@@ -379,11 +379,11 @@ ftol_sanger_ml.tre: FTOL maximum-likelihood phylogeny. Inferred using
 maximum-likelihood from DNA sequences in ftol_plastome_alignment.fasta.gz.
 Rooted on algae (Zygnema). In newick format.
 
-Number of tips: 5607
+Number of tips: 5608
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 71ebcc9f7e677a5494af332d8c40aaff
+MD5 checksum: 3401b45862b4637d5bc767cffc4cada2
 
 --------------------------------------------------------------------------------
 
@@ -404,7 +404,7 @@ Missing data codes: None.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 668c59cb720573d4726b45c27b373f98
+MD5 checksum: 6927b9b1687e517e03d9ed11552fe0fb
 
 --------------------------------------------------------------------------------
 
@@ -412,7 +412,7 @@ ftol_sanger_sampling.csv: Taxonomic data of species in FTOL.
 
 Number of variables: 9
 
-Number of cases/rows: 5607
+Number of cases/rows: 5608
 
 Variable list:
 
@@ -430,7 +430,7 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: b969368fd065c9115880dd8032fb7bdb
+MD5 checksum: 2c034a2bc11e4ce9d7cdc9f16583cef9
 
 --------------------------------------------------------------------------------
 
