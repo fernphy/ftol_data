@@ -28,6 +28,7 @@ git_commit("Update CITATION.cff")
 if (nrow(git_status()) > 0) stop("Must have clean git repo before releasing")
 
 # Push release
+git_push()
 system(glue::glue(
   'gh release create {new_ver} --notes "{notes}"'
 ))
