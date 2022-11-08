@@ -1,4 +1,4 @@
-This ftol_data_README.txt file was generated on 2022-11-06 by Joel Nitta
+This ftol_data_README.txt file was generated on 2022-11-08 by Joel Nitta
 
 --------------------------------------------------------------------------------
 
@@ -66,6 +66,7 @@ File List:
 
 -   ftol_acc_table_long.csv: GenBank accessions used in the FTOL, long format.
 -   ftol_acc_table_wide.csv: GenBank accessions used in FTOL, wide format.
+-   ftol_match_results.csv: Results of taxonomic name matching and resolution.
 -   ftol_plastome_alignment.fasta.gz: Aligned plastome DNA sequences used to
     build FTOL.
 -   ftol_plastome_con.tre: FTOL backbone phylogeny.
@@ -191,6 +192,24 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 Specialized formats or other abbreviations used: None.
 
 MD5 checksum: 4960609b4e49f83a851ad6f953d9cc55
+
+--------------------------------------------------------------------------------
+
+ftol_match_results.csv: Results of taxonomic name matching and resolution.
+
+Number of variables: 7
+
+Number of cases/rows: 6474
+
+Variable list:
+
+-   query: Queried taxonomic name from NCBI
+-   resolved_name: Resolved name used in FTOL
+-   matched_name: Name matching query in pteridocat
+-   resolved_status: Taxonomic status of resolved name
+-   matched_status: Taxonomic status of matched name
+-   match_type: Type of match assigned by taxontools
+-   taxid: NCBI taxonomic ID
 
 --------------------------------------------------------------------------------
 
