@@ -30,5 +30,5 @@ if (nrow(git_status()) > 0) stop("Must have clean git repo before releasing")
 # Push release
 git_push()
 system(glue::glue(
-  'gh release create {new_ver} --notes "{notes}"'
+  'gh release create {new_ver} --title "{new_ver}" --notes "{notes}"'
 ))
