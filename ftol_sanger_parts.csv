@@ -1,8 +1,8 @@
 locus,start,end
-atpA,1,1811
-atpB,1812,3293
-matK,3294,4847
-rbcL,4848,6275
-rps4,6276,6892
-trnL-trnF,6893,10362
-rps4-trnS,10363,12586
+atpA,1,1814
+atpB,1815,3296
+matK,3297,4861
+rbcL,4862,6290
+rps4,6291,6907
+trnL-trnF,6908,10410
+rps4-trnS,10411,12648
