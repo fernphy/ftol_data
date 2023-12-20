@@ -1,55 +1,55 @@
 n_fos,minimum_age,node_calibrated,fossil_taxon,affinities_group,affinities,monophyly,number_tips,mrca,stem_mrca,tip_1,tip_2
-59,33.9,stem Cyclosorus,Cyclosorus scutum,stem,Cyclosorus,Monotypic,1,NA,9057,Ampelopteris_prolifera,Cyclosorus_interruptus
-100,163.5,stem Schizaeaceae,Klukia exilis,stem,Schizaeaceae,Yes,23,10926,10847,Anemia_herzogii,Actinostachys_digitata
-80,168.3,stem Lygodium,Stachypteris spicans,stem,Lygodium,Yes,18,10948,10846,Anemia_herzogii,Lygodium_palmatum
-31,174.1,crown Marattiaceae,Marattia aganzhenensis,crown,Marattiaceae,Yes,84,11329,5775,Angiopteris_cartilagidens,Danaea_simplicifolia
-37,47.8,stem Asplenium,Asplenium sanshuiense,stem,Asplenium,Yes,315,9672,9671,Asplenium_obovatum,Hymenasplenium_hoffmannii
-119,129.4,stem Athyrium,Athyrium cretaceum,stem,Athyrium,Yes,87,9334,9333,Athyrium_delavayi,Pseudathyrium_alpestre
-38,83.6,stem Azolla,Glomerisporites pupus,stem,Azolla,Yes,6,10836,10835,Azolla_microphylla,Salvinia_natans
-64,346.7,stem Equisetales,Protocalamostachys farringtonii,stem,Equisetales,Yes,20,11504,11412,Botrychium_montanum,Equisetum_bogotense
-36,23.03,stem Acrostichum,Acrostichum palaeoaureum,stem,Acrostichum,Yes,3,5786,5785,Ceratopteris_pteridoides,Acrostichum_danaeifolium
-129,72.1,crown Thelypteridaceae,Thelypteris goldianum,crown,Thelypteridaceae,Yes,257,8890,8889,Christella_procera,Macrothelypteris_polypodioides
-9,33.9,crown Cibotiaceae,Cibotium oregonense,crown,Cibotiaceae,Yes,9,10767,10766,Cibotium_menziesii,Cibotium_arachnoideum
-39,86.3,stem Cibotiaceae,Cibotium iwatense,stem,Cibotiaceae,Yes,9,10767,10766,Cibotium_menziesii,Metaxya_parkeri
-72,113,stem Hymenophyllum,Hymenophyllum iwatsukii,stem,Hymenophyllum,Yes,129,11184,11028,Crepidomanes_inopinatum,Hymenophyllum_scabrum
-10,13.82,crown Culcitaceae,Culcita emberi,crown,Culcitaceae,Yes,2,10783,10782,Culcita_macrocarpa,Culcita_coniifolia
-42,93.9,stem Cyathea,Kuylisporites mirabilis,stem,Cyathea,Yes,153,10495,10368,Cyathea_pungens,Alsophila_stelligera
-46,129.4,stem Cyatheaceae,Cibotiocaulis tateiwai,stem,Cyatheaceae,Yes,370,10366,10365,Cyathea_pungens,Calochlaena_straminea
-20,7.246,crown Cyathea,Cyatheaceae sp. indet.,crown,Cyathea,Yes,153,10495,10368,Cyathea_pungens,Cyathea_robertsiana
-21,168.3,crown Cyatheaceae+Dicksoniaceae+Cibotiaceae+Metaxyaceae,Dicksonia mariopteris,crown,Cyatheaceae+Dicksoniaceae+Cibotiaceae+Metaxyaceae,Yes,417,10364,10363,Cyathea_pungens,Metaxya_parkeri
-56,174.1,stem Cyatheales,Coniopteris lobata,stem,Cyatheales,Yes,432,10363,10362,Cyathea_pungens,Salvinia_natans
-74,113,stem Lophosoria,Lophosoria cupulatus,stem,Lophosoria,Yes,2,10765,10740,Dicksonia_archboldii,Lophosoria_quesadae
-68,272.95,stem Gleicheniaceae,Szea sinensis,stem,Gleicheniaceae,Yes,52,10977,10965,Dicranopteris_baliensis,Phanerosorus_major
-90,242,stem Matoniaceae,Tomaniopteris katonii,stem,Matoniaceae,Yes,4,10974,10966,Dipteris_chinensis,Phanerosorus_major
-117,100.5,crown Pteridaceae,Heinrichsia cheilanthoides,crown,Pteridaceae,Yes,897,5783,5782,Doryopteris_majestosa,Acrostichum_danaeifolium
-4,7.246,crown Drynaria,Aglaomorpha heraclea,crown,Drynaria,Yes,28,7277,7276,Drynaria_hieronymi,Drynaria_willdenowii
-11,33.9,stem Dryopteris,Dryopteris guyottii,stem,Dryopteris,Yes,236,7922,7875,Dryopteris_cycadina,Arachniodes_superba
-63,20.44,stem Elaphoglossum,Elaphoglossum miocenicum,stem,Elaphoglossum,Yes,210,8526,8525,Elaphoglossum_dimorphum,Mickelia_scandens
-27,56,crown Equisetum subgen. Equisetum,Equisetum cf. oppositum,crown,Equisetum subgen. Equisetum,Yes,9,11506,11505,Equisetum_dycei,Equisetum_pratense
-136,174.1,stem Equisetum subgen. Paramochaete,Equisetum laterale,stem,Equisetum subgen. Paramochaete,Monotypic,1,NA,11504,Equisetum_ferrissii,Equisetum_bogotense
-28,41.2,crown Equisetum subgen. Hippochaete,Equisetum clarnoi,crown,Equisetum subgen. Hippochaete,Yes,10,11514,11505,Equisetum_ferrissii,Equisetum_scirpoides
-67,100.5,stem Gleichenia,Gleichenia chaloneri,stem,Gleichenia,Yes,8,11021,11020,Gleichenia_abscida,Stromatopteris_moniliformis
-148,47.8,crown Hymenophyllum,Hymenophyllum axsmithii,crown,Hymenophyllum,Yes,129,11184,11028,Hymenophyllum_acanthoides,Hymenophyllum_scabrum
-70,15.97,stem Goniophlebium,Goniophlebium macrosorum,stem,Goniophlebium,Yes,16,7524,7368,Lepisorus_thunbergianus,Goniophlebium_fieldingianum
-147,7.25,crown Lepisorus,Neolepisorus chingii,crown,Lepisorus,No,88,7393,7392,Lepisorus_thunbergianus,Lepisorus_longifolius
-73,93.9,stem Lindsaeaceae,Lindsaeaceae gen. et. sp. indet.,stem,Lindsaeaceae,Yes,168,10185,10184,Lindsaea_arcuata,Lonchitis_occidentalis
-30,59.2,crown Lygodiaceae,Lygodium sanshuiense,crown,Lygodiaceae,Yes,18,10948,10846,Lygodium_japonicum,Lygodium_palmatum
-87,145,stem Marsileaceae,Regnellites nagashimae,stem,Marsileaceae,Yes,41,10795,10794,Marsilea_angustifolia,Salvinia_natans
-116,100.5,stem Matonia,Matonia jeffersonii,stem,Matonia,Yes,2,10975,10974,Matonia_pectinata,Phanerosorus_major
-92,100.5,stem Monachosorum,Krameropteris resinatus,stem,Monachosorum,Yes,6,10177,10059,Microlepia_strigosa,Monachosorum_maximowiczii
-93,56,stem Onoclea,Onoclea sensibilis,stem,Onoclea,Monotypic,1,NA,9323,Onocleopsis_hintonii,Onoclea_sensibilis
-94,93.9,stem Ophioglossum,Ophioglossum senomanicum,stem,Ophioglossum,Yes,23,11471,11470,Ophioglossum_californicum,Cheiroglossa_palmata
-86,307,stem Marattiaceae,Radstockia kidsonii,stem,Marattiaceae,Yes,84,11329,5775,Oreogrammitis_ctenoidea,Danaea_simplicifolia
-131,407.6,stem Euphyllophytes,Eophyllophyton bellum,stem,Euphyllophytes,Yes,5762,5773,5772,Oreogrammitis_ctenoidea,Lycopodium_clavatum
-140,129.4,stem Dryopteridaceae,Dryopterites beishanensis,stem,Dryopteridaceae,Yes,984,7871,6683,Oreogrammitis_ctenoidea,Parapolystichum_currorii
-95,93.9,stem Osmunda,Osmunda granulata,stem,Osmunda,Yes,5,11316,11315,Osmunda_lancea,Plenasium_angustifolium
-98,83.6,stem Regnellidium,Regnellidium upatoensis,stem,Regnellidium,Monotypic,1,NA,10796,Pilularia_globulifera,Regnellidium_diphyllum
-79,125,stem Loxsomataceae,Loxsomopteris anasilla,stem,Loxsomataceae,Yes,2,10793,10781,Plagiogyria_japonica,Loxsomopsis_pearcei
-105,145,stem Thyrsopteridaceae,Oguracaulis banksii,stem,Thyrsopteridaceae,Monotypic,1,NA,10780,Plagiogyria_japonica,Thyrsopteris_elegans
-33,15.97,crown Pleopeltis,Pleopeltis dominicensis,crown,Pleopeltis,No,54,7197,7159,Pleopeltis_burchellii,Pleopeltis_rosei
-97,27.82,stem Polypodium s.l.,Polypodium radonii,stem,Polypodium s.l.,No,26,7251,7158,Pleopeltis_burchellii,Pleurosoriopsis_makinoi
-114,23.03,stem Polystichum,Polystichum pacltovae,stem,Polystichum,No,201,8182,8157,Polystichum_yunnanense,Phanerophlebia_juglandifolia
-35,66,stem Acrostichum+Ceratopteris,Acrostichum intertrappeum,stem,Acrostichum+Ceratopteris,Yes,10,5785,5784,Pteris_latipinna,Acrostichum_danaeifolium
-113,86.3,crown Schizaeaceae,Paralygodium meckertii,crown,Schizaeaceae,Yes,23,10926,10847,Schizaea_elegans,Actinostachys_digitata
-125,33.9,stem Drynaria,Protodrynaria takhtajanii,stem,Drynaria,Yes,28,7277,7276,Selliguea_yakushimensis,Drynaria_willdenowii
-123,72.1,stem Woodwardia,Woodwardia sp. indet.,stem,Woodwardia,Yes,12,9153,9152,Woodwardia_unigemmata,Anchistea_virginica
+59,33.9,stem Cyclosorus,Cyclosorus scutum,stem,Cyclosorus,Monotypic,1,NA,9116,Ampelopteris_prolifera,Cyclosorus_interruptus
+100,163.5,stem Schizaeaceae,Klukia exilis,stem,Schizaeaceae,Yes,23,10988,10909,Anemia_herzogii,Actinostachys_digitata
+80,168.3,stem Lygodium,Stachypteris spicans,stem,Lygodium,Yes,18,11010,10908,Anemia_herzogii,Lygodium_articulatum
+31,174.1,crown Marattiaceae,Marattia aganzhenensis,crown,Marattiaceae,Yes,84,11399,5810,Angiopteris_cartilagidens,Danaea_erecta
+37,47.8,stem Asplenium,Asplenium sanshuiense,stem,Asplenium,Yes,316,9732,9731,Asplenium_obovatum,Hymenasplenium_praestans
+119,129.4,stem Athyrium,Athyrium cretaceum,stem,Athyrium,Yes,87,9394,9393,Athyrium_otophorum,Pseudathyrium_alpestre
+38,83.6,stem Azolla,Glomerisporites pupus,stem,Azolla,Yes,6,10898,10897,Azolla_microphylla,Salvinia_cucullata
+64,346.7,stem Equisetales,Protocalamostachys farringtonii,stem,Equisetales,Yes,20,11574,11482,Botrychium_gallicomontanum,Equisetum_bogotense
+36,23.03,stem Acrostichum,Acrostichum palaeoaureum,stem,Acrostichum,Yes,3,5821,5820,Ceratopteris_pteridoides,Acrostichum_danaeifolium
+129,72.1,crown Thelypteridaceae,Thelypteris goldianum,crown,Thelypteridaceae,Yes,257,8949,8948,Christella_procera,Macrothelypteris_polypodioides
+9,33.9,crown Cibotiaceae,Cibotium oregonense,crown,Cibotiaceae,Yes,10,10828,10827,Cibotium_menziesii,Cibotium_arachnoideum
+39,86.3,stem Cibotiaceae,Cibotium iwatense,stem,Cibotiaceae,Yes,10,10828,10827,Cibotium_menziesii,Metaxya_parkeri
+72,113,stem Hymenophyllum,Hymenophyllum iwatsukii,stem,Hymenophyllum,Yes,137,11246,11090,Crepidomanes_inopinatum,Hymenophyllum_scabrum
+10,13.82,crown Culcitaceae,Culcita emberi,crown,Culcitaceae,Yes,2,10845,10844,Culcita_macrocarpa,Culcita_coniifolia
+42,93.9,stem Cyathea,Kuylisporites mirabilis,stem,Cyathea,Yes,153,10556,10429,Cyathea_notabilis,Alsophila_stelligera
+46,129.4,stem Cyatheaceae,Cibotiocaulis tateiwai,stem,Cyatheaceae,Yes,370,10427,10426,Cyathea_notabilis,Calochlaena_straminea
+20,7.246,crown Cyathea,Cyatheaceae sp. indet.,crown,Cyathea,Yes,153,10556,10429,Cyathea_notabilis,Cyathea_robertsiana
+21,168.3,crown Cyatheaceae+Dicksoniaceae+Cibotiaceae+Metaxyaceae,Dicksonia mariopteris,crown,Cyatheaceae+Dicksoniaceae+Cibotiaceae+Metaxyaceae,Yes,418,10425,10424,Cyathea_notabilis,Metaxya_parkeri
+56,174.1,stem Cyatheales,Coniopteris lobata,stem,Cyatheales,Yes,433,10424,10423,Cyathea_notabilis,Salvinia_cucullata
+74,113,stem Lophosoria,Lophosoria cupulatus,stem,Lophosoria,Yes,2,10826,10801,Dicksonia_archboldii,Lophosoria_quesadae
+68,272.95,stem Gleicheniaceae,Szea sinensis,stem,Gleicheniaceae,Yes,52,11039,11027,Dicranopteris_baliensis,Phanerosorus_major
+90,242,stem Matoniaceae,Tomaniopteris katonii,stem,Matoniaceae,Yes,4,11036,11028,Dipteris_chinensis,Phanerosorus_major
+117,100.5,crown Pteridaceae,Heinrichsia cheilanthoides,crown,Pteridaceae,Yes,909,5818,5817,Doryopteris_pentagona,Acrostichum_danaeifolium
+4,7.246,crown Drynaria,Aglaomorpha heraclea,crown,Drynaria,Yes,28,7333,7332,Drynaria_hieronymi,Drynaria_volkensii
+11,33.9,stem Dryopteris,Dryopteris guyottii,stem,Dryopteris,Yes,237,7980,7933,Dryopteris_cycadina,Arachniodes_mutica
+63,20.44,stem Elaphoglossum,Elaphoglossum miocenicum,stem,Elaphoglossum,Yes,210,8585,8584,Elaphoglossum_paleaceum,Mickelia_scandens
+27,56,crown Equisetum subgen. Equisetum,Equisetum cf. oppositum,crown,Equisetum subgen. Equisetum,Yes,9,11576,11575,Equisetum_dycei,Equisetum_pratense
+136,174.1,stem Equisetum subgen. Paramochaete,Equisetum laterale,stem,Equisetum subgen. Paramochaete,Monotypic,1,NA,11574,Equisetum_ferrissii,Equisetum_bogotense
+28,41.2,crown Equisetum subgen. Hippochaete,Equisetum clarnoi,crown,Equisetum subgen. Hippochaete,Yes,10,11584,11575,Equisetum_ferrissii,Equisetum_scirpoides
+67,100.5,stem Gleichenia,Gleichenia chaloneri,stem,Gleichenia,Yes,8,11083,11082,Gleichenia_abscida,Stromatopteris_moniliformis
+148,47.8,crown Hymenophyllum,Hymenophyllum axsmithii,crown,Hymenophyllum,Yes,137,11246,11090,Hymenophyllum_acanthoides,Hymenophyllum_scabrum
+70,15.97,stem Goniophlebium,Goniophlebium macrosorum,stem,Goniophlebium,Yes,16,7580,7424,Lepisorus_suboligolepidus,Goniophlebium_fieldingianum
+147,7.25,crown Lepisorus,Neolepisorus chingii,crown,Lepisorus,No,88,7449,7448,Lepisorus_suboligolepidus,Lepisorus_longifolius
+73,93.9,stem Lindsaeaceae,Lindsaeaceae gen. et. sp. indet.,stem,Lindsaeaceae,Yes,168,10246,10245,Lindsaea_hemiptera,Lonchitis_occidentalis
+30,59.2,crown Lygodiaceae,Lygodium sanshuiense,crown,Lygodiaceae,Yes,18,11010,10908,Lygodium_kerstenii,Lygodium_articulatum
+87,145,stem Marsileaceae,Regnellites nagashimae,stem,Marsileaceae,Yes,41,10857,10856,Marsilea_angustifolia,Salvinia_cucullata
+116,100.5,stem Matonia,Matonia jeffersonii,stem,Matonia,Yes,2,11037,11036,Matonia_pectinata,Phanerosorus_major
+92,100.5,stem Monachosorum,Krameropteris resinatus,stem,Monachosorum,Yes,6,10238,10120,Microlepia_strigosa,Monachosorum_maximowiczii
+93,56,stem Onoclea,Onoclea sensibilis,stem,Onoclea,Monotypic,1,NA,9383,Onocleopsis_hintonii,Onoclea_sensibilis
+94,93.9,stem Ophioglossum,Ophioglossum senomanicum,stem,Ophioglossum,Yes,23,11541,11540,Ophioglossum_californicum,Cheiroglossa_palmata
+86,307,stem Marattiaceae,Radstockia kidsonii,stem,Marattiaceae,Yes,84,11399,5810,Oreogrammitis_halconensis,Danaea_erecta
+131,407.6,stem Euphyllophytes,Eophyllophyton bellum,stem,Euphyllophytes,Yes,5797,5808,5807,Oreogrammitis_halconensis,Lycopodium_clavatum
+140,129.4,stem Dryopteridaceae,Dryopterites beishanensis,stem,Dryopteridaceae,Yes,985,7929,6730,Oreogrammitis_halconensis,Parapolystichum_currorii
+95,93.9,stem Osmunda,Osmunda granulata,stem,Osmunda,Yes,5,11386,11385,Osmunda_lancea,Plenasium_angustifolium
+98,83.6,stem Regnellidium,Regnellidium upatoensis,stem,Regnellidium,Monotypic,1,NA,10858,Pilularia_globulifera,Regnellidium_diphyllum
+79,125,stem Loxsomataceae,Loxsomopteris anasilla,stem,Loxsomataceae,Yes,2,10855,10843,Plagiogyria_japonica,Loxsomopsis_pearcei
+105,145,stem Thyrsopteridaceae,Oguracaulis banksii,stem,Thyrsopteridaceae,Monotypic,1,NA,10842,Plagiogyria_japonica,Thyrsopteris_elegans
+33,15.97,crown Pleopeltis,Pleopeltis dominicensis,crown,Pleopeltis,No,54,7253,7215,Pleopeltis_burchellii,Pleopeltis_rosei
+97,27.82,stem Polypodium s.l.,Polypodium radonii,stem,Polypodium s.l.,No,26,7307,7214,Pleopeltis_burchellii,Pleurosoriopsis_makinoi
+114,23.03,stem Polystichum,Polystichum pacltovae,stem,Polystichum,Yes,201,8242,8216,Polystichum_pycnopterum,Phanerophlebia_juglandifolia
+35,66,stem Acrostichum+Ceratopteris,Acrostichum intertrappeum,stem,Acrostichum+Ceratopteris,Yes,10,5820,5819,Pteris_kiuschiuensis,Acrostichum_danaeifolium
+113,86.3,crown Schizaeaceae,Paralygodium meckertii,crown,Schizaeaceae,Yes,23,10988,10909,Schizaea_dichotoma,Actinostachys_digitata
+125,33.9,stem Drynaria,Protodrynaria takhtajanii,stem,Drynaria,Yes,28,7333,7332,Selliguea_chenopus,Drynaria_volkensii
+123,72.1,stem Woodwardia,Woodwardia sp. indet.,stem,Woodwardia,Yes,12,9212,9211,Woodwardia_unigemmata,Anchistea_virginica
