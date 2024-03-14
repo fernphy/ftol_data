@@ -1,4 +1,4 @@
-This ftol_data_README.txt file was generated on 2023-12-20 by Joel Nitta
+This ftol_data_README.txt file was generated on 2024-03-14 by Joel Nitta
 
 --------------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ or distribution.
 
 Recommended citation for this dataset:
 
-FTOL Working Group (2023). Fern Tree of Life (FTOL) data.
+FTOL Working Group (2024). Fern Tree of Life (FTOL) data.
 https://doi.org/10.5281/zenodo.6413218
 
 --------------------------------------------------------------------------------
@@ -144,7 +144,7 @@ ftol_acc_table_long.csv: GenBank accessions used in the FTOL, long format.
 
 Number of variables: 8
 
-Number of cases/rows: 15232
+Number of cases/rows: 15251
 
 Variable list:
 
@@ -161,7 +161,7 @@ Missing data codes: No missing data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 8a07e92271ac4469d9db6468c4fbe360
+MD5 checksum: 5a7637c7477b2d9de4af1392bd6d8d63
 
 --------------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 32b145f3f5f0d51722bbc0eacff18973
+MD5 checksum: b1b0cb5bfbc543c7c1e05c1142d821ca
 
 --------------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ ftol_match_results.csv: Results of taxonomic name matching and resolution.
 
 Number of variables: 7
 
-Number of cases/rows: 6696
+Number of cases/rows: 6700
 
 Variable list:
 
@@ -216,16 +216,16 @@ Variable list:
 ftol_plastome_alignment.fasta.gz: Aligned plastome DNA sequences used to build
 FTOL. In compressed (tar.gz) FASTA format. Includes 79 concatenated loci. The
 start and end position (column) of each locus is given in
-ftol_plastome_parts.csv. DNA sequences obtained from GenBank release 258
+ftol_plastome_parts.csv. DNA sequences obtained from GenBank release 259
 (https://ftp.ncbi.nlm.nih.gov/genbank/).
 
-Number of bases (columns): 75638
+Number of bases (columns): 75622
 
-Number of rows (taxa): 610
+Number of rows (taxa): 621
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 32ea631bb2f8637f9126a5a7de24ea2a
+MD5 checksum: 3715f9b67eb168e9d9dfa6f239172132
 
 --------------------------------------------------------------------------------
 
@@ -234,11 +234,11 @@ maximum-likelihood from DNA sequences in ftol_plastome_alignment.fasta.gz.
 Extended majority-rule consensus of 1000 bootstrap trees. Rooted on algae
 (Zygnema). In newick format.
 
-Number of tips: 610
+Number of tips: 621
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 2b895224ce9b67183d4414465616b81f
+MD5 checksum: fb0425e88f9d3ca241d9c144c8b9cb5f
 
 --------------------------------------------------------------------------------
 
@@ -259,23 +259,23 @@ Missing data codes: None.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 9b0982048b02dc66f2602992da2b368d
+MD5 checksum: 685a436d674261cf8e913a2e7863d1b8
 
 --------------------------------------------------------------------------------
 
 ftol_sanger_alignment.fasta.gz: Aligned (mostly) Sanger DNA sequences used to
 build FTOL. In compressed (tar.gz) FASTA format. Includes 7 concatenated loci.
 The start and end position (column) of each locus is given in
-ftol_sanger_parts.csv. DNA sequences obtained from GenBank release 258
+ftol_sanger_parts.csv. DNA sequences obtained from GenBank release 259
 (https://ftp.ncbi.nlm.nih.gov/genbank/).
 
-Number of bases (columns): 12879
+Number of bases (columns): 12710
 
 Number of rows (taxa): 5804
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 3e6d6f220e89209c8cb6531bcab3dfbe
+MD5 checksum: 2799465f7eb53e731b1665381d54f227
 
 --------------------------------------------------------------------------------
 
@@ -290,7 +290,7 @@ Number of tips: 5803
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 05f55f076cff6dd1b98f001d12641ebe
+MD5 checksum: a18139799ff52497176b2d4e0775d457
 
 --------------------------------------------------------------------------------
 
@@ -338,7 +338,7 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: c09332fef70645b2fe7413ec3843c0d3
+MD5 checksum: b74bdef6373c7c3d4b933c2f31995106
 
 --------------------------------------------------------------------------------
 
@@ -350,7 +350,7 @@ Number of tips: 5804
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 268822ebf9c9a80eabdb8e5530e05ed0
+MD5 checksum: f01808560f46c37eff7b36334dcb0ee3
 
 --------------------------------------------------------------------------------
 
@@ -364,7 +364,7 @@ Number of tips: 5803
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 509cab7d67d9a798ee0e3d96bf6c6cd1
+MD5 checksum: 7153365f96ca26d4af608b5682dc7dac
 
 --------------------------------------------------------------------------------
 
@@ -390,7 +390,7 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: c09332fef70645b2fe7413ec3843c0d3
+MD5 checksum: b74bdef6373c7c3d4b933c2f31995106
 
 --------------------------------------------------------------------------------
 
@@ -402,7 +402,7 @@ Number of tips: 5804
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 268822ebf9c9a80eabdb8e5530e05ed0
+MD5 checksum: f01808560f46c37eff7b36334dcb0ee3
 
 --------------------------------------------------------------------------------
 
@@ -423,7 +423,7 @@ Missing data codes: None.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 79f13b997a4c742011886a7d4546fb80
+MD5 checksum: a13a1585ce86814e52c897c0690bfffa
 
 --------------------------------------------------------------------------------
 
@@ -449,11 +449,15 @@ Missing data codes: ‘NA’ for missing or inapplicable data.
 
 Specialized formats or other abbreviations used: None.
 
-MD5 checksum: 34a7ace73ca88a235a86211cfd51ce5e
+MD5 checksum: fa1779c42a005aa945840a487aa09439
 
 --------------------------------------------------------------------------------
 
 CHANGE LOG
+
+2024-03-14
+
+-   Update to GenBank release 259
 
 2023-12-20
 
