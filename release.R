@@ -5,9 +5,9 @@
 library(gert)
 
 # Specify version and release notes
-new_ver <- "v1.5.1"
+new_ver <- "v1.6.0"
 notes <- paste(
-  "Built with DNA sequences in [GenBank](https://ftp.ncbi.nlm.nih.gov/genbank/) release 258 (cutoff date 2023-10-15)"
+  "Built with DNA sequences in [GenBank](https://ftp.ncbi.nlm.nih.gov/genbank/) release 259 (cutoff date 2023-12-17)"
 )
 
 # Format CFF
