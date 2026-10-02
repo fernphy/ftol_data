@@ -11,14 +11,18 @@
 library(gert)
 library(targets)
 
-ftol_repo <- "../ftol" # sibling checkout of the main pipeline repo
+# main pipeline repo: a sibling checkout (dev container layout) or the parent
+# dir that ftol_data is nested in (bare host layout)
+ftol_repo <- if (dir.exists("../ftol/_targets")) "../ftol" else ".."
 
 gb_release <- targets::tar_read(
   gb_release, store = file.path(ftol_repo, "_targets")
 )
-date_cutoff <- as.character(
-  targets::tar_read(date_cutoff, store = file.path(ftol_repo, "_targets"))
-)
+date_cutoff <- targets::tar_read(
+  date_cutoff, store = file.path(ftol_repo, "_targets")
+) |>
+  as.character() |>
+  gsub(pattern = "/", replacement = "-", fixed = TRUE) # match past notes
 
 last_tag <- system("git tag --sort=-v:refname", intern = TRUE)[1]
 last_notes <- system(
