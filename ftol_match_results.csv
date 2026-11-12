@@ -8,7 +8,7 @@ Equisetum hyemale L.,Equisetum hyemale L.,Equisetum hyemale L.,accepted,accepted
 Angiopteris lygodiifolia Rosenst.,Angiopteris lygodiifolia Rosenst.,Angiopteris lygodiifolia Rosenst.,accepted,accepted,exact,3267
 Dicksonia antarctica Labill.,Dicksonia antarctica Labill.,Dicksonia antarctica Labill.,accepted,accepted,exact,3271
 Matteuccia struthiopteris (L.) Tod.,Matteuccia struthiopteris (L.) Tod.,Matteuccia struthiopteris (L.) Tod.,accepted,accepted,exact,3277
-Polystichum munitum C.Presl,Polystichum munitum (Kaulf.) C.Presl,Polystichum munitum (Kaulf.) C.Presl,accepted,accepted,auto_basio-,3279
+Polystichum munitum (Kaulf.) C.Presl,Polystichum munitum (Kaulf.) C.Presl,Polystichum munitum (Kaulf.) C.Presl,accepted,accepted,exact,3279
 Onoclea sensibilis L.,Onoclea sensibilis L.,Onoclea sensibilis L.,accepted,accepted,exact,3281
 Osmundastrum cinnamomeum (L.) C.Presl,Osmundastrum cinnamomeum (L.) C.Presl,Osmundastrum cinnamomeum (L.) C.Presl,accepted,accepted,exact,3284
 Osmunda regalis L.,Osmunda regalis L.,Osmunda regalis L.,accepted,accepted,exact,3285
@@ -23,7 +23,7 @@ Lygodium japonicum (Thunb.) Sw.,Lygodium japonicum (Thunb.) Sw.,Lygodium japonic
 Angiopteris evecta (G.Forst.) Hoffm.,Angiopteris evecta (Forst.) Hoffm.,Angiopteris evecta (Forst.) Hoffm.,accepted,accepted,auto_basexin,13825
 Sceptridium biternatum (Savigny) Lyon,Sceptridium biternatum (Savigny) Lyon,Sceptridium biternatum (Savigny) Lyon,accepted,accepted,exact,13830
 Ophioglossum engelmannii Prantl,Ophioglossum engelmannii Prantl,Ophioglossum engelmannii Prantl,accepted,accepted,exact,13834
-Polystichum acrostichoides Schott,Polystichum acrostichoides (Michx.) Schott,Polystichum acrostichoides (Michx.) Schott,accepted,accepted,auto_basio-,28470
+Polystichum acrostichoides (Michx.) Schott,Polystichum acrostichoides (Michx.) Schott,Polystichum acrostichoides (Michx.) Schott,accepted,accepted,exact,28470
 Cibotium barometz J.Sm.,Cibotium barometz (L.) J.Sm.,Cibotium barometz (L.) J.Sm.,accepted,accepted,auto_basio-,29588
 Claytosmunda claytoniana (L.) Metzgar & Rouhan,Claytosmunda claytoniana (L.) Metzgar & Rouhan,Claytosmunda claytoniana (L.) Metzgar & Rouhan,accepted,accepted,exact,29589
 Adiantum pedatum L.,Adiantum pedatum L.,Adiantum pedatum L.,accepted,accepted,exact,29590
@@ -190,7 +190,7 @@ Botrychium watertonense W.H.Wagner,Botrychium × watertonense W.H.Wagner,Botrych
 Hymenasplenium filipes (Copel.) Sugim.,Hymenasplenium filipes (Copel.) Sugim.,Hymenasplenium filipes (Copel.) Sugim.,accepted,accepted,exact,41961
 Asplenium ruprechtii Sa.Kurata,Asplenium ruprechtii Sa.Kurata,Asplenium ruprechtii Sa.Kurata,accepted,accepted,exact,41962
 Asplenium scolopendrium L.,Asplenium scolopendrium L.,Asplenium scolopendrium L.,accepted,accepted,exact,41964
-Arachniodes aristata Tindale,Arachniodes aristata (G.Forst.) Tindale,Arachniodes aristata (G.Forst.) Tindale,accepted,accepted,auto_basio-,41966
+Arachniodes aristata (G.Forst.) Tindale,Arachniodes aristata (G.Forst.) Tindale,Arachniodes aristata (G.Forst.) Tindale,accepted,accepted,exact,41966
 Loxsoma cunninghamii R.Br.,Loxsoma cunninghamii R.Br.,Loxsoma cunninghamii R.Br.,accepted,accepted,exact,41971
 Pleurosoriopsis makinoi (Maxim. ex Makino) Fomin,Pleurosoriopsis makinoi (Maxim. ex Makino) Fomin,Pleurosoriopsis makinoi (Maxim. ex Makino) Fomin,accepted,accepted,exact,41974
 Polystichum tripteron (Kunze) C.Presl,Polystichum tripteron (Kunze) C.Presl,Polystichum tripteron (Kunze) C.Presl,accepted,accepted,exact,41975
@@ -231,12 +231,14 @@ Marsilea vestita Hook. & Grev.,Marsilea vestita Hook. & Grev.,Marsilea vestita H
 Matonia foxworthyi Copel.,Matonia foxworthyi Copel.,Matonia foxworthyi Copel.,accepted,accepted,exact,63664
 Phanerosorus major Diels,Phanerosorus major Diels,Phanerosorus major Diels,accepted,accepted,exact,63666
 Phanerosorus sarmentosus (Baker) Copel.,Phanerosorus sarmentosus (Baker) Copel.,Phanerosorus sarmentosus (Baker) Copel.,accepted,accepted,exact,63667
+Anisocampium sheareri (Baker) Ching,Anisocampium sheareri (Baker) Ching,Anisocampium sheareri (Baker) Ching,accepted,accepted,exact,65703
 Athyrium yokoscense (Franch. & Sav.) Christ,Athyrium yokoscense (Franch. & Sav.) Christ,Athyrium yokoscense (Franch. & Sav.) Christ,accepted,accepted,exact,65704
 Ctenitis sinii (Ching) Ohwi,Ctenitis sinii (Ching) Ohwi,Ctenitis sinii (Ching) Ohwi,accepted,accepted,exact,65705
 Rhachidosorus mesosorus (Makino) Ching,Rhachidosorus mesosorus (Makino) Ching,Rhachidosorus mesosorus (Makino) Ching,accepted,accepted,exact,65707
 Deparia tomitaroana (Masam.) R.Sano,Deparia tomitaroana (Masam.) R.Sano,Deparia tomitaroana (Masam.) R.Sano,accepted,accepted,exact,65711
 Diplazium wichurae (Mett.) Diels,Diplazium wichurae (Mett.) Diels,Diplazium wichurae (Mett.) Diels,accepted,accepted,exact,65712
 "Anisocampium niponicum (Mett.) Y.C.Liu, W.L.Chiou & M.Kato","Anisocampium niponicum (Mett.) Yea C.Liu, W.L.Chiou & M.Kato","Anisocampium niponicum (Mett.) Yea C.Liu, W.L.Chiou & M.Kato",accepted,accepted,manual,65715
+Cornopteris crenulatoserrulata (Makino) Nakai,Cornopteris crenulatoserrulata (Makino) Nakai,Cornopteris crenulatoserrulata (Makino) Nakai,accepted,accepted,exact,65719
 Deparia bonincola (Nakai) M.Kato,Deparia bonincola (Nakai) M.Kato,Deparia bonincola (Nakai) M.Kato,accepted,accepted,exact,65721
 Deparia fenzliana (Luerss.) M.Kato,Deparia fenzliana (Luers.) M.Kato,Deparia fenzliana (Luers.) M.Kato,accepted,accepted,auto_basexin,65722
 Deparia conilii (Franch. & Sav.) M.Kato,Deparia conilii (Franch. & Sav.) M.Kato,Deparia conilii (Franch. & Sav.) M.Kato,accepted,accepted,exact,65723
@@ -425,7 +427,6 @@ Actinostachys laevigata (Mett.) C.F.Reed,Actinostachys laevigata (Mett.) C.F.Ree
 Schizaea pectinata (L.) Sw.,Schizaea pectinata (L.) Sw.,Schizaea pectinata (L.) Sw.,accepted,accepted,exact,148576
 Actinostachys pennula (Sw.) Hook.,Actinostachys pennula Hook.,Actinostachys pennula Hook.,accepted,accepted,auto_basio+,148577
 Schizaea poeppigiana J.W.Sturm,Schizaea poeppigiana J.W.Sturm,Schizaea poeppigiana J.W.Sturm,accepted,accepted,exact,148578
-Schizaea pusilla Pursh,Schizaea pusilla Pursh,Schizaea pusilla Pursh,accepted,accepted,exact,148579
 Schizaea stricta Lellinger,Schizaea stricta Lellinger,Schizaea stricta Lellinger,accepted,accepted,exact,148580
 Actinostachys subtrijuga (Mart.) C.Presl,Actinostachys subtrijuga (Mart.) C.Presl,Actinostachys subtrijuga (Mart.) C.Presl,accepted,accepted,exact,148581
 Pyrrosia longifolia (Burm.f.) C.V.Morton,Pyrrosia longifolia (Burm.f.) Morton,Pyrrosia longifolia (Burm.f.) Morton,accepted,accepted,manual,156492
@@ -520,6 +521,7 @@ Syngramma quinata (Hook.) Carruth.,Syngramma quinata (Hook.) Carruth.,Syngramma 
 Amauropelta oligocarpa (Humb. & Bonpl. ex Willd.) Pic.Serm.,Amauropelta oligocarpa (Humb. & Bonpl. ex Willd.) Pic.Serm.,Amauropelta oligocarpa (Humb. & Bonpl. ex Willd.) Pic.Serm.,accepted,accepted,exact,173866
 Chingia longissima (Brack.) Holttum,Chingia longissima (Brack.) Holttum,Chingia longissima (Brack.) Holttum,accepted,accepted,exact,173868
 Pelazoneuron augescens (Link) A.R.Sm. & S.E.Fawc.,Pelazoneuron augescens (Link) A.R.Sm. & S.E.Fawc.,Pelazoneuron augescens (Link) A.R.Sm. & S.E.Fawc.,accepted,accepted,exact,173870
+Christella hispidula (Decne.) Holttum,Christella hispidula (Decne.) Holttum,Christella hispidula (Decne.) Holttum,accepted,accepted,exact,173871
 Coryphopteris seemannii Holttum,Coryphopteris seemannii Holttum,Coryphopteris seemannii Holttum,accepted,accepted,exact,173873
 Cyclosorus interruptus (Willd.) H.Ito,Cyclosorus interruptus (Willd.) H.Itô,Cyclosorus interruptus (Willd.) H.Itô,accepted,accepted,auto_punct,173874
 Stegnogramma griffithii (T.Moore) K.Iwats.,Stegnogramma griffithii (T.Moore) K.Iwats.,Stegnogramma griffithii (T.Moore) K.Iwats.,accepted,accepted,exact,173876
@@ -529,6 +531,7 @@ Metathelypteris dayi (Bedd.) Holttum,Metathelypteris dayi (Bedd.) Holttum,Metath
 Amauropelta nevadensis (Baker) S.E.Fawc. & A.R.Sm.,Amauropelta nevadensis (Baker) S.E.Fawc. & A.R.Sm.,Amauropelta nevadensis (Baker) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,173888
 Plesioneuron archboldiae (Copel.) Holttum ,Plesioneuron archboldiae (Copel.) Holttum,Plesioneuron archboldiae (Copel.) Holttum,accepted,accepted,exact,173890
 Reholttumia ecallosa (Holttum) S.E.Fawc. & A.R.Sm.,Reholttumia ecallosa (Holttum) S.E.Fawc. & A.R.Sm.,Reholttumia ecallosa (Holttum) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,173892
+Pseudocyclosorus esquirolii (H.Christ) Ching,Pseudocyclosorus esquirolii (Christ) Ching,Pseudocyclosorus esquirolii (Christ) Ching,accepted,accepted,auto_basexin,173896
 Sphaerostephanos penniger (Hook.) Holttum,Sphaerostephanos penniger Holttum,Sphaerostephanos penniger Holttum,accepted,accepted,auto_basio+,173898
 Phegopteris connectilis (Michx.) Watt,Phegopteris connectilis (Michx.) Watt,Phegopteris connectilis (Michx.) Watt,accepted,accepted,exact,173899
 Didymochlaena truncatula (Sw.) J.Sm.,Didymochlaena truncatula (Sw.) J.Sm.,Didymochlaena truncatula (Sw.) J.Sm.,accepted,accepted,exact,173906
@@ -536,6 +539,7 @@ Stenochlaena milnei Underw.,Stenochlaena milnei Underw.,Stenochlaena milnei Unde
 Macrothelypteris torresiana (Gaudich.) Ching,Macrothelypteris torresiana (Gaudich.) Ching,Macrothelypteris torresiana (Gaudich.) Ching,accepted,accepted,exact,173909
 Phegopteris decursive-pinnata (H.C.Hall) Fee,Phegopteris decursive-pinnata Fée,Phegopteris decursive-pinnata Fée,accepted,accepted,auto_basio+,173910
 Asplenium cristatum Lam.,Asplenium cristatum Lam.,Asplenium cristatum Lam.,accepted,accepted,exact,174653
+Christella arida (D.Don) Holttum,Christella arida (D.Don) Holttum,Christella arida (D.Don) Holttum,accepted,accepted,exact,174654
 Pronephrium aoristisorum (Harr.) S.E.Fawc. & A.R.Sm.,Pronephrium aoristisorum (Harr.) S.E.Fawc. & A.R.Sm.,Pronephrium aoristisorum (Harr.) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,174656
 Oreopteris limbosperma (All.) Holub,Oreopteris limbosperma (All.) Holub,Oreopteris limbosperma (All.) Holub,accepted,accepted,exact,174658
 Adenophorus oahuensis (Copel.) L.E.Bishop,Adenophorus oahuensis (Copel.) L.E.Bishop,Adenophorus oahuensis (Copel.) L.E.Bishop,accepted,accepted,exact,175343
@@ -625,7 +629,7 @@ Salpichlaena volubilis subsp. thalassica (Grayum & R.C.Moran) G.G.Cardenas & Tuo
 Woodwardia auriculata Blume,Woodwardia auriculata Blume,Woodwardia auriculata Blume,accepted,accepted,exact,204636
 Woodwardia martinezii Maxon ex Weath.,Woodwardia martinezii Maxon ex Weath.,Woodwardia martinezii Maxon ex Weath.,accepted,accepted,exact,204637
 Woodwardia radicans (L.) Sm.,Woodwardia radicans (L.) Sm.,Woodwardia radicans (L.) Sm.,accepted,accepted,exact,204638
-Arachniodes denticulata Ching,Arachniodes denticulata (Sw.) Ching,Arachniodes denticulata (Sw.) Ching,accepted,accepted,auto_basio-,207835
+Arachniodes denticulata (Sw.) Ching,Arachniodes denticulata (Sw.) Ching,Arachniodes denticulata (Sw.) Ching,accepted,accepted,exact,207835
 Polystichum lepidocaulon (Hook.) J.Sm.,Polystichum lepidocaulon (Hook.) J.Sm.,Polystichum lepidocaulon (Hook.) J.Sm.,accepted,accepted,exact,207837
 Cyrtomium caryotideum (Wall. ex Hook. & Grev.) C.Presl,Cyrtomium caryotideum C.Presl,Cyrtomium caryotideum C.Presl,accepted,accepted,auto_basio+,207838
 Cyrtomium fortunei J.Sm.,Cyrtomium fortunei J.Sm.,Cyrtomium fortunei J.Sm.,accepted,accepted,exact,207839
@@ -650,7 +654,7 @@ Polystichum lentum (D.Don) T.Moore,Polystichum lentum (Don) T.Moore,Polystichum 
 Polystichum lonchitis (L.) Roth,Polystichum lonchitis (L.) Roth,Polystichum lonchitis (L.) Roth,accepted,accepted,exact,207865
 Polystichum luctuosum (Kunze) T.Moore,Polystichum luctuosum (Kunze) T.Moore,Polystichum luctuosum (Kunze) T.Moore,accepted,accepted,exact,207866
 Polystichum macleae (Baker) Diels,Polystichum macleae (Baker) Diels,Polystichum macleae (Baker) Diels,accepted,accepted,exact,207867
-Polystichum mohrioides (d'Urv.) C.Presl,Polystichum mohrioides (Bory) C.Presl,Polystichum mohrioides (Bory) C.Presl,accepted,accepted,auto_basexin,207868
+Polystichum mohrioides (Bory) C.Presl,Polystichum mohrioides (Bory) C.Presl,Polystichum mohrioides (Bory) C.Presl,accepted,accepted,exact,207868
 Polystichum muricatum (L.) Fee,Polystichum muricatum (L.) Fée,Polystichum muricatum (L.) Fée,accepted,accepted,auto_punct,207869
 Polystichum neolobatum Nakai,Polystichum neolobatum Nakai,Polystichum neolobatum Nakai,accepted,accepted,exact,207870
 Polystichum pungens (Kaulf.),Polystichum pungens (Kaulf.) C.Presl,Polystichum pungens (Kaulf.) C.Presl,accepted,accepted,auto_cfonly,207871
@@ -1496,7 +1500,7 @@ Cyclodium trianae A.R.Sm.,Cyclodium trianae (Mett.) A.R.Sm.,Cyclodium trianae (M
 Dryopteris heterolaena C. Chr.,Dryopteris heterolaena C.Chr.,Dryopteris heterolaena C.Chr.,accepted,accepted,auto_punct,385361
 Lastreopsis decomposita (R.Br.) Tindale,Lastreopsis decomposita (R.Br.) Tindale,Lastreopsis decomposita (R.Br.) Tindale,accepted,accepted,exact,385363
 Polystichum glaciale Christ,Polystichum glaciale Christ,Polystichum glaciale Christ,accepted,accepted,exact,385365
-Stigmatopteris longicaudata C.Chr.,Stigmatopteris longicaudata C.Chr.,Stigmatopteris longicaudata C.Chr.,accepted,accepted,exact,385368
+Stigmatopteris longicaudata (Liebm.) C.Chr.,Stigmatopteris longicaudata C.Chr.,Stigmatopteris longicaudata C.Chr.,accepted,accepted,auto_basio+,385368
 Tectaria decurrens (C.Presl) Copel.,Tectaria decurrens (C.Presl) Copel.,Tectaria decurrens (C.Presl) Copel.,accepted,accepted,exact,385369
 Olfersia cervina (L.) Kunze,Olfersia cervina Kunze,Olfersia cervina Kunze,accepted,accepted,auto_basio+,385521
 Phanerophlebia juglandifolia (Humb. & Bonpl. ex Willd.) J.Sm.,Phanerophlebia juglandifolia (Willd.) J.Sm.,Phanerophlebia juglandifolia (Willd.) J.Sm.,accepted,accepted,auto_basexin,385522
@@ -1803,7 +1807,7 @@ Parrisia parietina (Klotzsch) Shalisko & Sundue,Parrisia parietina (Klotzsch) Sh
 Hemidictyum marginatum (L.) C.Presl,Hemidictyum marginatum (L.) C.Presl,Hemidictyum marginatum (L.) C.Presl,accepted,accepted,exact,449848
 Hymenophyllum nephrophyllum Ebihara & K.Iwats.,Hymenophyllum nephrophyllum Ebihara & K.Iwats.,Hymenophyllum nephrophyllum Ebihara & K.Iwats.,accepted,accepted,exact,449851
 "Parapolystichum glabellum (A.Cunn.) Labiak, Sundue & R.C.Moran","Parapolystichum glabellum (A.Cunn.) Labiak, Sundue & R.C.Moran","Parapolystichum glabellum (A.Cunn.) Labiak, Sundue & R.C.Moran",accepted,accepted,exact,449852
-Lastreopsis hispida Tindale,Lastreopsis hispida (Sw.) Tindale,Lastreopsis hispida (Sw.) Tindale,accepted,accepted,auto_basio-,449853
+Lastreopsis hispida (Sw.) Tindale,Lastreopsis hispida (Sw.) Tindale,Lastreopsis hispida (Sw.) Tindale,accepted,accepted,exact,449853
 "Lepisorus microphyllus (C.Presl) C.F.Zhao, R.Wei & X.C.Zhang ex C.S.Chang, H.Kim & K.S.Chang",Lepisorus microphyllus (C.Presl) Ebihara & T.Fujiw.,Lepisorus microphyllus (C.Presl) Ebihara & T.Fujiw.,accepted,accepted,auto_cfonly,449854
 Lindsaea blotiana K.U.Kramer,Lindsaea blotiana K.U.Kramer,Lindsaea blotiana K.U.Kramer,accepted,accepted,exact,449855
 Lindsaea madagascariensis Baker,Lindsaea madagascariensis Baker,Lindsaea madagascariensis Baker,accepted,accepted,exact,449856
@@ -1811,8 +1815,8 @@ Lindsaea quadrangularis Raddi,Lindsaea quadrangularis Raddi,Lindsaea quadrangula
 "Mickelia guianensis (Aubl.) R.C.Moran, Labiak & Sundue","Mickelia guianensis (Aubl.) R.C.Moran, Labiak & Sundue","Mickelia guianensis (Aubl.) R.C.Moran, Labiak & Sundue",accepted,accepted,exact,449858
 Lomariopsis sorbifolia (L.) Fee,Lomariopsis sorbifolia (L.) Fée,Lomariopsis sorbifolia (L.) Fée,accepted,accepted,auto_punct,449859
 Maxonia apiifolia (Sw.) C.Chr.,Maxonia apiifolia (Sw.) C.Chr.,Maxonia apiifolia (Sw.) C.Chr.,accepted,accepted,exact,449861
-Megalastrum biseriale A.R.Sm. & R.C.Moran,Megalastrum biseriale (Baker) A.R.Sm. & R.C.Moran,Megalastrum biseriale (Baker) A.R.Sm. & R.C.Moran,accepted,accepted,auto_basio-,449862
-Megalastrum macrotheca A.R.Sm. & R.C.Moran,Megalastrum macrotheca (Fée) A.R.Sm. & R.C.Moran,Megalastrum macrotheca (Fée) A.R.Sm. & R.C.Moran,accepted,accepted,auto_basio-,449863
+Megalastrum biseriale (Baker) A.R.Sm. & R.C.Moran,Megalastrum biseriale (Baker) A.R.Sm. & R.C.Moran,Megalastrum biseriale (Baker) A.R.Sm. & R.C.Moran,accepted,accepted,exact,449862
+Megalastrum macrotheca (Fee) A.R.Sm. & R.C.Moran,Megalastrum macrotheca (Fée) A.R.Sm. & R.C.Moran,Megalastrum macrotheca (Fée) A.R.Sm. & R.C.Moran,accepted,accepted,auto_punct,449863
 Megalastrum subincisum (Willd.) A.R.Sm. & R.C.Moran,Megalastrum subincisum (Willd.) A.R.Sm. & R.C.Moran,Megalastrum subincisum (Willd.) A.R.Sm. & R.C.Moran,accepted,accepted,exact,449864
 Microlepia speluncae (L.) T.Moore,Microlepia speluncae (L.) T.Moore,Microlepia speluncae (L.) T.Moore,accepted,accepted,exact,449865
 Odontosoria aculeata J.Sm.,Odontosoria aculeata (L.) J.Sm.,Odontosoria aculeata (L.) J.Sm.,accepted,accepted,auto_basio-,449866
@@ -1833,6 +1837,7 @@ Tectaria prolifera (Hook.) R.M.Tryon & A.F.Tryon,Tectaria prolifera (Hook.) R.M.
 Tectaria trifoliata (L.) Cav.,Tectaria trifoliata (L.) Cav.,Tectaria trifoliata (L.) Cav.,accepted,accepted,exact,449887
 Goniopteris abrupta (Desv.) A.R.Sm.,Goniopteris abrupta (Desv.) A.R.Sm.,Goniopteris abrupta (Desv.) A.R.Sm.,accepted,accepted,exact,449889
 Steiropteris clypeolutata (Desv.) Pic.Serm.,Steiropteris clypeolutata (Desv.) Pic.Serm.,Steiropteris clypeolutata (Desv.) Pic.Serm.,accepted,accepted,exact,449891
+Christella dentata (Forssk.) Brownsey & Jermy,Christella dentata (Forssk.) Brownsey & Jermy,Christella dentata (Forssk.) Brownsey & Jermy,accepted,accepted,exact,449893
 Steiropteris glandulosa (Desv.) Pic.Serm.,Steiropteris glandulosa (Desv.) Pic.Serm.,Steiropteris glandulosa (Desv.) Pic.Serm.,accepted,accepted,exact,449895
 Amauropelta globulifera (Brack.) Holttum,Amauropelta globulifera (Brack.) Holttum,Amauropelta globulifera (Brack.) Holttum,accepted,accepted,exact,449896
 Amauropelta gracilis (Heward) O.Alvarez,Amauropelta gracilis (Heward) O.Alvarez,Amauropelta gracilis (Heward) O.Alvarez,accepted,accepted,exact,449897
@@ -1844,7 +1849,7 @@ Steiropteris seemannii (J.Sm.) Salino & T.E.Almeida,Steiropteris seemannii (J.Sm
 Pseudocyclosorus tylodes (Kunze) Ching,Pseudocyclosorus tylodes (Kunze) Ching,Pseudocyclosorus tylodes (Kunze) Ching,accepted,accepted,exact,449912
 Triplophyllum funestum (Kunze) Holttum,Triplophyllum funestum (Kunze) Holttum,Triplophyllum funestum (Kunze) Holttum,accepted,accepted,exact,449914
 Ctenitis decurrentipinnata (Ching) Ching,Ctenitis decurrentipinnata (Ching) Ching,Ctenitis decurrentipinnata (Ching) Ching,accepted,accepted,exact,450135
-Tectaria kusukusensis Lellinger,Tectaria kusukusensis (Hayata) Lellinger,Tectaria kusukusensis (Hayata) Lellinger,accepted,accepted,auto_basio-,450137
+Tectaria kusukusensis (Hayata) Lellinger,Tectaria kusukusensis (Hayata) Lellinger,Tectaria kusukusensis (Hayata) Lellinger,accepted,accepted,exact,450137
 Tectaria harlandii (Hook.) C.M.Kuo,Tectaria harlandii (Hook.) C.M.Kuo,Tectaria harlandii (Hook.) C.M.Kuo,accepted,accepted,exact,450139
 Lastreopsis subrecedens Ching,Lastreopsis subrecedens Ching,Lastreopsis subrecedens Ching,accepted,accepted,exact,450140
 Pteridrys lofouensis (Christ) C.Chr. & Ching,Pteridrys lofouensis (Christ) C.Chr. & Ching,Pteridrys lofouensis (Christ) C.Chr. & Ching,accepted,accepted,exact,450144
@@ -2086,6 +2091,7 @@ Crepidomanes trinerve (Baker) Dubuisson & Ebihara,Crepidomanes trinerve (Baker) 
 Crepidomanes africanum (Christ) Ebihara & Dubuisson,Crepidomanes africanum (Christ) Ebihara & Dubuisson,Crepidomanes africanum (Christ) Ebihara & Dubuisson,accepted,accepted,exact,593781
 Crepidomanes mettenii (C.Chr.) Ebihara & Dubuisson,Crepidomanes mettenii (C.Chr.) Ebihara & Dubuisson,Crepidomanes mettenii (C.Chr.) Ebihara & Dubuisson,accepted,accepted,exact,593782
 Crepidomanes pyxidiferum (L.) Dubuisson & Ebihara,Crepidomanes pyxidiferum (L.) Dubuisson & Ebihara,Crepidomanes pyxidiferum (L.) Dubuisson & Ebihara,accepted,accepted,exact,593783
+Anisocampium cumingianum C.Presl,Anisocampium cumingianum C.Presl,Anisocampium cumingianum C.Presl,accepted,accepted,exact,630507
 Hymenophyllum bivalve (Forst.) Sw.,Hymenophyllum bivalve (G.Forst.) Sw.,Hymenophyllum bivalve (G.Forst.) Sw.,accepted,accepted,auto_basexin,638557
 Hymenophyllum cupressiforme Labill.,Hymenophyllum cupressiforme Labill.,Hymenophyllum cupressiforme Labill.,accepted,accepted,exact,638558
 Hymenophyllum dentatum Cav.,Hymenophyllum dentatum Cav.,Hymenophyllum dentatum Cav.,accepted,accepted,exact,638559
@@ -2205,6 +2211,7 @@ Lepisorus uchiyamae H.Ito,Lepisorus uchiyamae (Makino) H.Ito,Lepisorus uchiyamae
 Lepisorus ussuriensis Ching,Lepisorus ussuriensis Ching,Lepisorus ussuriensis Ching,accepted,accepted,exact,699700
 Lepisorus soulieanus (Christ) Ching & S.K.Wu,Lepisorus soulieanus (Christ) Ching & S.K.Wu,Lepisorus soulieanus (Christ) Ching & S.K.Wu,accepted,accepted,exact,699703
 Lindsaea feei C.Chr.,Lindsaea feei C.Chr.,Lindsaea feei C.Chr.,accepted,accepted,exact,706567
+Christella parasitica (L.) H.Lev.,Christella parasitica (L.) H.Lév.,Christella parasitica (L.) H.Lév.,accepted,accepted,auto_punct,714463
 Davallia repens (L.f.) Kuhn,Davallia repens (L.f.) Kuhn,Davallia repens (L.f.) Kuhn,accepted,accepted,exact,714478
 Hymenophyllum feejeense Brack.,Hymenophyllum feejeense Brack.,Hymenophyllum feejeense Brack.,accepted,accepted,exact,723544
 Hymenophyllum multifidum (G.Forst.) Sw.,Hymenophyllum multifidum (G.Forst.) Sw.,Hymenophyllum multifidum (G.Forst.) Sw.,accepted,accepted,exact,723545
@@ -2450,13 +2457,13 @@ Adiantum monochlamys D.C.Eaton,Adiantum monochlamys D.C.Eaton,Adiantum monochlam
 Adiantum ogasawarense Tagawa,Adiantum ogasawarense Tagawa,Adiantum ogasawarense Tagawa,accepted,accepted,exact,872339
 Antrophyum formosanum Hieron.,Antrophyum formosanum Hieron.,Antrophyum formosanum Hieron.,accepted,accepted,exact,872340
 Antrophyum obovatum Baker,Antrophyum obovatum Baker,Antrophyum obovatum Baker,accepted,accepted,exact,872341
-Arachniodes amabilis Tindale,Arachniodes amabilis (Blume) Tindale,Arachniodes amabilis (Blume) Tindale,accepted,accepted,auto_basio-,872342
+Arachniodes amabilis (Blume) Tindale,Arachniodes amabilis (Blume) Tindale,Arachniodes amabilis (Blume) Tindale,accepted,accepted,exact,872342
 Arachniodes amabilis var. okinawensis (Nakaike) Seriz.,Arachniodes amabilis var. okinawensis (Nakaike) Seriz.,Arachniodes amabilis var. okinawensis (Nakaike) Seriz.,accepted,accepted,exact,872344
 Deparia petersenii var. yakusimensis (H.Ito) M.Kato,Deparia petersenii var. yakusimensis (H.Ito) M.Kato,Deparia petersenii var. yakusimensis (H.Ito) M.Kato,accepted,accepted,exact,872345b
 Arachniodes davalliiformis (Christ) Nakaike,Arachniodes davalliiformis (Christ) Nakaike,Arachniodes davalliiformis (Christ) Nakaike,accepted,accepted,exact,872349
 Arachniodes hekiana Sa.Kurata,Arachniodes hekiana Sa.Kurata,Arachniodes hekiana Sa.Kurata,accepted,accepted,exact,872351
 Arachniodes hiugana Sa.Kurata,Arachniodes hiugana Sa.Kurata,Arachniodes hiugana Sa.Kurata,accepted,accepted,exact,872352
-Arachniodes mutica Ohwi,Arachniodes mutica (Franch. & Savat.) Ohwi,Arachniodes mutica (Franch. & Savat.) Ohwi,accepted,accepted,auto_basio-,872354
+Arachniodes mutica (Franch. & Sav.) Ohwi,Arachniodes mutica (Franch. & Savat.) Ohwi,Arachniodes mutica (Franch. & Savat.) Ohwi,accepted,accepted,auto_basexin,872354
 Arachniodes nipponica Ohwi,Arachniodes nipponica (Rosenst.) Ohwi,Arachniodes nipponica (Rosenst.) Ohwi,accepted,accepted,auto_basio-,872355
 Arachniodes sinomiqueliana Ohwi,Arachniodes sinomiqueliana (Ching) Ohwi,Arachniodes sinomiqueliana (Ching) Ohwi,accepted,accepted,auto_basio-,872359
 Arthropteris palisotii (Desv.) Alston,Arthropteris palisotii (Desv.) Alston,Arthropteris palisotii (Desv.) Alston,accepted,accepted,exact,872362
@@ -2480,7 +2487,7 @@ Sceptridium triangularifolium Sahashi,Sceptridium triangularifolium Sahashi,Scep
 Cephalomanes javanicum var. asplenioides (C.Presl) K.Iwats.,Cephalomanes javanicum var. asplenioides (C.Presl) K.Iwats.,Cephalomanes javanicum var. asplenioides (C.Presl) K.Iwats.,accepted,accepted,exact,872470
 Coniogramme gracilis M.Ogata,Coniogramme gracilis M.Ogata,Coniogramme gracilis M.Ogata,accepted,accepted,exact,872475
 Cornopteris banajaoensis (C.Chr.) K.Iwats. & M.G.Price,Cornopteris banajaoensis (C.Chr.) K.Iwats. & M.G.Price,Cornopteris banajaoensis (C.Chr.) K.Iwats. & M.G.Price,accepted,accepted,exact,872478
-Cornopteris opaca f. glabrescens Sa.Kurata,Cornopteris opaca f. glabrescens Sa.Kurata,Cornopteris opaca f. glabrescens Sa.Kurata,accepted,accepted,exact,872480
+Cornopteris opaca (D.Don) Tagawa,Cornopteris opaca (D.Don) Tagawa,Cornopteris opaca (D.Don) Tagawa,accepted,accepted,exact,872479
 Cornopteris opaca f. glabrescens Sa.Kurata,Cornopteris opaca f. glabrescens Sa.Kurata,Cornopteris opaca f. glabrescens Sa.Kurata,accepted,accepted,exact,872480
 Crepidomanes makinoi (C.Chr.) Copel.,Crepidomanes makinoi (C.Chr.) Copel.,Crepidomanes makinoi (C.Chr.) Copel.,accepted,accepted,exact,872482
 Selliguea engleri (Luerss.) Fraser-Jenk.,Selliguea engleri (Luerss.) Fraser-Jenk.,Selliguea engleri (Luerss.) Fraser-Jenk.,accepted,accepted,exact,872483
@@ -2491,6 +2498,7 @@ Ctenitis iriomotensis Nakaike,Ctenitis iriomotensis (H.Ito) Nakaike,Ctenitis iri
 Ctenitis microlepigera (Nakai) Ching,Ctenitis microlepigera (Nakai) Ching,Ctenitis microlepigera (Nakai) Ching,accepted,accepted,exact,872489
 Ctenitis subglandulosa (Hance) Ching,Ctenitis subglandulosa (Hance) Ching,Ctenitis subglandulosa (Hance) Ching,accepted,accepted,exact,872490
 Tomophyllum sakaguchianum (Koidz.) Parris,Tomophyllum sakaguchianum (Koidz.) Parris,Tomophyllum sakaguchianum (Koidz.) Parris,accepted,accepted,exact,872492
+Gymnosphaera metteniana (Hance) Tagawa,Gymnosphaera metteniana (Hance) Tagawa,Gymnosphaera metteniana (Hance) Tagawa,accepted,accepted,exact,872495
 Cyrtomium falcatum subsp. australe S.Matsumoto ex S.Matsumoto & Ebihara,Cyrtomium falcatum subsp. australe S.Matsumoto ex S.Matsumoto & Ebihara,Cyrtomium falcatum subsp. australe S.Matsumoto ex S.Matsumoto & Ebihara,accepted,accepted,exact,872498
 Cyrtomium falcatum subsp. littorale S.Matsumoto ex S.Matsumoto & Ebihara,Cyrtomium falcatum subsp. littorale S.Matsumoto ex S.Matsumoto & Ebihara,Cyrtomium falcatum subsp. littorale S.Matsumoto ex S.Matsumoto & Ebihara,accepted,accepted,exact,872500
 Cyrtomium laetevirens (Hiyama) Nakaike,Cyrtomium laetevirens (Hiyama) Nakaike,Cyrtomium laetevirens (Hiyama) Nakaike,accepted,accepted,exact,872504
@@ -2597,6 +2605,7 @@ Coryphopteris angulariloba (Ching) L.J.He & X.C.Zhang,Coryphopteris angulariloba
 Amauropelta angustifrons (Miq.) Y.H.Chang,Amauropelta angustifrons (Miq.) Y.H.Chang,Amauropelta angustifrons (Miq.) Y.H.Chang,accepted,accepted,exact,872870
 Amauropelta glanduligera (Kunze) Y.H.Chang,Amauropelta glanduligera (Kunze) Y.H.Chang,Amauropelta glanduligera (Kunze) Y.H.Chang,accepted,accepted,exact,872879
 Metathelypteris gracilescens (Blume) Ching,Metathelypteris gracilescens (Blume) Ching,Metathelypteris gracilescens (Blume) Ching,accepted,accepted,exact,872880
+Metathelypteris laxa (Franch. & Sav.) Ching,Metathelypteris laxa (Franch. & Sav.) Ching,Metathelypteris laxa (Franch. & Sav.) Ching,accepted,accepted,exact,872887
 Coryphopteris musashiensis (Hiyama) A.R.Sm. & S.E.Fawc.,Coryphopteris musashiensis (Hiyama) S.E.Fawc. & A.R.Sm.,Coryphopteris musashiensis (Hiyama) S.E.Fawc. & A.R.Sm.,accepted,accepted,auto_cfonly,872890
 Macrothelypteris ogasawarensis (Nakai) Holttum,Macrothelypteris ogasawarensis (Nakai) Holttum,Macrothelypteris ogasawarensis (Nakai) Holttum,accepted,accepted,exact,872893
 Cyclogramma omeiensis (Baker) Tagawa,Cyclogramma omeiensis (Baker) Tagawa,Cyclogramma omeiensis (Baker) Tagawa,accepted,accepted,exact,872894
@@ -2610,6 +2619,7 @@ Vandenboschia kalamocarpa (Hayata) Ebihara,Vandenboschia kalamocarpa (Hayata) Eb
 Woodsia glabella R.Br.,Woodsia glabella R.Br.,Woodsia glabella R.Br.,accepted,accepted,exact,872910
 Woodsia ilvensis (L.) R.Br.,Woodsia ilvensis (L.) R.Br.,Woodsia ilvensis (L.) R.Br.,accepted,accepted,exact,872911
 Woodsia macrochlaena Mett. ex Kuhn,Woodsia macrochlaena Mett. ex Kuhn,Woodsia macrochlaena Mett. ex Kuhn,accepted,accepted,exact,872913
+Amauropelta cystopteroides (D.C.Eaton) S.E.Fawc. & A.R.Sm.,Amauropelta cystopteroides (D.C.Eaton) S.E.Fawc. & A.R.Sm.,Amauropelta cystopteroides (D.C.Eaton) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,873556
 Hymenophyllum mikawanum (Seriz.) Seriz.,Hymenophyllum mikawanum (Seriz.) Seriz.,Hymenophyllum mikawanum (Seriz.) Seriz.,accepted,accepted,exact,874470
 Cyathea borinquena (Maxon) Domin,Cyathea borinquena Domin,Cyathea borinquena Domin,accepted,accepted,auto_basio+,883776
 Arthropteris monocarpa (Cordem.) C.Chr.,Arthropteris monocarpa (Cordem.) C.Chr.,Arthropteris monocarpa (Cordem.) C.Chr.,accepted,accepted,exact,910268
@@ -2770,7 +2780,7 @@ Dryopteris saffordii C. Chr.,Dryopteris saffordii C.Chr.,Dryopteris saffordii C.
 Dryopteris salvinii (Baker) Kuntze,Dryopteris salvinii (Baker) Kuntze,Dryopteris salvinii (Baker) Kuntze,accepted,accepted,exact,1091265
 Dryopteris spinosa Copel.,Dryopteris spinosa Copel.,Dryopteris spinosa Copel.,accepted,accepted,exact,1091267
 Dryopteris triangularis Herter,Dryopteris triangularis Herter,Dryopteris triangularis Herter,accepted,accepted,exact,1091268
-Dryopteris rosthornii (Diels) C. Chr.,Dryopteris rosthornii (Diels) C.Chr.,Dryopteris rosthornii (Diels) C.Chr.,accepted,accepted,auto_punct,1091269
+Dryopteris xanthomelas (Christ) C. Chr.,Dryopteris xanthomelas (Christ) C.Chr.,Dryopteris xanthomelas (Christ) C.Chr.,accepted,accepted,auto_punct,1091269
 Polystichopsis muscosa (Vahl) Proctor,Polystichopsis muscosa (Vahl) Proctor,Polystichopsis muscosa (Vahl) Proctor,accepted,accepted,exact,1091271
 Polystichopsis pubescens C.V.Morton,Polystichopsis pubescens (L.) C.V.Morton,Polystichopsis pubescens (L.) C.V.Morton,accepted,accepted,auto_basio-,1091272
 Doryopteris lorentzii Diels,Doryopteris lorentzii Diels,Doryopteris lorentzii Diels,accepted,accepted,exact,1092831
@@ -2852,6 +2862,7 @@ Cyclogramma auriculata (J.Sm.) Ching,Cyclogramma auriculata (J.Sm.) Ching,Cyclog
 Glaphyropteridopsis rufostraminea (Christ) Ching,Glaphyropteridopsis rufostraminea (Christ) Ching,Glaphyropteridopsis rufostraminea (Christ) Ching,accepted,accepted,exact,1132550
 Metathelypteris flaccida (Blume) Ching,Metathelypteris flaccida (Blume) Ching,Metathelypteris flaccida (Blume) Ching,accepted,accepted,exact,1132553
 Metathelypteris glandulifera Ching ex K.H.Shing,Metathelypteris glandulifera Ching ex K.H.Shing,Metathelypteris glandulifera Ching ex K.H.Shing,accepted,accepted,exact,1132554
+Metathelypteris singalanensis (Baker) Ching,Metathelypteris singalanensis (Baker) Ching,Metathelypteris singalanensis (Baker) Ching,accepted,accepted,exact,1132555
 Grypothrix megacuspis (Baker) S.E.Fawc. & A.R.Sm.,Grypothrix megacuspis (Baker) S.E.Fawc. & A.R.Sm.,Grypothrix megacuspis (Baker) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,1132558
 Abacopteris nudata (Roxb.) S.E.Fawc. & A.R.Sm.,Abacopteris nudata (Roxb.) S.E.Fawc. & A.R.Sm.,Abacopteris nudata (Roxb.) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,1132559
 Menisciopsis penangiana (Hook.) S.E.Fawc. & A.R.Sm.,Menisciopsis penangiana (Hook.) S.E.Fawc. & A.R.Sm.,Menisciopsis penangiana (Hook.) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,1132560
@@ -2994,7 +3005,7 @@ Cystopteris tennesseensis Shaver,Cystopteris tennesseensis Shaver,Cystopteris te
 Cystopteris tenuis (Michx.) Desv.,Cystopteris tenuis (Michx.) Desv.,Cystopteris tenuis (Michx.) Desv.,accepted,accepted,exact,1328787
 Cystopteris utahensis Windham & Haufler,Cystopteris utahensis Windham & Haufler,Cystopteris utahensis Windham & Haufler,accepted,accepted,exact,1328788
 Gymnocarpium appalachianum Pryer & Haufler,Gymnocarpium appalachianum Pryer & Haufler,Gymnocarpium appalachianum Pryer & Haufler,accepted,accepted,exact,1328789
-Gymnocarpium disjunctum Ching,Gymnocarpium disjunctum (Rupr.) Ching,Gymnocarpium disjunctum (Rupr.) Ching,accepted,accepted,auto_basio-,1328790
+Gymnocarpium disjunctum (Rupr.) Ching,Gymnocarpium disjunctum (Rupr.) Ching,Gymnocarpium disjunctum (Rupr.) Ching,accepted,accepted,exact,1328790
 Austroblechnum melanocaulon (Brack.) Gasper & V.A.O.Dittrich,Austroblechnum melanocaulon (Brack.) Gasper & V.A.O.Dittrich,Austroblechnum melanocaulon (Brack.) Gasper & V.A.O.Dittrich,accepted,accepted,exact,1329983
 Parablechnum vestitum (Blume) Gasper & Salino,Parablechnum vestitum (Blume) Gasper & Salino,Parablechnum vestitum (Blume) Gasper & Salino,accepted,accepted,exact,1329985
 Cibotium arachnoideum (C.Chr.) Holttum,Cibotium arachnoideum (C.Chr.) Holttum,Cibotium arachnoideum (C.Chr.) Holttum,accepted,accepted,exact,1342341
@@ -3088,11 +3099,12 @@ Tectaria vasta (Blume) Copel.,Tectaria vasta (Blume) Copel.,Tectaria vasta (Blum
 Triplophyllum dicksonioides Holttum,Triplophyllum dicksonioides (Fée) Holttum,Triplophyllum dicksonioides (Fée) Holttum,accepted,accepted,auto_basio-,1434249
 Triplophyllum fraternum (Mett.) Holttum,Triplophyllum fraternum (Mett.) Holttum,Triplophyllum fraternum (Mett.) Holttum,accepted,accepted,exact,1434250
 Triplophyllum hirsutum (Holttum) J.Prado & R.C.Moran,Triplophyllum hirsutum (Holttum) J.Prado & R.C.Moran,Triplophyllum hirsutum (Holttum) J.Prado & R.C.Moran,accepted,accepted,exact,1434251
-Triplophyllum jenseniae Holttum,Triplophyllum jenseniae (C.Chr.) Holttum,Triplophyllum jenseniae (C.Chr.) Holttum,accepted,accepted,auto_basio-,1434252
+Triplophyllum jenseniae (C.Chr.) Holttum,Triplophyllum jenseniae (C.Chr.) Holttum,Triplophyllum jenseniae (C.Chr.) Holttum,accepted,accepted,exact,1434252
 Triplophyllum vogelii (Hook.) Holttum,Triplophyllum vogelii (Hook.) Holttum,Triplophyllum vogelii (Hook.) Holttum,accepted,accepted,exact,1434253
 Triplophyllum pentagonum (Bonap.) Holttum,Triplophyllum pentagonum (Pic.Serm.) Holttum,Triplophyllum pentagonum (Pic.Serm.) Holttum,accepted,accepted,auto_basexin,1434254
 "Hypoderris nicotianifolia (Baker) R.C.Moran, Labiak & J.Prado","Hypoderris nicotianifolia (Baker) R.C.Moran, Labiak & J.Prado","Hypoderris nicotianifolia (Baker) R.C.Moran, Labiak & J.Prado",accepted,accepted,exact,1434332
 Hypoderris brauniana (H.Karst.) F.G.Wang & Christenh.,Hypoderris brauniana (H.Karst.) F.G.Wang & Christenh.,Hypoderris brauniana (H.Karst.) F.G.Wang & Christenh.,accepted,accepted,exact,1434333
+Ctenitis fibrillosa (Baker) Li Bing Zhang & Yi F.Duan,Ctenitis fibrillosa (Baker) Li Bing Zhang & Yi F.Duan,Ctenitis fibrillosa (Baker) Li Bing Zhang & Yi F.Duan,accepted,accepted,exact,1435272
 Pteridrys cnemidaria (Christ) C.Chr. & Ching,Pteridrys cnemidaria (Christ) C.Chr. & Ching,Pteridrys cnemidaria (Christ) C.Chr. & Ching,accepted,accepted,exact,1435273
 Tectaria fernandensis (Baker) C.Chr.,Tectaria fernandensis (Baker) C.Chr.,Tectaria fernandensis (Baker) C.Chr.,accepted,accepted,exact,1435275
 Tectaria heracleifolia Underw.,Tectaria heracleifolia (Willd.) Underw.,Tectaria heracleifolia (Willd.) Underw.,accepted,accepted,auto_basio-,1435278
@@ -3200,7 +3212,7 @@ Microgramma thurnii (Baker) R.M.Tryon & Stolze,Microgramma thurnii (Baker) R.M.T
 Pecluma hygrometrica (Splitg.) M.G.Price,Pecluma hygrometrica (Splitg.) M.G.Price,Pecluma hygrometrica (Splitg.) M.G.Price,accepted,accepted,exact,1481350
 Polybotrya crassirhizoma Lellinger,Polybotrya crassirhizoma Lellinger,Polybotrya crassirhizoma Lellinger,accepted,accepted,exact,1481351
 Polybotrya glandulosa Mett.,Polybotrya glandulosa Mett.,Polybotrya glandulosa Mett.,accepted,accepted,exact,1481352
-Polybotrya polybotryoides (Baker) Christ,Polybotrya polybotryoides (Baker) Christ.,Polybotrya polybotryoides (Baker) Christ.,accepted,accepted,auto_punct,1481353
+Polybotrya polybotryoides (Baker) Christ,Polybotrya polybotryoides (Baker) Christ,Polybotrya polybotryoides (Baker) Christ,accepted,accepted,exact,1481353
 Polybotrya pubens Mart.,Polybotrya pubens Mart. ex Kunze,Polybotrya pubens Mart. ex Kunze,accepted,accepted,auto_exin-,1481354
 Polybotrya sessilisora R.C.Moran,Polybotrya sessilisora R.C.Moran,Polybotrya sessilisora R.C.Moran,accepted,accepted,exact,1481355
 Polytaenium guayanense (Hieron.) Alston,Polytaenium guayanense (Hieron.) Alston,Polytaenium guayanense (Hieron.) Alston,accepted,accepted,exact,1481356
@@ -3212,6 +3224,7 @@ Tectaria pilosa (Fee) R.C.Moran,Tectaria pilosa (Fée) R.C.Moran,Tectaria pilosa
 Tectaria rivalis (Mett.) Maxon,Tectaria rivalis (Mett.) Maxon,Tectaria rivalis (Mett.) Maxon,accepted,accepted,exact,1481365
 Meniscium arborescens Willd.,Meniscium arborescens Willd.,Meniscium arborescens Willd.,accepted,accepted,exact,1481367
 Meniscium falcatum Liebm.,Meniscium falcatum Liebm.,Meniscium falcatum Liebm.,accepted,accepted,exact,1481368
+Meniscium macrophyllum Kunze,Meniscium macrophyllum Kunze,Meniscium macrophyllum Kunze,accepted,accepted,exact,1481369
 Goniopteris nicaraguensis (E.Fourn.) Salino & T.E.Almeida,Goniopteris nicaraguensis (E.Fourn.) Salino & T.E.Almeida,Goniopteris nicaraguensis (E.Fourn.) Salino & T.E.Almeida,accepted,accepted,exact,1481370
 Trichomanes anadromum Rosenst.,Trichomanes anadromum Rosenst.,Trichomanes anadromum Rosenst.,accepted,accepted,exact,1481371
 Trichomanes bicorne Hook.,Trichomanes bicorne Hook.,Trichomanes bicorne Hook.,accepted,accepted,exact,1481372
@@ -3323,6 +3336,7 @@ Polybotrya fractiserialis J.Sm.,Polybotrya fractiserialis (Baker) J.Sm.,Polybotr
 Adiantum hirsutum Bory,Adiantum hirsutum Bory,Adiantum hirsutum Bory,accepted,accepted,exact,1521192
 Adiantum poiretii Wikstr.,Adiantum poiretii Wikstr.,Adiantum poiretii Wikstr.,accepted,accepted,exact,1521193
 Adiantum rhizophorum Sw.,Adiantum rhizophorum Sw.,Adiantum rhizophorum Sw.,accepted,accepted,exact,1521194
+Amauropelta bergiana (Schltdl.) Holttum,Amauropelta bergiana (Schltdl.) Holttum,Amauropelta bergiana (Schltdl.) Holttum,accepted,accepted,exact,1521195
 Amauropelta salazica (Holttum) Holttum,Amauropelta salazica (Holttum) Holttum,Amauropelta salazica (Holttum) Holttum,accepted,accepted,exact,1521198
 Amauropelta strigosa (Willd.) Holttum,Amauropelta strigosa (Willd.) Holttum,Amauropelta strigosa (Willd.) Holttum,accepted,accepted,exact,1521199
 Amauropelta tomentosa (Thouars) Holttum,Amauropelta tomentosa (Thouars) Holttum,Amauropelta tomentosa (Thouars) Holttum,accepted,accepted,exact,1521200
@@ -3341,7 +3355,7 @@ Blotiella glabra (Bory) R.M.Tryon,Blotiella glabra (Bory) R.M.Tryon,Blotiella gl
 Ceradenia argyrata (Willd.) Parris,Ceradenia argyrata (Willd.) Parris,Ceradenia argyrata (Willd.) Parris,accepted,accepted,exact,1521215
 Ceradenia leucosora (Bojer ex Hook.) Parris,Ceradenia leucosora (Bojer ex Hook.) Parris,Ceradenia leucosora (Bojer ex Hook.) Parris,accepted,accepted,exact,1521216
 Ctenitis borbonica (Baker) Tardieu,Ctenitis borbonica (Baker) Tardieu,Ctenitis borbonica (Baker) Tardieu,accepted,accepted,exact,1521218
-Ctenitis cirrhosa Ching,Ctenitis cirrhosa (Schum.) Ching,Ctenitis cirrhosa (Schum.) Ching,accepted,accepted,auto_basio-,1521219
+Ctenitis cirrhosa (Schumach.) Ching,Ctenitis cirrhosa (Schum.) Ching,Ctenitis cirrhosa (Schum.) Ching,accepted,accepted,auto_basexin,1521219
 Ctenitis crinita (Poir.) Ching,Ctenitis crinita (Poir.) Ching,Ctenitis crinita (Poir.) Ching,accepted,accepted,exact,1521220
 Ctenitis cyclochlamys (Fee) Holttum,Ctenitis cyclochlamys (Fée) Holttum,Ctenitis cyclochlamys (Fée) Holttum,accepted,accepted,auto_punct,1521221
 Ctenitis desvauxii Tardieu,Ctenitis desvauxii Tardieu,Ctenitis desvauxii Tardieu,accepted,accepted,exact,1521222
@@ -3354,7 +3368,7 @@ Enterosora barbatula (Baker) Parris,Enterosora barbatula (Baker) Parris,Enteroso
 Grammitis cryptophlebia (Baker) Copel.,Grammitis cryptophlebia (Baker) Copel.,Grammitis cryptophlebia (Baker) Copel.,accepted,accepted,exact,1521230
 "Nanogrammitis obtusa (Willd. ex Kaulf.) Parris, Li Bing Zhang, X.M.Zhou & Liang Zhang","Nanogrammitis obtusa (Willd. ex Kaulf.) Parris, Li Bing Zhang, X.M.Zhou & Liang Zhang","Nanogrammitis obtusa (Willd. ex Kaulf.) Parris, Li Bing Zhang, X.M.Zhou & Liang Zhang",accepted,accepted,exact,1521231
 Loxogramme lanceolata (Sw.) C.Presl,Loxogramme lanceolata (Sw.) C.Presl,Loxogramme lanceolata (Sw.) C.Presl,accepted,accepted,exact,1521235
-Megalastrum lanuginosum Holttum,Megalastrum lanuginosum (Kaulf.) Holttum,Megalastrum lanuginosum (Kaulf.) Holttum,accepted,accepted,auto_basio-,1521237
+Megalastrum lanuginosum (Willd. ex Kaulf.) Holttum,Megalastrum lanuginosum (Kaulf.) Holttum,Megalastrum lanuginosum (Kaulf.) Holttum,accepted,accepted,auto_basexin,1521237
 Oleandra distenta Kunze,Oleandra distenta Kunze,Oleandra distenta Kunze,accepted,accepted,exact,1521239
 Pteris dentata Forssk.,Pteris dentata Forssk.,Pteris dentata Forssk.,accepted,accepted,exact,1521240
 Sphaerostephanos elatus Holttum,Sphaerostephanos elatus (Bojer) Holttum,Sphaerostephanos elatus (Bojer) Holttum,accepted,accepted,auto_basio-,1521242
@@ -3372,15 +3386,15 @@ Sticherus flagellaris (Bory ex Willd.) Ching,Sticherus flagellaris (Bory ex Will
 Cyclodium heterodon T.Moore,Cyclodium heterodon (Schrad.) T.Moore,Cyclodium heterodon (Schrad.) T.Moore,accepted,accepted,auto_basio-,1521652
 Cyclodium rheophilum A.R.Sm.,Cyclodium rheophilum A.R.Sm.,Cyclodium rheophilum A.R.Sm.,accepted,accepted,exact,1521654
 "Parapolystichum acutum (Kuntze) Labiak, Sundue & R.C.Moran","Parapolystichum acutum (Kuntze) Labiak, Sundue & R.C.Moran","Parapolystichum acutum (Kuntze) Labiak, Sundue & R.C.Moran",accepted,accepted,exact,1521655
-Lastreopsis amplissima Tindale,Lastreopsis amplissima (C.Presl) Tindale,Lastreopsis amplissima (C.Presl) Tindale,accepted,accepted,auto_basio-,1521656
+Lastreopsis amplissima (C.Presl) Tindale,Lastreopsis amplissima (C.Presl) Tindale,Lastreopsis amplissima (C.Presl) Tindale,accepted,accepted,exact,1521656
 Parapolystichum barterianum (Hook.) Rouhan,Parapolystichum barterianum (Hook.) Rouhan,Parapolystichum barterianum (Hook.) Rouhan,accepted,accepted,exact,1521657
 Parapolystichum boivinii (Baker) Rouhan,Parapolystichum boivinii (Baker) Rouhan,Parapolystichum boivinii (Baker) Rouhan,accepted,accepted,exact,1521658
-Parapolystichum currorii Rouhan,Parapolystichum currorii (Mett. ex Kuhn) Rouhan,Parapolystichum currorii (Mett. ex Kuhn) Rouhan,accepted,accepted,auto_basio-,1521659
+Parapolystichum currorii (Mett.) Rouhan,Parapolystichum currorii (Mett. ex Kuhn) Rouhan,Parapolystichum currorii (Mett. ex Kuhn) Rouhan,accepted,accepted,auto_basexin,1521659
 Parapolystichum effusum var. divergens (Willd. ex Schkuhr) Abbiatti,Parapolystichum effusum var. divergens (Willd. ex Schkuhr) Abbiatti,Parapolystichum effusum var. divergens (Willd. ex Schkuhr) Abbiatti,accepted,accepted,exact,1521661
 Lastreopsis marginans D.A.Sm. & Tindale ex Tindale,Lastreopsis marginans (F.Muell.) D.A.Sm. & Tindale ex Tindale,Lastreopsis marginans (F.Muell.) D.A.Sm. & Tindale ex Tindale,accepted,accepted,auto_basio-,1521664
 "Parapolystichum microsorum (Endl.) Labiak, Sundue & R.C.Moran","Parapolystichum microsorum (Endl.) Labiak, Sundue & R.C.Moran","Parapolystichum microsorum (Endl.) Labiak, Sundue & R.C.Moran",accepted,accepted,exact,1521665
 "Parapolystichum munitum (Mett.) Labiak, Sundue & R.C.Moran","Parapolystichum munitum (Mett.) Labiak, Sundue & R.C.Moran","Parapolystichum munitum (Mett.) Labiak, Sundue & R.C.Moran",accepted,accepted,exact,1521666
-Parapolystichum nigritianum Rouhan,Parapolystichum nigritianum (Baker) Rouhan,Parapolystichum nigritianum (Baker) Rouhan,accepted,accepted,auto_basio-,1521667
+Parapolystichum nigritianum (Baker) Rouhan,Parapolystichum nigritianum (Baker) Rouhan,Parapolystichum nigritianum (Baker) Rouhan,accepted,accepted,exact,1521667
 Parapolystichum perrierianum Rouhan,Parapolystichum perrierianum (C.Chr.) Rouhan,Parapolystichum perrierianum (C.Chr.) Rouhan,accepted,accepted,auto_basio-,1521668
 Parapolystichum pseudoperrierianum (Tardieu) Rouhan,Parapolystichum pseudoperrierianum (Tardieu) Rouhan,Parapolystichum pseudoperrierianum (Tardieu) Rouhan,accepted,accepted,exact,1521669
 "Parapolystichum rufescens (Blume) Labiak, Sundue & R.C.Moran","Parapolystichum rufescens (Blume) Labiak, Sundue & R.C.Moran","Parapolystichum rufescens (Blume) Labiak, Sundue & R.C.Moran",accepted,accepted,exact,1521670
@@ -3527,7 +3541,7 @@ Elaphoglossum andreanum Christ,Elaphoglossum andreanum Christ,Elaphoglossum andr
 Elaphoglossum bellermannianum (Klotzsch) T.Moore,Elaphoglossum bellermannianum (Klotzsch) T.Moore,Elaphoglossum bellermannianum (Klotzsch) T.Moore,accepted,accepted,exact,1592222
 "Elaphoglossum blepharis A.Vasco, Mickel & R.C.Moran","Elaphoglossum blepharis A.Vasco, Mickel & R.C.Moran","Elaphoglossum blepharis A.Vasco, Mickel & R.C.Moran",accepted,accepted,exact,1592223
 Elaphoglossum bryogenes Mickel,Elaphoglossum bryogenes Mickel,Elaphoglossum bryogenes Mickel,accepted,accepted,exact,1592224
-Elaphoglossum columbianum (Maxon) Mickel,Elaphoglossum columbianum (Maxon) Mickel,Elaphoglossum columbianum (Maxon) Mickel,accepted,accepted,exact,1592225
+Elaphoglossum columbianum (Maxon) Mickel,Elaphoglossum colombianum (Maxon) Mickel,Elaphoglossum colombianum (Maxon) Mickel,accepted,accepted,manual,1592225
 Elaphoglossum concinnum Mickel,Elaphoglossum concinnum Mickel,Elaphoglossum concinnum Mickel,accepted,accepted,exact,1592226
 Elaphoglossum engelii (H.Karst.) Christ,Elaphoglossum engelii (H.Karst.) Christ,Elaphoglossum engelii (H.Karst.) Christ,accepted,accepted,exact,1592227
 Elaphoglossum feei (Bory ex Fee) T.Moore,Elaphoglossum feei (Bory) T.Moore,Elaphoglossum feei (Bory) T.Moore,accepted,accepted,auto_basexin,1592228
@@ -3721,6 +3735,7 @@ Amauropelta retusa (Sw.) Pic.Serm.,Amauropelta retusa (Sw.) Pic.Serm.,Amauropelt
 Amauropelta rivularioides (Fee) O.Alvarez,Amauropelta rivularioides (Fée) O.Alvarez,Amauropelta rivularioides (Fée) O.Alvarez,accepted,accepted,auto_punct,1729495
 Amauropelta saxicola (Sw.) Salino & T.E.Almeida,Amauropelta saxicola (Sw.) Salino & T.E.Almeida,Amauropelta saxicola (Sw.) Salino & T.E.Almeida,accepted,accepted,exact,1729496
 Christella conspersa (Schrad.) i.Love & D.Love,Christella conspersa (Schrad.) Á.Löve & D.Löve,Christella conspersa (Schrad.) Á.Löve & D.Löve,accepted,accepted,manual,1729499
+Pelazoneuron patens (Sw.) A.R.Sm. & S.E.Fawc.,Pelazoneuron patens (Sw.) A.R.Sm. & S.E.Fawc.,Pelazoneuron patens (Sw.) A.R.Sm. & S.E.Fawc.,accepted,accepted,exact,1729500
 Coryphopteris pectiniformis (C.Chr.) Holttum,Coryphopteris pectiniformis (C.Chr.) Holttum,Coryphopteris pectiniformis (C.Chr.) Holttum,accepted,accepted,exact,1729502
 Goniopteris biolleyi (Christ) Pic.Serm.,Goniopteris biolleyi (Christ) Pic.Serm.,Goniopteris biolleyi (Christ) Pic.Serm.,accepted,accepted,exact,1729503
 Goniopteris goeldii (C.Chr.) Brade,Goniopteris goeldii (C.Chr.) Brade,Goniopteris goeldii (C.Chr.) Brade,accepted,accepted,exact,1729504
@@ -3788,7 +3803,6 @@ Triplophyllum pilosissimum (J.Sm. ex T.Moore) Holttum,Triplophyllum pilosissimum
 Triplophyllum securidiforme Holttum,Triplophyllum securidiforme (Hook.) Holttum,Triplophyllum securidiforme (Hook.) Holttum,accepted,accepted,auto_basio-,1790087
 Hymenophyllum pumilio Rosenst.,Hymenophyllum pumilio Rosenst.,Hymenophyllum pumilio Rosenst.,accepted,accepted,exact,1792193
 Jamesonia maxonii Lellinger,Jamesonia maxonii (Lellinger) Pabón-Mora & F.González,Jamesonia maxonii (Lellinger) Pabón-Mora & F.González,accepted,accepted,auto_cfonly,1792297
-Cyathea andina Domin,Cyathea andina (H.Karst.) Domin,Cyathea andina (H.Karst.) Domin,accepted,accepted,auto_basio-,1793797
 Cyathea tenera T.Moore,Cyathea tenera (J.Sm.) Moore,Cyathea tenera (J.Sm.) Moore,accepted,accepted,manual,1793798
 Asplenium pleurosorum Christenh.,Asplenium pleurosorum Christenh.,Asplenium pleurosorum Christenh.,accepted,accepted,exact,1793840
 Pakau pennigera (G.Forst.) S.E.Fawc. & A.R.Sm.,Pakau pennigera (G.Forst.) S.E.Fawc. & A.R.Sm.,Pakau pennigera (G.Forst.) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,1793841
@@ -3964,15 +3978,15 @@ Diplazium laffanianum C.Chr.,Diplazium laffanianum C.Chr.,Diplazium laffanianum 
 Asplenium lepidotum Perrie & Brownsey,Asplenium lepidotum Perrie & Brownsey,Asplenium lepidotum Perrie & Brownsey,accepted,accepted,exact,1874117
 Stigmatopteris brevinervis (Fee) R.C.Moran,Stigmatopteris brevinervis (Fée) R.C.Moran,Stigmatopteris brevinervis (Fée) R.C.Moran,accepted,accepted,auto_punct,1874205
 Stigmatopteris bulbifera R.C.Moran,Stigmatopteris bulbifera R.C.Moran,Stigmatopteris bulbifera R.C.Moran,accepted,accepted,exact,1874206
-Stigmatopteris caudata C.Chr.,Stigmatopteris caudata C.Chr.,Stigmatopteris caudata C.Chr.,accepted,accepted,exact,1874207
-Stigmatopteris contracta C.Chr.,Stigmatopteris contracta C.Chr.,Stigmatopteris contracta C.Chr.,accepted,accepted,exact,1874208
+Stigmatopteris caudata (Raddi) C.Chr.,Stigmatopteris caudata C.Chr.,Stigmatopteris caudata C.Chr.,accepted,accepted,auto_basio+,1874207
+Stigmatopteris contracta (Christ) C.Chr.,Stigmatopteris contracta C.Chr.,Stigmatopteris contracta C.Chr.,accepted,accepted,auto_basio+,1874208
 Stigmatopteris heterocarpa Rosenst.,Stigmatopteris heterocarpa (Fée) Rosenst.,Stigmatopteris heterocarpa (Fée) Rosenst.,accepted,accepted,auto_basio-,1874209
 Stigmatopteris heterophlebia (Baker) R.C.Moran,Stigmatopteris heterophlebia (Baker) R.C.Moran,Stigmatopteris heterophlebia (Baker) R.C.Moran,accepted,accepted,exact,1874210
 Stigmatopteris jamaicensis Proctor,Stigmatopteris jamaicensis (Desv.) Proctor,Stigmatopteris jamaicensis (Desv.) Proctor,accepted,accepted,auto_basio-,1874211
 Stigmatopteris michaelis C.Chr.,Stigmatopteris michaelis (Baker) C.Chr.,Stigmatopteris michaelis (Baker) C.Chr.,accepted,accepted,auto_basio-,1874212
 Stigmatopteris nephrodioides C.Chr.,Stigmatopteris nephrodioides C.Chr.,Stigmatopteris nephrodioides C.Chr.,accepted,accepted,exact,1874213
 Stigmatopteris opaca C.Chr.,Stigmatopteris opaca C.Chr.,Stigmatopteris opaca C.Chr.,accepted,accepted,exact,1874214
-Stigmatopteris pellucidopunctata C.Chr.,Stigmatopteris pellucidopunctata (C.Chr.) C.Chr.,Stigmatopteris pellucidopunctata (C.Chr.) C.Chr.,accepted,accepted,auto_basio-,1874215
+Stigmatopteris pellucidopunctata (C.Chr.) C.Chr.,Stigmatopteris pellucidopunctata (C.Chr.) C.Chr.,Stigmatopteris pellucidopunctata (C.Chr.) C.Chr.,accepted,accepted,exact,1874215
 Stigmatopteris pterorhachis R.C.Moran,Stigmatopteris pterorhachis R.C.Moran,Stigmatopteris pterorhachis R.C.Moran,accepted,accepted,exact,1874216
 Stigmatopteris rotundata (Willd.) C.Chr.,Stigmatopteris rotundata (Willd.) C.Chr.,Stigmatopteris rotundata (Willd.) C.Chr.,accepted,accepted,exact,1874217
 Stigmatopteris tyucana (Raddi) C.Chr.,Stigmatopteris tyucana (Raddi) C.Chr.,Stigmatopteris tyucana (Raddi) C.Chr.,accepted,accepted,exact,1874218
@@ -4557,7 +4571,12 @@ Leptochilus pentaphyllus (Baker) Liang Zhang & Li Bing Zhang,Leptochilus pentaph
 Leptochilus saxicola (H.G. Zhou & H. Li) Liang Zhang & Li Bing Zhang,Leptochilus saxicola (H.G.Zhou & Hua Li) Liang Zhang & Li Bing Zhang,Leptochilus saxicola (H.G.Zhou & Hua Li) Liang Zhang & Li Bing Zhang,accepted,accepted,auto_basexin,2510566
 Pteris × delchampsii W.H.Wagner & Nauman,Pteris × delchampsii W.H.Wagner & Nauman,Pteris × delchampsii W.H.Wagner & Nauman,accepted,accepted,exact,2511780
 Amauropelta heteroclita (Desv.) Pic.Serm.,Amauropelta heteroclita (Desv.) Pic.Serm.,Amauropelta heteroclita (Desv.) Pic.Serm.,accepted,accepted,exact,2516311
+Amauropelta opposita (Vahl) Pic.Serm.,Amauropelta opposita (Vahl) Pic.Serm.,Amauropelta opposita (Vahl) Pic.Serm.,accepted,accepted,exact,2516313
+Amauropelta pilosula (Klotzsch & H.Karst. ex Mett.) A.Love & D.Love,Amauropelta pilosula (Mett.) Á.Löve & D.Löve,Amauropelta pilosula (Mett.) Á.Löve & D.Löve,accepted,accepted,auto_basexin,2516314
 Amauropelta resinifera (Desv.) Pic.Serm.,Amauropelta resinifera (Desv.) Pic.Serm.,Amauropelta resinifera (Desv.) Pic.Serm.,accepted,accepted,exact,2516315
+Amauropelta rudis (Kunze) Pic.Serm.,Amauropelta rudis (Kunze) Pic.Serm.,Amauropelta rudis (Kunze) Pic.Serm.,accepted,accepted,exact,2516317
+Amauropelta rufa (Poir.) Salino & T.E.Almeida,Amauropelta rufa (Poir.) Salino & T.E.Almeida,Amauropelta rufa (Poir.) Salino & T.E.Almeida,accepted,accepted,exact,2516318
+Amauropelta rudis var. rudis (Kunze) Pic.Serm.,Amauropelta rudis (Kunze) Pic.Serm.,Amauropelta rudis (Kunze) Pic.Serm.,accepted,accepted,exact,2516323
 "Haplopteris capillaris (Copel.) C.W.Chen, S.Linds. & K.T.Yong","Haplopteris capillaris (Copel.) C.W.Chen, S.Linds. & K.T.Yong","Haplopteris capillaris (Copel.) C.W.Chen, S.Linds. & K.T.Yong",accepted,accepted,exact,2516791
 Dicksonia lanata subsp. hispida (Colenso) Perrie & Brownsey,Dicksonia lanata subsp. hispida (Colenso) Perrie & Brownsey,Dicksonia lanata subsp. hispida (Colenso) Perrie & Brownsey,accepted,accepted,exact,2520565
 Arachniodes carvifolia (Kunze) Ching,Arachniodes carvifolia (Kunze) Ching,Arachniodes carvifolia (Kunze) Ching,accepted,accepted,exact,2520580
@@ -4908,7 +4927,7 @@ Goniopteris verecunda (Proctor) Salino & T.E.Almeida,Goniopteris verecunda (Proc
 Nephrolepis flexuosa Colenso,Nephrolepis flexuosa Colenso,Nephrolepis flexuosa Colenso,accepted,accepted,exact,2687234
 Dendroconche annabellae (H.O.Forbes) Copel.,Dendroconche annabellae (H.O.Forbes) Copel.,Dendroconche annabellae (H.O.Forbes) Copel.,accepted,accepted,exact,2698817
 "Dendroconche sayeri (F.Muell. & Baker) Testo, Sundue, & A.R.Field","Dendroconche sayeri (F.Muell. & Baker) Testo, Sundue & A.R.Field","Dendroconche sayeri (F.Muell. & Baker) Testo, Sundue & A.R.Field",accepted,accepted,auto_punct,2698818
-Ophioderma pendulum L.,Ophioderma pendula (L.) C.Presl,Ophioderma pendula (L.) C.Presl,accepted,accepted,manual,2705723
+Ophioderma pendulum L.,Ophioderma pendulum (L.) C.Presl,Ophioderma pendulum (L.) C.Presl,accepted,accepted,manual,2705723
 Ophioderma redactophyllum Chantanaorr. & Li Bing Zhang,Ophioderma redactophylla Chantanaorr. & Li Bing Zhang,Ophioderma redactophylla Chantanaorr. & Li Bing Zhang,accepted,accepted,manual,2705724
 Ophioglossum austroasiaticum Nishida,Ophioglossum austroasiaticum Nishida,Ophioglossum austroasiaticum Nishida,accepted,accepted,exact,2705725
 "Woodsia guizhouensis P.S.Wang, Q.Luo & Li Bing Zhang","Woodsia guizhouensis P.S.Wang, Q.Luo & Li Bing Zhang","Woodsia guizhouensis P.S.Wang, Q.Luo & Li Bing Zhang",accepted,accepted,exact,2706192
@@ -4974,9 +4993,11 @@ Coryphopteris pubirachis (Baker) Holttum,Coryphopteris pubirachis (Baker) Holttu
 Coryphopteris tahanensis Holttum,Coryphopteris tahanensis Holttum,Coryphopteris tahanensis Holttum,accepted,accepted,exact,2757831
 Goniopteris paucipinnata (Donn.Sm.) Salino & T.E.Almeida,Goniopteris paucipinnata (Donn.Sm.) Salino & T.E.Almeida,Goniopteris paucipinnata (Donn.Sm.) Salino & T.E.Almeida,accepted,accepted,exact,2757856
 Goniopteris hatchii (A.R.Sm.) A.Love & D.Love,Goniopteris hatchii (A.R.Sm.) Á.Löve & D.Löve,Goniopteris hatchii (A.R.Sm.) Á.Löve & D.Löve,accepted,accepted,auto_punct,2757879
+Goniopteris obliterata (Sw.) C.Presl,Goniopteris obliterata (Sw.) C.Presl,Goniopteris obliterata (Sw.) C.Presl,accepted,accepted,exact,2757888
 Meniscium lingulatum (C.Chr.) Pic. Serm.,Meniscium lingulatum (C.Chr.) Pic.Serm.,Meniscium lingulatum (C.Chr.) Pic.Serm.,accepted,accepted,auto_punct,2757909
 Mesophlebion echinatum (Mett.) Holttum,Mesophlebion echinatum (Mett.) Holttum,Mesophlebion echinatum (Mett.) Holttum,accepted,accepted,exact,2757913
 Mesophlebion motleyanum (Hook.) Holttum,Mesophlebion motleyanum (Hook.) Holttum,Mesophlebion motleyanum (Hook.) Holttum,accepted,accepted,exact,2757914
+Mesophlebion trichopodum (C.Chr.) Holttum,Mesophlebion trichopodum (C.Chr.) Holttum,Mesophlebion trichopodum (C.Chr.) Holttum,accepted,accepted,exact,2757917
 Metathelypteris adscendens (Ching) Ching,Metathelypteris adscendens (Ching) Ching,Metathelypteris adscendens (Ching) Ching,accepted,accepted,exact,2757919
 Plesioneuron ponapeanum (Hosok.) Holttum,Plesioneuron ponapeanum (Hosok.) Holttum,Plesioneuron ponapeanum (Hosok.) Holttum,accepted,accepted,exact,2757926
 Plesioneuron savaiense (Baker) Holttum,Plesioneuron savaiense (Baker) Holttum,Plesioneuron savaiense (Baker) Holttum,accepted,accepted,exact,2757928
@@ -4984,6 +5005,7 @@ Plesioneuron tahitense Holttum,Plesioneuron tahitense Holttum,Plesioneuron tahit
 Pneumatopteris glandulifera (Brack.) Holttum,Pneumatopteris glandulifera (Brack.) Holttum,Pneumatopteris glandulifera (Brack.) Holttum,accepted,accepted,exact,2757935
 "Pseudophegopteris keraudreniana (Gaudich.) Holttum,",Pseudophegopteris keraudreniana (Gaudich.) Holttum,Pseudophegopteris keraudreniana (Gaudich.) Holttum,accepted,accepted,auto_punct,2757949
 Abacopteris hirtisora (C.Chr.) S.E.Fawc. & A.R.Sm.,Abacopteris hirtisora (C.Chr.) S.E.Fawc. & A.R.Sm.,Abacopteris hirtisora (C.Chr.) S.E.Fawc. & A.R.Sm.,accepted,accepted,exact,2757966
+Sphaerostephanos productus (Kaulf.) Holttum,Sphaerostephanos productus (Kaulf.) Holttum,Sphaerostephanos productus (Kaulf.) Holttum,accepted,accepted,exact,2757980
 Pronephrium peltatum var. aberrans Holttum,Pronephrium peltatum var. aberrans Holttum,Pronephrium peltatum var. aberrans Holttum,accepted,accepted,exact,2757995
 Hypolepis barringtonii Schwartsb.,Hypolepis barringtonii Schwartsb.,Hypolepis barringtonii Schwartsb.,accepted,accepted,exact,2758357
 Hypolepis flexuosa Sodiro,Hypolepis flexuosa Sodiro,Hypolepis flexuosa Sodiro,accepted,accepted,exact,2758358
@@ -5371,6 +5393,7 @@ Ctenitis christensenii R.S.Viveros & Salino,Ctenitis christensenii R.S.Viveros &
 Ctenitis distans (Brack.) Ching,Ctenitis distans (Brack.) Ching,Ctenitis distans (Brack.) Ching,accepted,accepted,exact,3004215
 Ctenitis nervata (Fee) R.S.Viveros & Salino,Ctenitis nervata (Fée) R.S.Viveros & Salino,Ctenitis nervata (Fée) R.S.Viveros & Salino,accepted,accepted,auto_punct,3004217
 Ctenitis nigrovenia (Christ) Copel.,Ctenitis nigrovenia (Christ) Copel.,Ctenitis nigrovenia (Christ) Copel.,accepted,accepted,exact,3004218
+Amauropelta pilosohispida (Hook.) A.R.Sm.,Amauropelta pilosohispida (Hook.) A.R.Sm.,Amauropelta pilosohispida (Hook.) A.R.Sm.,accepted,accepted,exact,3015612
 Sceptridium decompositum (M.Martens & Galeotti) Lyon,Sceptridium decompositum (M.Martens & Galeotti) Lyon,Sceptridium decompositum (M.Martens & Galeotti) Lyon,accepted,accepted,exact,3015655
 Asplenium sphaerosporum A.R.Sm.,Asplenium sphaerosporum A.R.Sm.,Asplenium sphaerosporum A.R.Sm.,accepted,accepted,exact,3015670
 Diplazium striatastrum Lellinger,Diplazium striatastrum Lellinger,Diplazium striatastrum Lellinger,accepted,accepted,exact,3015692
@@ -5402,7 +5425,7 @@ Prosaptia formosana (Hayata) T.C.Hsu,Prosaptia formosana (Hayata) T.C.Hsu,Prosap
 Prosaptia urceolaris (Hayata) Copel.,Prosaptia urceolaris (Hayata) Copel.,Prosaptia urceolaris (Hayata) Copel.,accepted,accepted,exact,3037532
 Scleroglossum pyxidatum Alderw.,Scleroglossum pyxidatum Alderw.,Scleroglossum pyxidatum Alderw.,accepted,accepted,exact,3037533
 "Xiphopterella devolii S.J.Moore, Parris & W.L.Chiou","Xiphopterella devolii S.J.Moore, Parris & W.L.Chiou","Xiphopterella devolii S.J.Moore, Parris & W.L.Chiou",accepted,accepted,exact,3037534
-Hymenophyllum schomburgkii C.Pres,Hymenophyllum schomburgkii C.Presl ex J.W.Sturm,Hymenophyllum schomburgkii C.Presl ex J.W.Sturm,accepted,accepted,manual,3037718
+Hymenophyllum schomburgkii C.Pres,Hymenophyllum schomburghii C.Presl,Hymenophyllum schomburghii C.Presl,accepted,accepted,manual,3037718
 Hymenophyllum sturmii Bosch,Hymenophyllum sturmii Bosch,Hymenophyllum sturmii Bosch,accepted,accepted,exact,3037719
 Hymenophyllum viridissimum Fee,Hymenophyllum viridissimum Fée,Hymenophyllum viridissimum Fée,accepted,accepted,auto_punct,3037720
 Abrodictyum inexpectatum Dubuisson & Rouhan,Abrodictyum inexpectatum Dubuisson & Rouhan,Abrodictyum inexpectatum Dubuisson & Rouhan,accepted,accepted,exact,3038991
@@ -5775,7 +5798,9 @@ Selliguea murudensis (C.Chr.) Parris,Selliguea murudensis (C.Chr.) Parris,Sellig
 "Selliguea obtusa (Ching) S.G.Lu, Hovenkamp & M.G.Gilbert","Selliguea obtusa (Ching) S.G.Lu, Hovenkamp & M.G.Gilbert","Selliguea obtusa (Ching) S.G.Lu, Hovenkamp & M.G.Gilbert",accepted,accepted,exact,3476513
 Selliguea oodes (Kunze) Hovenkamp,Selliguea oodes (Kunze) Hovenkamp,Selliguea oodes (Kunze) Hovenkamp,accepted,accepted,exact,3476514
 Selliguea subtaeniata (Alderw.) Hovenkamp,Selliguea subtaeniata (Alderw.) Hovenkamp,Selliguea subtaeniata (Alderw.) Hovenkamp,accepted,accepted,exact,3476515
+Selliguea palmata (Blume) Li Bing Zhang & Liang Zhang,Selliguea palmata (Blume) Li Bing Zhang & Liang Zhang,Selliguea palmata (Blume) Li Bing Zhang & Liang Zhang,accepted,accepted,exact,3476516
 Haplopteris hirta (Fee) S.Linds.,Haplopteris hirta (Fée) S.Linds.,Haplopteris hirta (Fée) S.Linds.,accepted,accepted,auto_punct,3477411
+Haplopteris naraensis C.W.Chen & Hori,Haplopteris naraensis C.W.Chen & Hori,Haplopteris naraensis C.W.Chen & Hori,accepted,accepted,exact,3477423
 Tmesipteris eucampta Perrie & D.J.Ohlsen,Tmesipteris eucampta Perrie & D.J.Ohlsen,Tmesipteris eucampta Perrie & D.J.Ohlsen,accepted,accepted,exact,3570418
 Lepisorus tajimaensis T.Fujiw.,Lepisorus tajimaensis T.Fujiw.,Lepisorus tajimaensis T.Fujiw.,accepted,accepted,exact,3680050
 Arachniodes × tohtomiensis Shimura & Hori,Arachniodes × tohtomiensis Shimura & K.Hori,Arachniodes × tohtomiensis Shimura & K.Hori,accepted,accepted,manual,3680058
@@ -5870,6 +5895,8 @@ Megalastrum sparsipilosum R.C.Moran & J.Prado,Megalastrum sparsipilosum R.C.Mora
 Megalastrum bolivianum M.Kessler & A.R.Sm.,Megalastrum bolivianum M.Kessler & A.R.Sm.,Megalastrum bolivianum M.Kessler & A.R.Sm.,accepted,accepted,exact,3736384
 Megalastrum mexicanum R.C.Moran & J.Prado,Megalastrum mexicanum R.C.Moran & J.Prado,Megalastrum mexicanum R.C.Moran & J.Prado,accepted,accepted,exact,3736385
 Megalastrum molle A.R.Sm.,Megalastrum molle A.R.Sm.,Megalastrum molle A.R.Sm.,accepted,accepted,exact,3736386
+"Parablechnum yariguense J.D.Gomez-Rom., D.Sanin, J.Murillo & Gasper","Parablechnum yariguense J.D.Gómez-Rom., D.Sanín, J.Murillo & Gasper","Parablechnum yariguense J.D.Gómez-Rom., D.Sanín, J.Murillo & Gasper",unchecked,unchecked,auto_punct,3899000
+Dryopteris rosthornii (Diels) C. Chr.,Dryopteris rosthornii (Diels) C.Chr.,Dryopteris rosthornii (Diels) C.Chr.,accepted,accepted,auto_punct,3901376
 Cryptocaulon tenerifrons,"Cryptocaulon tenerifrons (Hook.) Limpan., Yoneoka, Ebihara & L.Y.Kuo","Cryptocaulon tenerifrons (Hook.) Limpan., Yoneoka, Ebihara & L.Y.Kuo",accepted,accepted,auto_noauth,3478518
 Gleichenia japonica Spreng.,Diplopterygium glaucum (Thunb. ex Houtt.) Nakai,Gleichenia japonica Spreng.,accepted,synonym,exact,3274
 Cyathea crinita (Hook.) Copel.,Sphaeropteris crinita (Hook.) R.M.Tryon,Cyathea crinita (Hook.) Copel.,accepted,synonym,exact,13471
@@ -5903,10 +5930,8 @@ Trichomanes radicans Sw.,Vandenboschia radicans (Sw.) Copel.,Trichomanes radican
 Polypodium aureum L.,Phlebodium aureum (L.) J.Sm.,Polypodium aureum L.,accepted,synonym,exact,49545
 Davallia trichomanoides subsp. bullata (Wall. ex Hook.) Sarn.Singh & Panigrahi,Davallia bullata Wall. ex Hook.,Davallia trichomanoides subsp. bullata (Wall. ex Hook.) Sarn.Singh & Panigrahi,accepted,synonym,exact,49860
 Blechnum glandulosum Wall.,Blechnum occidentale L.,Blechnum glandulosum Wall.,accepted,synonym,exact,49974
-Athyrium sheareri (Baker) Ching,Anisocampium sheareri (Baker) Ching,Athyrium sheareri (Baker) Ching,accepted,synonym,exact,65703
 Diplazium donianum (Mett.) Tardieu,Diplazium lineolatum Blume,Diplazium donianum (Mett.) Tardieu,accepted,synonym,exact,65708
 Diplazium squamigerum (Mett.) Matsum.,Diplazium squamigerum (Mett.) Hope,Diplazium squamigerum (Mett.) Christ,accepted,synonym,manual,65709
-Athyrium crenulatoserrulatum Makino,Cornopteris crenulatoserrulata (Makino) Nakai,Athyrium crenulato-serrulatum Makino,accepted,synonym,auto_punct,65719
 Athyrium decurrentialatum (Hook.) Copel.,Cornopteris decurrentialata (Hook.) Nakai,Athyrium decurrenti-alatum (Hook.) Copel.,accepted,synonym,auto_punct,65720
 Asplenium tenuicaule Hayata,Asplenium laciniatum subsp. tenuicaule (Hayata) Fraser-Jenk.,Asplenium tenuicaule Hayata,accepted,synonym,exact,78460
 Asplenium pseudowilfordii Tagawa,Asplenium austrochinense Ching,Asplenium pseudowilfordii Tagawa,accepted,synonym,exact,78462
@@ -5937,6 +5962,7 @@ Anemia pastinacaria Moritz ex Prantl,Anemia hispida Kunze,Anemia pastinacaria Mo
 Anemia radicans Raddi,Anemia blechnoides Sm.,Anemia radicans Raddi,accepted,synonym,exact,148557
 Anemia tenella (Cav.) Sw.,Anemia hirsuta (L.) Sw.,Anemia tenella (Cav.) Sw.,accepted,synonym,exact,148558
 Lygodium micans J.W.Sturm,Lygodium volubile Sw.,Lygodium micans Sturm,accepted,synonym,manual,148565
+Schizaea pusilla Pursh,"Neoschizaea pusilla (Pursh) D.V.S.Silva, A.C.P.Santiago & T.E.Almeida",Schizaea pusilla Pursh,accepted,synonym,exact,148579
 Asplenium auritum Wall.,Asplenium bipartitum Bory ex Willd.,Asplenium auritum Wall.,accepted,synonym,exact,152680
 Athyrium distentifolium Tausch ex Opiz,Pseudathyrium alpestre subsp. alpestre (Hoppe) Newman,Athyrium distentifolium Tausch ex Opiz,accepted,synonym,exact,157494
 Leptogramma pilosa var. alabamensis (Crawford) Wherry,Leptogramma burksiorum (J.E.Watkins & Farrar) Y.H.Chang & L.Y.Kuo,Leptogramma pilosa var. alabamensis (Crawford) Wherry,accepted,synonym,exact,157527
@@ -5953,14 +5979,11 @@ Asplenium trichomanes subsp. hastatum (Christ) S.Jess.,Asplenium jessenii Hong M
 Asplenium trichomanes subsp. quadrivalens D.E.Mey.,Asplenium quadrivalens (D.E.Mey.) Landolt,Asplenium trichomanes subsp. quadrivalens D.E.Mey.,accepted,synonym,exact,169386
 Anogramma guatemalensis (Domin) C.Chr.,Anogramma leptophylla (L.) Link,Anogramma guatemalensis (Domin) C.Chr.,accepted,synonym,exact,170709
 Taenitis interrupta Hook. & Grev.,Taenitis blechnoides (Willd.) Sw.,Taenitis interrupta Hook. & Grev.,accepted,synonym,exact,170719
-Thelypteris hispidula (Decne.) C.F.Reed,Christella hispidula (Decne.) Holttum,Thelypteris hispidula (Decne.) C.F.Reed,accepted,synonym,exact,173871
 Thelypteris poiteana (Bory) Proctor,Goniopteris poiteana (Bory) C.Presl,Thelypteris poiteana (Bory) Proctor,accepted,synonym,exact,173880
 Thelypteris simplex (Hook.) K.Iwats.,Grypothrix simplex (Hook.) S.E.Fawc. & A.R.Sm.,Thelypteris simplex (Hook.) K.Iwats.,accepted,synonym,exact,173894
-Thelypteris esquirolii (Christ) Ching,Pseudocyclosorus esquirolii (Christ) Ching,Thelypteris esquirolii (Christ) Ching,accepted,synonym,exact,173896
 Phegopteris aurita (Hook.) J.Sm.,Pseudophegopteris aurita (Hook.) Ching,Phegopteris aurita (Hook.) J.Sm.,accepted,synonym,exact,173912
 Thelypteris taiwanensis (C.Chr.) K.Iwats.,Sphaerostephanos taiwanensis (C.Chr.) Holttum ex Kuo,Thelypteris taiwanensis (C.Chr.) K.Iwats.,accepted,synonym,exact,173913
 Trigonospora ciliata (Wall. ex Benth.) Holttum,Trigonospora tenera (Roxb.) Mazumdar,Trigonospora ciliata (Wall. ex Benth.) Holttum,accepted,synonym,exact,173915
-Thelypteris arida (D.Don) C.V.Morton,Christella arida (D.Don) Holttum,Thelypteris arida (D.Don) Morton,accepted,synonym,manual,174654
 Thelypteris leprieurii (Hook.) R.M.Tryon,Steiropteris leprieurii (Hook.) Pic.Serm.,Thelypteris leprieurii (Hook.) R.M.Tryon,accepted,synonym,exact,174660
 Campyloneurum wercklei (Christ) Lellinger,Campyloneurum sphenodes Fée,Campyloneurum wercklei (Christ) Lellinger,accepted,synonym,exact,187344
 Aglaomorpha rigidula (Sw.) Hovenkamp & S.Linds.,Drynaria rigidula (Sw.) Bedd.,Aglaomorpha rigidula (Sw.) Hovenkamp & S.Linds.,accepted,synonym,exact,187349
@@ -6239,7 +6262,6 @@ Campyloneurum latum T.Moore,Campyloneurum brevifolium (Lodd. ex Link) Link,Campy
 Heterogonium pinnatum (Copel.) Holttum,Tectaria nayarii Mazumdar,Heterogonium pinnatum (Copel.) Holttum,accepted,synonym,exact,449850
 Meniscium affine C.Presl ex Ettingsh.,Meniscium angustifolium Willd.,Meniscium affine C.Presl,accepted,synonym,auto_exin+,449890
 Amauropelta consanguinea (Fee) Salino & T.E.Almeida,Amauropelta consanguinea (Fée) O.Alvarez,Amauropelta consanguinea (Fée) Salino & T.E.Almeida,accepted,synonym,auto_punct,449892
-Thelypteris dentata (Forssk.) E.P.St.John,Christella dentata (Forssk.) Brownsey & Jermy,Thelypteris dentata E.P.St.John,accepted,synonym,auto_basio+,449893
 Thelypteris gemmulifera (Hieron.) A.R.Sm.,Goniopteris gemmulifera (Hieron.) Vareschi,Thelypteris gemmulifera (Hieron.) A.R.Sm.,accepted,synonym,exact,449894
 Amauropelta linkiana (C.Presl) Pic.Serm.,Amauropelta diplazioides (Desv.) Pic.Serm.,Amauropelta linkiana (C.Presl) Pic.Serm.,accepted,synonym,exact,449899
 Thelypteris reticulata (L.) Proctor,Meniscium reticulatum (L.) Martyn,Thelypteris reticulata (L.) Proctor,accepted,synonym,exact,449907
@@ -6292,7 +6314,6 @@ Trichomanes longilabiatum Bonap.,Crepidomanes longilabiatum (Bonap.) J.P.Roux,Tr
 Trichomanes giganteum Bory ex Willd.,Vandenboschia gigantea (Bory ex Willd.) Pic.Serm.,Trichomanes giganteum Bory ex Willd.,accepted,synonym,exact,593784
 Pteridium semihastatum (Wall. ex J.Agardh) S.B.Andrews,Pteridium rostratum (Burm.f.) Fraser-Jenk.,Pteridium semihastatum (Wall. ex J.Agardh) S.B.Andrews,accepted,synonym,exact,614187
 Dryopteris remotepinnata Hayata,Gymnocarpium remotipinnatum (Hayata) Ching,Dryopteris remotipinnata Hayata,accepted,synonym,manual,623704
-Athyrium cumingianum (C.Presl) Milde ,Anisocampium cumingianum C.Presl,Athyrium cumingianum (C.Presl) Milde,accepted,synonym,exact,630507
 Hymenophyllum atrovirens Fee & L'Herm.,Hymenophyllum fucoides (Sw.) Sw.,Hymenophyllum atrovirens Fée & L'Herm.,accepted,synonym,auto_punct,638556
 Lindsaea bouillodii Christ,Lindsaea interrupta (Roxb.) C.V.Morton,Lindsaea bouillodii Christ,accepted,synonym,exact,641164
 Lindsaea dissectiformis Ching,Lindsaea eberhardtii (Christ) K.U.Kramer,Lindsaea dissectiformis Ching,accepted,synonym,exact,641167
@@ -6324,7 +6345,6 @@ Lepisorus subconfluens Ching,Lepisorus eilophyllus (Diels) Ching,Lepisorus subco
 Lepisorus thaipaiensis Ching & S.K.Wu,Lepisorus clathratus Ching,Lepisorus thaipaiensis Ching & S.K.Wu,accepted,synonym,exact,699696
 Lepisorus ussuriensis var. distans Tagawa,Lepisorus distans (Makino) Ching,Lepisorus ussuriensis var. distans (Makino) Tagawa,accepted,synonym,auto_basio-,699701
 Lepisorus xiphiopteris (Baker) W.M.Chu & Y.X.Lin,Lepisorus loriformis Ching,Lepisorus xiphiopteris (Baker) W.M.Chu & Y.X.Lin,accepted,synonym,exact,699702
-Thelypteris parasitica (L.) Tardieu,Christella parasitica (L.) H.Lév.,Thelypteris parasitica (L.) Tardieu,accepted,synonym,exact,714463
 Terpsichore mollissima (Fee) A.R.Sm.,Alansmia elastica (Bory ex Willd.) Moguel & M.Kessler,Terpsichore mollissima (Fée) A.R.Sm.,accepted,synonym,auto_punct,741049
 Asplenium daucifolium var. lineatum (Sw.) C.V.Morton,Asplenium daucifolium Lam.,Asplenium daucifolium var. lineatum (Sw.) C.V.Morton,accepted,synonym,exact,745009
 Asplenium decompositum Peter,Asplenium linckii Kuhn,Asplenium decompositum Peter,accepted,synonym,exact,752810
@@ -6364,12 +6384,10 @@ Botrychium ternatum var. pseudoternatum (Sahashi) M.Kato,Sceptridium ternatum va
 Hemionitis krameri (Franch. & Sav.) Christenh.,Aleuritopteris krameri (Franch. & Sav.) Ching,Hemionitis krameri (Franch. & Sav.) Christenh.,accepted,synonym,exact,872473
 Leptochilus elegans (Sa.Kurata) Nakaike,Leptochilus ellipticus (Thunb.) Noot.,Leptochilus elegans (Sa.Kurata) Nakaike,accepted,synonym,exact,872474
 Coniogramme intermedia var. villosa Ching,Coniogramme intermedia Hieron.,Coniogramme intermedia var. villosa Ching,accepted,synonym,exact,872477
-Athyrium opacum (D.Don) Copel.,Cornopteris opaca (D.Don) Tagawa,Athyrium opacum (D.Don) Copel.,accepted,synonym,exact,872479
 Crepidomanes acuto-obtusum (Hayata) K.Iwats.,Crepidomanes latealatum (Bosch) Copel.,Crepidomanes acuto-obtusum (Hayata) K.Iwats.,accepted,synonym,exact,872481
-Ctenitis lepigera Tagawa,Ctenitis subglandulosa (Hance) Ching,Ctenitis lepigera (Baker) Tagawa,accepted,synonym,auto_basio-,872488
+Ctenitis lepigera (Baker) Tagawa,Ctenitis subglandulosa (Hance) Ching,Ctenitis lepigera (Baker) Tagawa,accepted,synonym,exact,872488
 Prosaptia kanashiroi (Hayata) Nakai,Prosaptia pinnatifida C.Presl,Prosaptia kanashiroi (Hayata) Nakai ex Yamam.,accepted,synonym,auto_exin-,872491
 Cyathea hancockii Copel.,Gymnosphaera denticulata (Baker) Copel.,Cyathea hancockii Copel.,accepted,synonym,exact,872493
-Alsophila metteniana Hance,Gymnosphaera metteniana (Hance) Tagawa,Alsophila metteniana Hance,accepted,synonym,exact,872495
 Cyathea tuyamae H.Ohba,Alsophila tuyamae (H.Ohba) Nakaike,Cyathea tuyamae H.Ohba,accepted,synonym,exact,872497
 Cyrtomium fortunei var. atropunctatum (Sa.Kurata) K.Iwats.,Cyrtomium clivicola (Makino) Tagawa,Cyrtomium fortunei var. atropunctatum (Sa.Kurata) K.Iwats.,accepted,synonym,exact,872501
 Cyrtomium fortunei var. clivicola (Makino) Tagawa,Cyrtomium clivicola (Makino) Tagawa,Cyrtomium fortunei var. clivicolum (Makino) Tagawa,accepted,synonym,manual,872502
@@ -6423,7 +6441,6 @@ Thelypteris hattorii var. hattorii (H.Ito) Tagawa,Metathelypteris hattorii (H.It
 Thelypteris hattorii var. nemoralis (Ching) Sa.Kurata,Metathelypteris hattorii var. nemoralis (Ching) Nakaike,Thelypteris hattori var. nemoralis (Ching) Sa.Kurata,accepted,synonym,manual,872883
 Thelypteris jaculosa (Christ) Panigrahi,Christella jaculosa (Christ) Holttum,Thelypteris jaculosa (Christ) Panigrahi,accepted,synonym,exact,872885
 Thelypteris japonica (Baker) Ching,Coryphopteris japonica (Baker) L.J.He & X.C.Zhang,Thelypteris japonica (Baker) Ching,accepted,synonym,exact,872886
-Thelypteris laxa (Franch. & Sav.) Ching,Metathelypteris laxa (Franch. & Sav.) Ching,Thelypteris laxa (Franch. & Sav.) Ching,accepted,synonym,exact,872887
 Thelypteris liukiuensis (Christ ex Matsum.) K.Iwats.,Grypothrix ramosii (Christ) S.E.Fawc. & A.R.Sm.,Thelypteris liukiuensis (Christ) K.Iwats.,accepted,synonym,auto_basexin,872888
 Parathelypteris borealis (H.Hara) K.H.Shing,Coryphopteris nipponica (Franch. & Sav.) S.E.Fawc. & A.R.Sm.,Parathelypteris borealis (H.Hara) K.H.Shing,accepted,synonym,exact,872891
 Phegopteris subaurita (Tagawa) Tagawa,Pseudophegopteris subaurita (Tagawa) Ching,Phegopteris subaurita (Tagawa) Tagawa,accepted,synonym,exact,872898
@@ -6432,7 +6449,6 @@ Trichomanes subclathratum (K.Iwats.) C.V. Morton,Vandenboschia subclathrata K.Iw
 Vittaria ogasawarensis Kodama,Haplopteris zosterifolia (Willd.) E.H.Crane,Vittaria ogasawarensis Kodama,accepted,synonym,exact,872909
 Woodsia intermedia Tagawa,Woodsia taishanensis F.Z.Li & C.K.Ni,Woodsia intermedia Tagawa,accepted,synonym,exact,872912
 Woodwardia orientalis var. formosana Rosenst.,Woodwardia prolifera Hook. & Arn.,Woodwardia orientalis var. formosana Rosenst.,accepted,synonym,exact,872914
-Thelypteris cystopteroides (D.C.Eaton) Ching,Amauropelta cystopteroides (D.C.Eaton) S.E.Fawc. & A.R.Sm.,Thelypteris cystopteroides (D.C.Eaton) Ching,accepted,synonym,exact,873556
 Hemionitis contracta (Kunze) Christenh.,Anthonya contracta (Kunze) Windham & Pryer,Hemionitis contracta (Kunze) Christenh.,accepted,synonym,exact,991832
 Hemionitis eckloniana (Kunze) Christenh.,Anthonya eckloniana (Kunze) Windham & Pryer,Hemionitis eckloniana (Kunze) Christenh.,accepted,synonym,exact,991836
 Cheilanthes maderensis Lowe,Aleuritopteris pteridioides (Reichard) Windham & Schuettp.,Cheilanthes maderensis Lowe,accepted,synonym,exact,991843
@@ -6488,7 +6504,6 @@ Christella molliuscula (Kuhn) Holttum,Pseudocyclosorus pubescens (D.Don) Kovalch
 Thelypteris papilio (C.Hope) K.Iwats.,Christella papilio (C.Hope) Holttum,Thelypteris papilio (C.Hope) K.Iwats.,accepted,synonym,exact,1132534
 Thelypteris hirsutipes (C.B.Clarke) Ching,Coryphopteris hirsutipes (C.B.Clarke) Holttum,Thelypteris hirsutipes (Clarke) Ching,accepted,synonym,auto_basexin,1132540
 Thelypteris tonkinensis (C.Chr.) Ching,Mesopteris tonkinensis (C.Chr.) Ching,Thelypteris tonkinensis (C.Chr.) Ching,accepted,synonym,exact,1132552
-Thelypteris singalanensis (Baker) Ching,Metathelypteris singalanensis (Baker) Ching,Thelypteris singalanensis (Baker) Ching,accepted,synonym,exact,1132555
 Pronephrium articulatum (Houlston & T.Moore) Holttum,Christella euphlebia (Ching) Holttum,Pronephrium articulatum (Houlston & T.Moore) Holttum,accepted,synonym,exact,1132557
 Thelypteris falciloba (Hook.) Ching,Pseudocyclosorus falcilobus (Hook.) Ching,Thelypteris falciloba (Hook.) Ching,accepted,synonym,exact,1132562
 Pseudocyclosorus submarginalis Ching ex Y.X.Lin,Pseudocyclosorus esquirolii (Christ) Ching,Pseudocyclosorus submarginalis Ching ex Y.X.Lin,accepted,synonym,exact,1132563
@@ -6549,7 +6564,6 @@ Matteuccia struthiopteris var. pensylvanica (Willd.) C.V.Morton,Matteuccia strut
 Osmunda regalis var. spectabilis (Willd.) A.Gray,Osmunda spectabilis Willd.,Osmunda regalis var. spectabilis (Willd.) A.Gray,accepted,synonym,exact,1401367
 Campyloneurum minus Fee,Campyloneurum aphanophlebium (Kunze) T.Moore,Campyloneurum minus Fée,accepted,synonym,auto_punct,1434237
 Cionidium moorei T.Moore,Tectaria moorei (Hook.) C.Chr.,Cionidium moorei T.Moore,accepted,synonym,exact,1435268
-Pseudotectaria fibrillosa (Baker) Holttum,Ctenitis fibrillosa (Baker) Li Bing Zhang & Yi F.Duan,Pseudotectaria fibrillosa (Baker) Holttum,accepted,synonym,exact,1435272
 Tectaria singaporiana (Wall. ex Hook. & Grev.) Ching,Tectaria singaporiana (Wall. ex Hook. & Grev.) Copel.,Tectaria singaporiana (Wall. ex Hook. & Grev.) Ching,accepted,synonym,exact,1435287
 Tectaria vivipara Jermy & T.G.Walker,Tectaria incisa f. vivipara (Jenman) C.V.Morton,Tectaria vivipara Jermy & T.G.Walker,accepted,synonym,exact,1435289
 Polystichum orbiculatum Gay,Polystichum orbiculatum (Desv.) J.Rémy & Fée,Polystichum orbiculatum (Desv.) Gay,accepted,synonym,auto_basio-,1445494
@@ -6558,7 +6572,6 @@ Elaphoglossum alismifolium (Fee) T.Moore,Elaphoglossum andicola (Fée) T.Moore,E
 Elaphoglossum firmum (Mett.) Urb.,Elaphoglossum hoffmannii (Mett. ex Kuhn) Christ,Elaphoglossum firmum (Mett.) Urb.,accepted,synonym,exact,1460250
 Adiantum rufopunctatum Mett.,Adiantum moorei Baker,Adiantum rufopunctatum Mett.,accepted,synonym,exact,1481314
 Saccoloma domingense Urb.,Saccoloma domingense (Spr.) Prantl,Saccoloma domingense (Spreng.) C.Chr.,accepted,synonym,auto_cfonly,1481359
-Thelypteris macrophylla (Kunze) C.V.Morton,Meniscium macrophyllum Kunze,Thelypteris macrophylla (Kunze) C.V.Morton,accepted,synonym,exact,1481369
 Trichomanes nummularium (Bosch) C.Chr.,Didymoglossum nummularium Bosch,Trichomanes nummularium C.Chr.,accepted,synonym,auto_basio+,1481377
 Vittaria costata Kunze,Ananthacorus angustifolius (Sw.) Underw. & Maxon,Vittaria costata Kunze,accepted,synonym,exact,1481381
 Davallia ophioglossa (Cav.) M.Kato,Davallia heterophylla Sm.,Davallia ophioglossa (Cav.) M.Kato,accepted,synonym,exact,1500516
@@ -6570,7 +6583,6 @@ Pteris cretica var. nervosa (Thunb.) Ching & S.H.Wu,Pteris cretica subsp. cretic
 Pteris scabristipes Tagawa,Pteris normalis D.Don,Pteris scabristipes Tagawa,accepted,synonym,exact,1508616
 Pteris aspericaulis var. subindivisa (C.B.Clarke) Ching,Pteris subindivisa C.B.Clarke,Pteris aspericaulis var. subindivisa (Clarke) Ching,accepted,synonym,auto_basexin,1508627
 Pteris aspericaulis var. tricolor (Linden) E.J.Lowe,Pteris tricolor Linden,Pteris aspericaulis var. tricolor Moore,accepted,synonym,auto_cfonly,1508630
-Thelypteris bergiana (Schltdl.) Ching,Amauropelta bergiana (Schltdl.) Holttum,Thelypteris bergiana (Schlecht.) Ching,accepted,synonym,auto_basexin,1521195
 Thelypteris heteroptera (Desv.) Tardieu,Amauropelta heteroptera (Desv.) Holttum,Thelypteris heteroptera (Desv.) Tardieu,accepted,synonym,exact,1521196
 Thelypteris oppositiformis (C.Chr.) Ching,Amauropelta oppositiformis (C.Chr.) Holttum,Thelypteris oppositiformis (C.Chr.Bonap.) Ching,accepted,synonym,auto_basexin,1521197
 Antrophyum giganteum Bory,"Antrophyopsis gigantea (Bory) Rouhan, Boullet & Schuettp.",Antrophyum giganteum Bory,accepted,synonym,exact,1521201
@@ -6634,7 +6646,6 @@ Alsophila gleichenioides R.M.Tryon,Alsophila macgregorii (F.Muell.) R.M.Tryon,Al
 Alsophila latebrosa Wall. ex Hook.,Alsophila nilgirensis (Holttum) R.M.Tryon,Alsophila latebrosa Wall. ex Hook.,accepted,synonym,exact,1710921
 Alsophila salletii (Tardieu & C.Chr.) R.M.Tryon,Gymnosphaera salletii (Tardieu & C.Chr. ex C.Chr. & Tardieu) S.Y.Dong,Alsophila salletii (Tardieu & C.Chr.) R.M.Tryon,accepted,synonym,exact,1710932
 Amauropelta amambayensis (Christ) Salino & A.R.Sm.,Amauropelta amambayensis (Ponce) Salino & T.E.Almeida,Amauropelta amambayensis (Christ) Salino & A.R.Sm.,accepted,synonym,exact,1729482
-Thelypteris patens (Sw.) Small,Pelazoneuron patens (Sw.) A.R.Sm. & S.E.Fawc.,Thelypteris patens (Sw.) Small,accepted,synonym,exact,1729500
 Thelypteris subpubescens (Blume) K.Iwats.,Christella subpubescens (Blume) Holttum,Thelypteris subpubescens (Blume) K.Iwats.,accepted,synonym,exact,1729501
 Thelypteris juruensis (C.Chr.) R.M.Tryon & D.S.Conant,Goniopteris juruensis (C.Chr.) Brade,Thelypteris juruensis (C.Chr.) R.M.Tryon & D.S.Conant,accepted,synonym,exact,1729505
 Thelypteris tristis (Kunze) R.M.Tryon,Goniopteris tristis (Kunze) Brade,Thelypteris tristis (Kunze) R.M.Tryon,accepted,synonym,exact,1729510
@@ -6648,10 +6659,11 @@ Thelypteris kunthii (Desv.) C.V.Morton,Pelazoneuron kunthii (Desv.) A.R.Sm. & S.
 Onychium tibeticum Ching & S.K.Wu,Onychium lucidum (D.Don) Spreng.,Onychium tibeticum Ching & S.K.Wu,accepted,synonym,exact,1755739
 Arthrobotrya brightiae (F.Muell.) Pic.Serm.,Teratophyllum brightiae Holttum,Arthrobotrya brightiae (F.Muell.) Pic.Serm.,accepted,synonym,exact,1776215
 Arachniodes neohunanensis Nakaike,Arachniodes blinii (H.Lév.) Nakaike,Arachniodes neohunanensis Nakaike,accepted,synonym,exact,1776221
-Polystichopsis macrostegia (Hook.) Nakaike,Olfersia macrostegia (Hook.) comb. ined.,Polystichopsis macrostegia (Hook.) Nakaike,accepted,synonym,exact,1780133
-Polystichopsis ochropteroides (Baker) C.V.Morton,Olfersia ochropteroides (Baker) comb. ined.,Polystichopsis ochropteroides (Baker) C.V.Morton,accepted,synonym,exact,1780134
+Polystichopsis macrostegia (Hook.) Nakaike,Arachniodes macrostegia (Hook.) R.M.Tryon & D.S.Conant,Polystichopsis macrostegia (Hook.) Nakaike,accepted,synonym,exact,1780133
+Polystichopsis ochropteroides (Baker) C.V.Morton,Arachniodes ochropteroides (Baker) Lellinger,Polystichopsis ochropteroides (Baker) C.V.Morton,accepted,synonym,exact,1780134
 Olfersia corcovadensis Raddi,Olfersia cervina Kunze,Olfersia corcovadensis Raddi,accepted,synonym,exact,1780140
-Polybotrya aucuparia Christ,Polybotrya polybotryoides (Baker) Christ.,Polybotrya aucuparia Christ,accepted,synonym,exact,1780144
+Polybotrya aucuparia Christ,Polybotrya polybotryoides (Baker) Christ,Polybotrya aucuparia Christ,accepted,synonym,exact,1780144
+Cyathea andina Domin,NA,Cyathea andina (H.Karst.) Domin,NA,synonym,auto_basio-,1793797
 Polystichum castaneum (C.B.Clarke) B.K.Nayar & S.Kaur,Polystichum prescottianum (Wall. ex Mett.) T.Moore,Polystichum castaneum (C.B.Clarke) B.K.Nayar & S.Kaur,accepted,synonym,exact,1811153
 Polystichum frigidicola H.S.Kung & Li Bing Zhang,Polystichum shensiense Christ,Polystichum frigidicola H.S.Kung & Li Bing Zhang,accepted,synonym,exact,1811157
 Polystichum sozanense Ching ex H.S.Kung & Li Bing Zhang,Polystichum parvipinnulum Tagawa,Polystichum sozanense Ching ex H.S.Kung & Li Bing Zhang,accepted,synonym,exact,1811168
@@ -6769,14 +6781,10 @@ Thelypteris amphioxypteris (Sodiro) A.R.Sm.,Amauropelta amphioxypteris (Sodiro) 
 "Amauropelta basisceletica (C.Sanchez, Caluff & Alvarez, O.) Salino & T.E.Almeida","Amauropelta basisceletica (C.Sánchez, Caluff & O.Alvarez) O.Alvarez","Amauropelta basisceletica (C.Sánchez, Caluff & O.Alvarez) Salino & T.E.Almeida",accepted,synonym,auto_basexin,2516306
 Thelypteris corazonensis (Baker) A.R.Sm.,Amauropelta corazonensis (Baker) Salino & T.E.Almeida,Thelypteris corazonensis (Baker) A.R.Sm.,accepted,synonym,exact,2516307
 Thelypteris firma (Baker) Proctor,Amauropelta firma (Baker ex Jenman) O.Alvarez,Thelypteris firma (Baker ex Jenman) Proctor,accepted,synonym,auto_basexin,2516308
-Thelypteris germaniana (Fee) Proctor,Amauropelta germaniana (Fée) O.Alvarez,Thelypteris germaniana (Fée) Proctor,accepted,synonym,auto_punct,2516309
+Amauropelta germaniana (Fee) Salino & T.E.Almeida,Amauropelta germaniana (Fée) O.Alvarez,Amauropelta germaniana (Fée) Salino & T.E.Almeida,accepted,synonym,auto_punct,2516309
 Dryopteris glandulosolanosa C. Chr.,Amauropelta glandulosolanosa (C.Chr.) Salino & T.E.Almeida,Dryopteris glandulosa-lanosa C.Chr.,accepted,synonym,manual,2516310
 Amauropelta inabonensis (Proctor) Salino & T.E.Almeida,Amauropelta inabonensis (Proctor) O.Alvarez,Amauropelta inabonensis (Proctor) Salino & T.E.Almeida,accepted,synonym,exact,2516312
-Thelypteris opposita (Vahl) Ching,Amauropelta opposita (Vahl) Pic.Serm.,Thelypteris opposita (Vahl) Ching,accepted,synonym,exact,2516313
-Thelypteris pilosula (Klotzsch ex H.Karst. ex Mett.) R.M.Tryon,Amauropelta pilosula (Mett.) Á.Löve & D.Löve,Thelypteris pilosula (Mett.) R.M.Tryon,accepted,synonym,auto_basexin,2516314
 Dryopteris rosenstockii C. Chr.,Amauropelta rosenstockii (C.Chr.) Salino & T.E.Almeida,Dryopteris rosenstockii C.Chr.,accepted,synonym,auto_punct,2516316
-Thelypteris rudis (Kunze) Proctor,Amauropelta rudis (Kunze) Pic.Serm.,Thelypteris rudis (Kunze) Proctor,accepted,synonym,exact,2516317
-Thelypteris rufa (Poir.) A.R.Sm.,Amauropelta rufa (Poir.) Salino & T.E.Almeida,Thelypteris rufa (Poir.) A.R.Sm.,accepted,synonym,exact,2516318
 Thelypteris sancta (L.) Ching,"Amauropelta cruciata (L.) Boudrie, Cremers & Viane",Thelypteris sancta (L.) Ching,accepted,synonym,exact,2516319
 Arachniodes aristatissima Ching,Arachniodes simplicior (Makino) Ohwi,Arachniodes aristatissima Ching,accepted,synonym,exact,2520576
 Arachniodes attenuata Ching,Arachniodes jinpingensis Y.T.Hsieh,Arachniodes attenuata Ching,accepted,synonym,exact,2520577
@@ -6883,13 +6891,10 @@ Hypolepis aspera C.Presl,Hypolepis sparsisora (Schrad.) Kuhn,Hypolepis aspera (K
 Hypolepis rugosula var. poeppigii C.Chr. & Skottsb.,Hypolepis poeppigii (Kunze) R.Rodr.,Hypolepis rugosula var. poeppigii C.Chr. & Skottsb.,accepted,synonym,exact,2746418
 Blotiella lindeniana (Hook.) R.M.Tryon,"Blotiella aurita (L.) Boudrie, Cremers & Viane",Blotiella lindeniana (Hook.) R.M.Tryon,accepted,synonym,exact,2746662
 Hypolepis mexicana Liebm.,Hypolepis repens (L.) C.Presl,Hypolepis mexicana Liebm.,accepted,synonym,exact,2747883
-Polystichopsis argillicola Proctor,Olfersia ochropteroides (Baker) comb. ined.,Polystichopsis argillicola Proctor,accepted,synonym,exact,2749839
+Polystichopsis argillicola Proctor,Arachniodes ochropteroides (Baker) Lellinger,Polystichopsis argillicola Proctor,accepted,synonym,exact,2749839
 Dryopteris atrovirens C. Chr.,Amauropelta atrovirens (C.Chr.) Salino & T.E.Almeida,Dryopteris atrovirens C.Chr.apud Christ,accepted,synonym,manual,2757718
 Thelypteris ensifera (Tagawa) K.Iwats.,Christella ensifera (Tagawa) Holttum ex Kuo,Thelypteris ensifera (Tagawa) K.Iwats.,accepted,synonym,exact,2757810
 Dryopteris biformata Rosenst.,Goniopteris biformata (Rosenst.) Salino & T.E.Almeida,Dryopteris biformata Rosenst.,accepted,synonym,exact,2757841
-Thelypteris obliterata (Sw.) Proctor,Goniopteris obliterata (Sw.) C.Presl,Thelypteris obliterata (Sw.) Proctor,accepted,synonym,exact,2757888
-Thelypteris trichopoda (C.Chr.) K.Iwats. & M.Kato,Mesophlebion trichopodum (C.Chr.) Holttum,Thelypteris trichopoda (C.Chr.) K.Iwats. & M.Kato,accepted,synonym,exact,2757917
-Thelypteris producta (Kaulf.) C.F.Reed,Sphaerostephanos productus (Kaulf.) Holttum,Thelypteris producta (Kaulf.) C.F.Reed,accepted,synonym,exact,2757980
 Dryopteris ramosii Christ,Grypothrix ramosii (Christ) S.E.Fawc. & A.R.Sm.,Dryopteris ramosii Christ,accepted,synonym,exact,2758490
 Thelypteris ovata R.P.St.John,Pelazoneuron ovatum (R.P.St.John) A.R.Sm. & S.E.Fawc.,Thelypteris ovata R.P.St.John,accepted,synonym,exact,2758507
 Tectaria andina (Baker) C.Chr.,Tectaria incisa Cav.,Tectaria andina (Baker) C.Chr.,accepted,synonym,exact,2769822
@@ -6948,7 +6953,6 @@ Bolbitis cuspidata (Pr.) Ching in C.Chr.,Bolbitis heteroclita (Pr.) Ching,Bolbit
 Bolbitis hookeriana K.Iwats.,Bolbitis nodiflora (Bory) Fraser-Jenk.,Bolbitis hookeriana K.Iwats.,accepted,synonym,exact,2983774
 Bolbitis longiaurita F.G.Wang & F.W.Xing,Bolbitis sinensis (Baker) K.Iwats.,Bolbitis longiaurita F.G.Wang & F.W.Xing,accepted,synonym,exact,2983775
 Dryopteris laetevirens Rosenst.,Ctenitis laetevirens (Rosenst.) Salino & Morais,Dryopteris laetevirens Rosenst.,accepted,synonym,exact,3004216
-Thelypteris pilosohispida (Hook.) Alston,Amauropelta pilosohispida (Hook.) A.R.Sm.,Thelypteris pilosohispida (Hook.) Alston,accepted,synonym,exact,3015612
 Dryopteris anniesii Rosenst.,Ctenitis anniesii (Rosenst.) Copel.,Dryopteris anniesii Rosenst.,accepted,synonym,exact,3023343
 "Boonkerdia khaoluangensis (Tagawa & K.Iwats.) Li Bing Zhang, Pollawatn, X.M.Zhou & Liang Zhang",Boonkerdia cornigera (Baker) Parris,"Boonkerdia khaoluangensis (Tagawa & K.Iwats.) Li Bing Zhang, Pollawatn, X.M.Zhou & Liang Zhang",accepted,synonym,exact,3037517
 Grammitis curtisii (Baker) Christenh.,Oreogrammitis curtisii (Baker) Parris & Sundue,Grammitis curtisii (Baker) Christenh.,accepted,synonym,exact,3037526
@@ -7011,7 +7015,6 @@ Phaneroloma pulchellum (Ching) G.S.Armstr. & D.J.Ohlsen,Grammitis wattsii Copel.
 Lastreopsis nephrodioides (Baker) Tindale,Parapolystichum nephrodioides (Baker) Perrie,Lastreopsis nephrodioides (Baker) Tindale,accepted,synonym,exact,3697150
 Polystichum fibrilloso-paleaceum (Kodama) Tagawa,Polystichum fibrillosopaleaceum (Kodama) Tagawa,Polystichum fibrillosopaleaceum (Kodama) Tagawa,accepted,accepted,auto_punct,207860
 Campyloneurum talamancanum R.C.Moran & Labiak,Campyloneurum talamancanum R.C.Moran & Labiak,Campyloneurum talamancanum R.C.Moran & Labiak,accepted,accepted,exact,2080821
-Amauropelta rudis var. rudis (Kunze) Pic.Serm.,Amauropelta rudis (Kunze) Pic.Serm.,Amauropelta rudis (Kunze) Pic.Serm.,accepted,accepted,exact,2516323
 Microtrichomanes taeniatum (Copel.) Copel.,Hymenophyllum digitatum (Sw.) Fosberg,Microtrichomanes taeniatum (Copel.) Copel.,accepted,synonym,exact,160856
 Trichomanes taeniatum Copel.,Hymenophyllum digitatum (Sw.) Fosberg,Trichomanes taeniatum Copel.,accepted,synonym,exact,160856
 Davallodes hirsuta (J.Sm.) Copel.,Davallia hirsuta (J.Sm.) Alderw.,Davallodes hirsuta (J.Sm.) Copel.,accepted,synonym,exact,194876
